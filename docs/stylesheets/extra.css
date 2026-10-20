@@ -70,6 +70,17 @@
 .md-source {
   color: var(--ymd-foreground);
 }
+/* Ikon kaca pembesar dan tombol hapus di kolom Cari (bawaan tema berwarna putih) */
+.md-search__input + .md-search__icon,
+.md-search__icon,
+.md-search__icon svg,
+.md-search__options > .md-icon {
+  color: var(--ymd-foreground);
+  fill: currentColor;
+}
+.md-search__input::placeholder {
+  color: oklch(0.51 0.042 64.9 / 0.7);
+}
 
 /* Menu samping */
 .md-nav__item .md-nav__link--active,

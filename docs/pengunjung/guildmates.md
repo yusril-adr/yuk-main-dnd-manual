@@ -48,11 +48,11 @@ Kalau daftar gagal dimuat, muncul **The guild roll could not be fetched**. Klik 
 
 ## Kartu petualang (detail Guildmate)
 
-**Untuk apa:** melihat kartu petualang seseorang: EXP-nya, sejak kapan bergabung, kisahnya, dan Quest yang pernah ia ikuti atau pimpin.
+**Untuk apa:** melihat kartu petualang seseorang: EXP-nya, sejak kapan bergabung, kisahnya, dan Story yang pernah ia ikuti atau pimpin.
 
 **Siapa yang bisa membuka:** semua orang.
 
-**Cara membuka:** klik nama seseorang di mana saja (daftar Guildmates, papan Legends, daftar party, atau nama Dungeon Master di sebuah Quest).
+**Cara membuka:** klik nama seseorang di mana saja (daftar Guildmates, papan Legends, daftar party, atau nama Dungeon Master di sebuah Story).
 
 ![Kartu petualang berisi nama, role, XP sebagai DM dan Hero, tombol Print card, dan Quest Log](../images/pengunjung-guildmates-detail-1.png)
 
@@ -66,7 +66,7 @@ Halaman ini berisi:
   - **Total XP**,
   - **Guild member since** (tanggal bergabung).
 - **The Adventurer's Tale**: bio singkat, kalau sudah diisi.
-- **Quest Log**: daftar Quest yang terkait dengan orang ini.
+- **Quest Log**: daftar Story yang terkait dengan orang ini.
 
 ### Mencetak kartu petualang
 
@@ -76,10 +76,10 @@ Halaman ini berisi:
 
 ### Melihat Quest Log
 
-1. Pilih tab **Quests joined** (Quest yang ia ikuti sebagai anggota) atau **Quests led** (Quest yang ia jalankan sebagai Dungeon Master).
-2. Setiap kartu Quest menampilkan status (misalnya **Recruiting** atau **Completed**), jenis, lokasi, cuplikan cerita, tanggal mulai, jumlah yang bergabung, jatah pemain, dan nama Dungeon Master.
-3. Klik **Load more** untuk menampilkan Quest berikutnya.
+1. Pilih tab **Stories joined** (Story yang ia ikuti sebagai anggota) atau **Stories led** (Story yang ia jalankan sebagai Dungeon Master).
+2. Setiap kartu Story menampilkan status (misalnya **Recruiting** atau **Completed**), jenis, lokasi, cuplikan cerita, tanggal mulai, jumlah yang bergabung, jatah pemain, dan nama Dungeon Master.
+3. Klik **Load more** untuk menampilkan Story berikutnya.
 
-Kalau belum ada, muncul **No quests joined yet. The road is still open.** atau **No quests led yet. Their first tale awaits.**
+Kalau belum ada, muncul **No stories joined yet. The road is still open.** atau **No stories led yet. Their first tale awaits.**
 
 Kalau orang yang dicari tidak ada, kamu akan melihat halaman **Page not found**.

@@ -50,17 +50,17 @@ nav:
       - "Mulai di sini: masuk, keluar, dan navigasi": getting-started.md
   - Untuk pengunjung:
       - Beranda: pengunjung/beranda.md
-      - Papan Quest dan detail Quest: pengunjung/quest.md
+      - Papan Story dan detail Story: pengunjung/quest.md
       - Guildmates dan kartu petualang: pengunjung/guildmates.md
       - Events dan Goods (segera hadir): pengunjung/event-dan-barang.md
   - Untuk pemain:
       - Memilih role (Switch Role): pemain/ganti-role.md
-      - Dashboard dan Quest-ku (My Stories): pemain/dashboard.md
+      - Dashboard dan Story-ku (My Stories): pemain/dashboard.md
       - Saldo EXP dan Gold (Balances): pemain/saldo.md
       - Profil dan Pengaturan (Settings): pemain/profil-dan-pengaturan.md
   - Untuk Dungeon Master:
       - "Ikhtisar: masuk sebagai DM dan menu Master": dungeon-master/ikhtisar.md
-      - Mengelola Quest (Stories): dungeon-master/story.md
+      - Mengelola Story (Stories): dungeon-master/story.md
   - Bantuan:
       - Pertanyaan yang sering diajukan: faq.md
       - Kalau ada masalah: troubleshooting.md

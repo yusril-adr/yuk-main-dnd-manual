@@ -1,6 +1,6 @@
 # Ikhtisar untuk Dungeon Master
 
-Bagian ini untuk kamu yang menjalankan Quest sebagai **Dungeon Master** (DM). Sebagai DM, kamu bisa membuat Quest baru, menerbitkannya di papan Quest, mengatur anggota party, lalu menyelesaikannya dan membagikan hadiah.
+Bagian ini untuk kamu yang menjalankan Story sebagai **Dungeon Master** (DM). Sebagai DM, kamu bisa membuat Story baru, menerbitkannya di papan Story, mengatur anggota party, lalu menyelesaikannya dan membagikan hadiah.
 
 ## Masuk sebagai Dungeon Master
 
@@ -14,16 +14,16 @@ Dengan role Dungeon Master, menu samping Dashboard berisi:
 
 - logo **YukMainDnD** (kembali ke Beranda),
 - **Dashboard**: halaman sambutan bertuliskan "Welcome, (namamu)",
-- kelompok **Master** dengan satu menu: **Stories**, tempat kamu mengelola Quest,
+- kelompok **Master** dengan satu menu: **Stories**, tempat kamu mengelola Story,
 - kartu nama di bagian bawah untuk membuka menu avatar.
 
 ![Dashboard dengan menu samping Dungeon Master: Dashboard dan kelompok Master berisi Stories](../images/dm-navigasi-1.png)
 
-> **Perlu kamu tahu:** Kelompok **Board** (halaman **My Stories**, **Events**, **Goods**) tidak tampil saat role Dungeon Master aktif. Untuk melihat Quest yang kamu ikuti sebagai pemain, ganti dulu ke role Player.
+> **Perlu kamu tahu:** Kelompok **Board** (halaman **My Stories**, **Events**, **Goods**) tidak tampil saat role Dungeon Master aktif. Untuk melihat Story yang kamu ikuti sebagai pemain, ganti dulu ke role Player.
 
 ## Halaman di bagian ini
 
-- [Mengelola Quest (Stories)](story.md)
+- [Mengelola Story (Stories)](story.md)
 
 ## Pola yang sama di halaman Stories
 

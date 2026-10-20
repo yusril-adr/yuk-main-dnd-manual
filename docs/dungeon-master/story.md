@@ -1,16 +1,16 @@
-# Mengelola Quest (Stories)
+# Mengelola Story (Stories)
 
-Di Dashboard, Quest disebut **Story**. Halaman ini untuk Dungeon Master yang membuat, menerbitkan, dan menyelesaikan Quest.
+Halaman ini untuk Dungeon Master yang membuat, menerbitkan, dan menyelesaikan Story.
 
 > **Story milikmu vs. milik DM lain.** Di daftar Stories kamu juga bisa melihat Story yang ditulis DM lain, tapi untuk Story itu kamu hanya bisa membukanya (**View**). Tombol untuk mengubah, menerbitkan, menyelesaikan, membatalkan, mengarsipkan, menghapus, dan mengatur anggota hanya muncul di Story yang kamu tulis sendiri.
 
-## Perjalanan sebuah Quest
+## Perjalanan sebuah Story
 
 Setiap Story punya status:
 
 | Status | Artinya |
 | --- | --- |
-| **Draft** | Masih disiapkan, belum tampil di papan Quest publik |
+| **Draft** | Masih disiapkan, belum tampil di papan Story publik |
 | **Published** | Sudah terbit dan menerima anggota (di papan publik tampil sebagai **Recruiting**) |
 | **Completed** | Sudah selesai; peserta yang hadir sudah dihadiahi. Tidak bisa diubah lagi. |
 | **Cancelled** | Dibatalkan. Tidak bisa dibatalkan balik, tidak bisa diubah, dan anggotanya tidak bisa ditambah atau dikurangi. |
@@ -60,8 +60,8 @@ Klik ikon titik tiga (**Story actions**) di kartu. Untuk Story milik DM lain, pi
 1. Di halaman **Stories**, klik **Add Story** di pojok kanan atas.
 2. Di halaman **Create Story**, isi form (lihat tabel).
 3. Pilih cara menyimpan:
-   - **Save as Draft**: simpan dulu tanpa menerbitkan. Muncul pesan **Story created** dan kamu kembali ke daftar Stories. Story berstatus **Draft** dan belum tampil di papan Quest publik. Kamu bisa menerbitkannya nanti.
-   - **Publish**: simpan dan langsung terbitkan, tanpa jendela konfirmasi. Muncul pesan **Creating story...** lalu **Story created**, dan kamu kembali ke daftar Stories. Story berstatus **Published** dan tampil di papan Quest publik sebagai **Recruiting**, sehingga pemain bisa langsung bergabung.
+   - **Save as Draft**: simpan dulu tanpa menerbitkan. Muncul pesan **Story created** dan kamu kembali ke daftar Stories. Story berstatus **Draft** dan belum tampil di papan Story publik. Kamu bisa menerbitkannya nanti.
+   - **Publish**: simpan dan langsung terbitkan, tanpa jendela konfirmasi. Muncul pesan **Creating story...** lalu **Story created**, dan kamu kembali ke daftar Stories. Story berstatus **Published** dan tampil di papan Story publik sebagai **Recruiting**, sehingga pemain bisa langsung bergabung.
 
 Klik **Cancel** untuk kembali tanpa menyimpan.
 
@@ -71,7 +71,7 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 | --- | --- | --- |
 | Banner | Tidak | Klik **Choose file**. Gambar JPG, PNG, atau WebP, maksimal 5 MB. Disarankan rasio 16:10 (misalnya 1600 × 1000 px) dengan objek utama di tengah, karena tepinya terpotong di halaman publik. |
 | Title | Ya | Maksimal 150 karakter, harus berisi minimal satu huruf atau angka |
-| Description | Tidak | Cerita Quest, maksimal 5000 karakter (penghitung seperti "0 / 5000" tampil di bawah kotak) |
+| Description | Tidak | Cerita Story, maksimal 5000 karakter (penghitung seperti "0 / 5000" tampil di bawah kotak) |
 | Type | Ya | **Oneshot** atau **Campaign** |
 | Game System | Tidak | Maksimal 100 karakter, misalnya "DnD 5e 2014" |
 | Max Members | Tidak | Bilangan bulat minimal 1. Ini jatah pemain yang dihadiahi; anggota lain tetap bisa ikut sebagai penonton. Kosongkan kalau tanpa batas. |
@@ -85,7 +85,7 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 
 Di kolom **Type**, pilih **Oneshot** atau **Campaign**. Di kolom **Location Type**, pilih **Online** atau **Offline**.
 
-### Menulis cerita Quest
+### Menulis cerita Story
 
 Kotak **Description** punya bilah alat untuk merapikan tulisan:
 
@@ -124,17 +124,17 @@ Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150
 
 **Cara membuka:** klik judul Story di daftar, atau pilih **View** dari ikon titik tiga di kartunya.
 
-![Story Detail sebuah Draft milik DM lain, dengan Quest Details, Adventure Info, dan Chronicle, tanpa tombol aksi](../images/dm-stories-detail-1.png)
+![Story Detail sebuah Draft milik DM lain, dengan Story Details, Adventure Info, dan Chronicle, tanpa tombol aksi](../images/dm-stories-detail-1.png)
 
 Halaman **Story Detail** berisi:
 
-- Sampul: gambar, judul, status, jenis, dan alamat pendek Quest (misalnya "/bathroom-of-tragedy").
-- **Quest Details**: cerita Quest (atau **No description has been written for this quest yet.**), dengan tombol salin untuk Discord.
+- Sampul: gambar, judul, status, jenis, dan alamat pendek Story (misalnya "/bathroom-of-tragedy").
+- **Story Details**: cerita Story (atau **No description has been written for this story yet.**), dengan tombol salin untuk Discord.
 - **Adventure Info**: **Game System**, **Party Size**, **Rewards**, **Starts**, dan lokasi.
 - **Chronicle**: siapa yang menulis dan kapan dibuat serta terakhir diubah.
 - **Party**: anggota party (atau **No adventurers have joined this party yet.**).
 
-Isinya sama dengan [detail Quest di Board](../pemain/dashboard.md#detail-quest-di-board-story-detail). Di Story yang kamu tulis, ada tambahan tombol aksi di samping judul (di layar kecil, di balik ikon titik tiga). Di Story milik DM lain, tombol itu tidak ada.
+Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-di-board-story-detail). Di Story yang kamu tulis, ada tambahan tombol aksi di samping judul (di layar kecil, di balik ikon titik tiga). Di Story milik DM lain, tombol itu tidak ada.
 
 > Bagian di bawah ini (mengubah, mengubah status, menyelesaikan, dan mengatur anggota) hanya berlaku untuk **Story yang kamu tulis sendiri**.
 
@@ -164,7 +164,7 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 2. Jendela **Publish story?** muncul: **The story will be marked as published.**
 3. Klik **Publish**.
 
-**Hasilnya:** muncul pesan **Publishing story...** lalu **Story published**. Story tampil di papan Quest publik sebagai **Recruiting** dan pemain bisa bergabung.
+**Hasilnya:** muncul pesan **Publishing story...** lalu **Story published**. Story tampil di papan Story publik sebagai **Recruiting** dan pemain bisa bergabung.
 
 ### Mengarsipkan (Archive)
 
@@ -194,7 +194,7 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 
 **Hasilnya:** muncul pesan **Story cancelled**.
 
-> **Hati-hati:** Di jendela **Cancel story?**, tombol **Cancel** berarti "tutup jendela", sedangkan **Cancel story** berarti benar-benar membatalkan Quest. Pembatalan Quest tidak bisa dibatalkan balik.
+> **Hati-hati:** Di jendela **Cancel story?**, tombol **Cancel** berarti "tutup jendela", sedangkan **Cancel story** berarti benar-benar membatalkan Story. Pembatalan Story tidak bisa dibatalkan balik.
 
 ### Menghapus (Delete)
 
@@ -202,11 +202,11 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 2. Jendela **Delete story?** muncul: **This action cannot be undone. The story will be removed from the system.**
 3. Klik **Delete**.
 
-**Hasilnya:** muncul pesan **Deleting story...** lalu **Story deleted**. Story hilang dari daftar dan dari papan Quest.
+**Hasilnya:** muncul pesan **Deleting story...** lalu **Story deleted**. Story hilang dari daftar dan dari papan Story.
 
 ## Menyelesaikan Story dan membagi hadiah
 
-**Untuk apa:** menandai Quest sudah selesai, mencatat siapa yang hadir, dan memberi mereka hadiah.
+**Untuk apa:** menandai Story sudah selesai, mencatat siapa yang hadir, dan memberi mereka hadiah.
 
 **Complete** hanya muncul di detail Story berstatus **Published**.
 

@@ -16,23 +16,23 @@ Kamu hanya diminta memilih role kalau akunmu belum punya role aktif. Pilih role 
 
 Menu di Dashboard mengikuti role yang sedang aktif. Dengan role **Player** kamu melihat kelompok **Board**; dengan role **Dungeon Master** kamu melihat kelompok **Master**. Ganti role lewat menu avatar (**Switch Role**). Kalau role yang kamu butuhkan tidak ada di pilihan, hubungi pengurus guild.
 
-### Quest-nya sudah penuh. Apakah aku masih bisa ikut?
+### Story-nya sudah penuh. Apakah aku masih bisa ikut?
 
 Bisa. Saat semua jatah pemain terisi, kamu tetap bisa bergabung sebagai penonton lewat tombol **Join as viewer**. Jatah pemain hanya menentukan berapa orang yang dihadiahi di akhir. Bicarakan dengan Dungeon Master kalau kamu ingin jadi pemain cadangan.
 
 ### Apa bedanya Registered, Enlisted, Viewer, dan Attended?
 
-- **Registered** (di papan Quest publik tampil sebagai **Enlisted**): kamu sudah mendaftar di party.
-- **Viewer**: kamu ikut sebagai penonton, atau tidak ditandai hadir saat Quest diselesaikan.
-- **Attended**: kamu ditandai hadir saat Quest diselesaikan dan menerima hadiahnya.
+- **Registered** (di papan Story publik tampil sebagai **Enlisted**): kamu sudah mendaftar di party.
+- **Viewer**: kamu ikut sebagai penonton, atau tidak ditandai hadir saat Story diselesaikan.
+- **Attended**: kamu ditandai hadir saat Story diselesaikan dan menerima hadiahnya.
 
 ### Kapan aku mendapat EXP dan Gold?
 
-Saat Dungeon Master menyelesaikan sebuah Quest dan menandaimu hadir, kamu menerima hadiah Quest itu. Semua catatannya bisa kamu lihat di [Saldo](pemain/saldo.md).
+Saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir, kamu menerima hadiah Story itu. Semua catatannya bisa kamu lihat di [Saldo](pemain/saldo.md).
 
-### Bisakah aku keluar dari Quest yang sudah kuikuti?
+### Bisakah aku keluar dari Story yang sudah kuikuti?
 
-Bisa, selama tombol **Leave the party** masih muncul di halaman Quest. Lihat [Keluar dari party](pengunjung/quest.md#keluar-dari-party).
+Bisa, selama tombol **Leave the party** masih muncul di halaman Story. Lihat [Keluar dari party](pengunjung/quest.md#keluar-dari-party).
 
 ### Kenapa semua tulisan di situs berbahasa Inggris?
 

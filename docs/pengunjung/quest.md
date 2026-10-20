@@ -1,22 +1,22 @@
-# Papan Quest dan detail Quest
+# Papan Story dan detail Story
 
-Di guild ini, sebuah sesi permainan disebut **Quest** (di menu ditulis **Stories**). Papan Quest adalah tempat kamu mencari meja yang masih mencari pemain.
+Di guild ini, sebuah sesi permainan disebut **Story** (di menu ditulis **Stories**). Papan Story (halaman **Stories**, berlabel **THE QUEST BOARD**) adalah tempat kamu mencari meja yang masih mencari pemain.
 
-## Papan Quest
+## Papan Story
 
-**Untuk apa:** melihat semua Quest yang sedang buka atau sudah selesai.
+**Untuk apa:** melihat semua Story yang sedang buka atau sudah selesai.
 
 **Siapa yang bisa membuka:** semua orang, tanpa perlu masuk.
 
-**Cara membuka:** klik **Stories** di bilah atas, atau **See quests** / **See all quests** di Beranda.
+**Cara membuka:** klik **Stories** di bilah atas, atau **See stories** / **See all stories** di Beranda.
 
-![Papan Quest dengan judul Seek thy next adventure, kolom pencarian, tombol Filters, tab All, Oneshot, Campaign, dan sebuah kartu Quest](../images/pengunjung-quest-1.png)
+![Papan Story dengan judul Seek thy next adventure, kolom pencarian, tombol Filters, tab All, Oneshot, Campaign, dan sebuah kartu Story](../images/pengunjung-quest-1.png)
 
-Di bagian atas ada label **THE QUEST BOARD**, judul **Seek thy next adventure**, dan jumlah Quest yang sedang tertempel, misalnya "1 quest pinned to the board".
+Di bagian atas ada label **THE QUEST BOARD**, judul **Seek thy next adventure**, dan jumlah Story yang sedang tertempel, misalnya "1 story pinned to the board".
 
-### Mencari Quest
+### Mencari Story
 
-1. Ketik judul Quest di kolom **Search quests by title (min. 3 characters)…**.
+1. Ketik judul Story di kolom **Search stories by title (min. 3 characters)…**.
 2. Tunggu sebentar. Hasil diperbarui otomatis setelah kamu mengetik minimal 3 huruf.
 
 Untuk kembali ke daftar lengkap, kosongkan kolom pencarian.
@@ -34,12 +34,12 @@ Di bawah kolom pencarian ada tab **All**, **Oneshot**, dan **Campaign**. Klik sa
 
 Angka kecil di tombol **Filters** menunjukkan berapa saringan yang sedang aktif. Klik **Clear** di dalam panel untuk menghapus saringan status dan lokasi.
 
-### Membaca kartu Quest
+### Membaca kartu Story
 
 Setiap kartu menampilkan:
 
-- label status: **Recruiting** untuk Quest yang sedang buka, atau **Completed** untuk yang sudah selesai,
-- sistem permainan dan judul Quest (klik judul untuk membuka detail),
+- label status: **Recruiting** untuk Story yang sedang buka, atau **Completed** untuk yang sudah selesai,
+- sistem permainan dan judul Story (klik judul untuk membuka detail),
 - jenis (**Oneshot** atau **Campaign**) dan lokasi (**Online** atau **Offline**),
 - cuplikan cerita, atau **The tale is yet to be written…** kalau belum ada,
 - tanggal mulai (atau **Date to be proclaimed**) dan jumlah yang sudah bergabung, misalnya "5 joined",
@@ -48,29 +48,29 @@ Setiap kartu menampilkan:
 
 ### Berpindah halaman
 
-Setiap halaman memuat 12 Quest. Di bawah daftar ada tulisan seperti "Showing 1–12 of 30 stories". Klik nomor halaman atau panah kiri dan kanan untuk berpindah.
+Setiap halaman memuat 12 Story. Di bawah daftar ada tulisan seperti "Showing 1–12 of 30 stories". Klik nomor halaman atau panah kiri dan kanan untuk berpindah.
 
-![Bagian bawah papan Quest dengan tulisan Showing 1–1 of 1 stories dan tombol nomor halaman](../images/pengunjung-quest-2.png)
+![Bagian bawah papan Story dengan tulisan Showing 1–1 of 1 stories dan tombol nomor halaman](../images/pengunjung-quest-2.png)
 
 ### Kalau tidak ada hasil
 
-- Kalau pencarian atau saringanmu tidak cocok dengan Quest mana pun, muncul **No quests found** dan tombol **Clear search & filters**.
-- Kalau memang belum ada Quest, muncul **The quest board is empty for now. Return soon, adventurer.**
+- Kalau pencarian atau saringanmu tidak cocok dengan Story mana pun, muncul **No stories found** dan tombol **Clear search & filters**.
+- Kalau memang belum ada Story, muncul **The quest board is empty for now. Return soon, adventurer.**
 - Kalau papan gagal dimuat, muncul **The scrolls could not be fetched**. Klik **Try again**.
 
-## Detail Quest
+## Detail Story
 
-**Untuk apa:** membaca cerita lengkap sebuah Quest, melihat siapa saja yang ikut, lalu bergabung atau keluar dari party.
+**Untuk apa:** membaca cerita lengkap sebuah Story, melihat siapa saja yang ikut, lalu bergabung atau keluar dari party.
 
 **Siapa yang bisa membuka:** semua orang. Untuk bergabung, kamu harus masuk dulu.
 
-**Cara membuka:** klik judul Quest di papan Quest, di Beranda, atau di kartu petualang seseorang.
+**Cara membuka:** klik judul Story di papan Story, di Beranda, atau di kartu petualang seseorang.
 
-![Detail Quest dengan label Recruiting, Oneshot, Offline, panel The Quest Scroll, dan tombol Join the party](../images/pengunjung-quest-detail-1.png)
+![Detail Story dengan label Recruiting, Oneshot, Offline, panel The Quest Scroll, dan tombol Join the party](../images/pengunjung-quest-detail-1.png)
 
 Halaman ini berisi:
 
-- Bagian atas: gambar Quest, label status (misalnya **Recruiting**), jenis (misalnya **Oneshot**), lokasi (misalnya **Offline**), sistem permainan, dan judul. Klik **All stories** di pojok kiri atas untuk kembali ke papan Quest.
+- Bagian atas: gambar Story, label status (misalnya **Recruiting**), jenis (misalnya **Oneshot**), lokasi (misalnya **Offline**), sistem permainan, dan judul. Klik **All stories** di pojok kiri atas untuk kembali ke papan Story.
 - **The Quest Scroll** (ringkasan):
   - **Starts**: hari dan jam mulai, atau **To be announced**.
   - **Player slots**: misalnya "Only 4 heroes can play. Once full, you can still join as a viewer.", atau **No limit set**.
@@ -79,7 +79,7 @@ Halaman ini berisi:
   - Hadiah **Experience** (XP) dan **Gold** (GP), kalau ada.
   - Tombol bergabung atau keluar (lihat di bawah).
   - Nama **Dungeon Master**.
-- **The Tale**: cerita lengkap Quest, atau **No description has been written for this quest yet.**
+- **The Tale**: cerita lengkap Story, atau **No description has been written for this story yet.**
 - **The Party**: daftar petualang yang sudah bergabung, misalnya "5 adventurers have joined · only 4 can play, the rest join as viewers". Setiap orang punya label **Enlisted** (terdaftar), **Attended** (hadir), atau **Viewer** (penonton). Klik **Show more adventurers (… more)** untuk memuat lebih banyak. Kalau belum ada yang ikut, muncul **No adventurers have joined yet**.
 - **Chronicle**: tanggal **Posted** (diterbitkan) dan **Last updated** (terakhir diubah).
 
@@ -89,10 +89,10 @@ Di ponsel, tombol bergabung tampil di bilah bawah layar.
 
 ### Bergabung dengan party
 
-**Siapa:** pemain yang sudah masuk, untuk Quest yang menerima anggota baru.
+**Siapa:** pemain yang sudah masuk, untuk Story yang menerima anggota baru.
 
-1. Buka detail Quest.
-2. Kalau kamu belum masuk, tombolnya bertuliskan **Join the party** dengan catatan **Log in to enlist in this quest.** Klik tombol itu, masuk ke akunmu, dan kamu akan dikembalikan ke halaman Quest ini.
+1. Buka detail Story.
+2. Kalau kamu belum masuk, tombolnya bertuliskan **Join the party** dengan catatan **Log in to enlist in this story.** Klik tombol itu, masuk ke akunmu, dan kamu akan dikembalikan ke halaman Story ini.
 3. Klik **Join the party**. Kamu langsung bergabung tanpa jendela konfirmasi.
 4. Kalau semua jatah pemain sudah terisi, muncul jendela **The party is full**. Kamu tetap bisa ikut sebagai penonton:
    - klik **Join as viewer** untuk ikut sebagai penonton, atau
@@ -100,21 +100,21 @@ Di ponsel, tombol bergabung tampil di bilah bawah layar.
 
    Bicarakan dengan Dungeon Master kalau kamu ingin menjadi pemain cadangan.
 
-**Hasilnya:** muncul pesan **Welcome to the party, adventurer!** dan namamu masuk ke daftar **The Party**. Tombolnya berganti menjadi **Leave the party**, dan catatan di bawahnya berubah menjadi **Thou art enlisted in this quest.** Quest ini juga muncul di halaman [My Stories](../pemain/dashboard.md#quest-ku-my-stories).
+**Hasilnya:** muncul pesan **Welcome to the party, adventurer!** dan namamu masuk ke daftar **The Party**. Tombolnya berganti menjadi **Leave the party**, dan catatan di bawahnya berubah menjadi **Thou art enlisted in this story.** Story ini juga muncul di halaman [My Stories](../pemain/dashboard.md#story-ku-my-stories).
 
-> **Perlu kamu tahu:** Siapa pun boleh bergabung. Jatah pemain hanya menentukan berapa orang yang akan dihadiahi saat Quest selesai. Dungeon Master yang menentukan siapa yang hadir di akhir.
+> **Perlu kamu tahu:** Siapa pun boleh bergabung. Jatah pemain hanya menentukan berapa orang yang akan dihadiahi saat Story selesai. Dungeon Master yang menentukan siapa yang hadir di akhir.
 
 ### Keluar dari party
 
-1. Buka detail Quest yang sudah kamu ikuti.
+1. Buka detail Story yang sudah kamu ikuti.
 2. Klik **Leave the party**.
-3. Jendela **Leave the party?** muncul dengan pesan "Thou shalt be struck from the roster of “(judul Quest)”. Thou may rejoin while the quest is still open."
+3. Jendela **Leave the party?** muncul dengan pesan "Thou shalt be struck from the roster of “(judul Story)”. Thou may rejoin while the story is still open."
 4. Klik **Leave the party** untuk keluar, atau **Stay** untuk batal.
 
 ![Jendela Leave the party? dengan tombol Stay dan Leave the party](../images/pengunjung-quest-leave-1.png)
 
-**Hasilnya:** muncul pesan **You have left the party** dan namamu hilang dari daftar. Kamu bisa bergabung lagi selama Quest masih buka.
+**Hasilnya:** muncul pesan **You have left the party** dan namamu hilang dari daftar. Kamu bisa bergabung lagi selama Story masih buka.
 
 ### Kapan tombol tidak muncul
 
-Tombol bergabung dan keluar hanya muncul kalau aksinya memang tersedia untukmu saat itu. Contohnya, kalau kamu belum masuk, tombol **Join the party** hanya muncul di Quest yang sedang buka (**Recruiting**), tidak di Quest yang sudah **Completed**.
+Tombol bergabung dan keluar hanya muncul kalau aksinya memang tersedia untukmu saat itu. Contohnya, kalau kamu belum masuk, tombol **Join the party** hanya muncul di Story yang sedang buka (**Recruiting**), tidak di Story yang sudah **Completed**.

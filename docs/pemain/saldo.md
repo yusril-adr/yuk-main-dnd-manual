@@ -38,4 +38,4 @@ Riwayat diurutkan dari yang terbaru. Setiap halaman memuat 10 catatan. Di bawah 
 - Saringan tidak cocok: **No entries match**. Klik **Clear filter**.
 - Gagal dimuat: **Could not load the ledger**. Klik **Try again**.
 
-> **Dari mana EXP dan Gold berasal?** EXP dan Gold kamu dapatkan terutama saat Dungeon Master menyelesaikan sebuah Quest dan menandaimu hadir. Kamu tidak bisa mengubah saldo sendiri.
+> **Dari mana EXP dan Gold berasal?** EXP dan Gold kamu dapatkan terutama saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir. Kamu tidak bisa mengubah saldo sendiri.

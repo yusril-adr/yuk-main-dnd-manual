@@ -1,4 +1,4 @@
-# Dashboard dan Quest-ku
+# Dashboard dan Story-ku
 
 ## Dashboard
 
@@ -12,26 +12,26 @@ Kamu akan melihat judul **Dashboard** dan sapaan **Welcome, (namamu)**. Gunakan 
 
 ![Halaman Dashboard dengan sapaan Welcome dan menu samping](../images/pemain-dashboard-1.png)
 
-## Quest-ku (My Stories)
+## Story-ku (My Stories)
 
-**Untuk apa:** melihat semua Quest yang kamu ikuti, baik sebagai pemain maupun penonton.
+**Untuk apa:** melihat semua Story yang kamu ikuti, baik sebagai pemain maupun penonton.
 
 **Siapa yang bisa membuka:** pengguna dengan role Player yang aktif.
 
-**Cara membuka:** di menu samping, di bawah **Board**, klik **Stories**. Halaman yang terbuka berjudul **My Stories** dengan keterangan **Quests you have joined, as a player or a viewer.**
+**Cara membuka:** di menu samping, di bawah **Board**, klik **Stories**. Halaman yang terbuka berjudul **My Stories** dengan keterangan **Stories you have joined, as a player or a viewer.**
 
 ![Halaman My Stories yang masih kosong, dengan kolom pencarian, pilihan All statuses dan Any seat, serta tombol Browse stories](../images/pemain-my-stories-1.png)
 
-Halaman **My Stories** menampilkan kartu untuk setiap Quest yang kamu ikuti:
+Halaman **My Stories** menampilkan kartu untuk setiap Story yang kamu ikuti:
 
-- gambar sampul dan label status Quest (**Published**, **Completed**, **Cancelled**, atau **Archived**),
-- judul Quest (klik untuk membuka detail),
+- gambar sampul dan label status Story (**Published**, **Completed**, **Cancelled**, atau **Archived**),
+- judul Story (klik untuk membuka detail),
 - **Dungeon Master** (atau **Unknown DM**),
 - **Starts**: hari dan jam mulai (atau **Date to be announced**),
 - label posisimu di party: **Registered** (terdaftar), **Viewer** (penonton), atau **Attended** (hadir),
 - **Members**: jumlah anggota, misalnya "1 / 6" kalau ada jatah pemain.
 
-![Halaman My Stories berisi satu kartu Quest berstatus Published dengan label Registered dan jumlah anggota 1 / 6](../images/pemain-my-stories-2.png)
+![Halaman My Stories berisi satu kartu Story berstatus Published dengan label Registered dan jumlah anggota 1 / 6](../images/pemain-my-stories-2.png)
 
 ### Mencari dan menyaring
 
@@ -41,28 +41,28 @@ Halaman **My Stories** menampilkan kartu untuk setiap Quest yang kamu ikuti:
 
 Saringan langsung berlaku begitu kamu memilih.
 
-Setiap halaman memuat 12 Quest. Di bawah daftar ada tulisan seperti "Showing 1–1 of 1". Klik nomor halaman atau panah untuk berpindah.
+Setiap halaman memuat 12 Story. Di bawah daftar ada tulisan seperti "Showing 1–1 of 1". Klik nomor halaman atau panah untuk berpindah.
 
 ### Kalau daftarmu kosong
 
-- Kalau kamu belum ikut Quest apa pun, muncul **No stories yet** dengan catatan **Join a quest from the stories board and it will show up here.** Klik **Browse stories** untuk membuka [papan Quest](../pengunjung/quest.md) dan bergabung dengan sebuah party.
+- Kalau kamu belum ikut Story apa pun, muncul **No stories yet** dengan catatan **Join a story from the stories board and it will show up here.** Klik **Browse stories** untuk membuka [papan Story](../pengunjung/quest.md) dan bergabung dengan sebuah party.
 - Kalau saringanmu tidak cocok, muncul **No stories match**. Klik **Clear filters**.
 - Kalau gagal dimuat, muncul **Could not load your stories**. Klik **Try again**.
 
-## Detail Quest di Board (Story Detail)
+## Detail Story di Board (Story Detail)
 
-**Untuk apa:** melihat semua informasi tentang Quest yang kamu ikuti, termasuk detail tempat bermain dan daftar lengkap party.
+**Untuk apa:** melihat semua informasi tentang Story yang kamu ikuti, termasuk detail tempat bermain dan daftar lengkap party.
 
-**Siapa yang bisa membuka:** pengguna dengan role Player yang aktif, untuk Quest yang ia ikuti.
+**Siapa yang bisa membuka:** pengguna dengan role Player yang aktif, untuk Story yang ia ikuti.
 
-**Cara membuka:** klik judul Quest di halaman **My Stories**.
+**Cara membuka:** klik judul Story di halaman **My Stories**.
 
-![Story Detail sebuah Quest yang kamu ikuti, dengan label Published dan Oneshot, Quest Details, dan Adventure Info](../images/pemain-story-detail-1.png)
+![Story Detail sebuah Story yang kamu ikuti, dengan label Published dan Oneshot, Story Details, dan Adventure Info](../images/pemain-story-detail-1.png)
 
 Halaman **Story Detail** berisi:
 
-- Sampul: gambar, judul, status, dan jenis Quest.
-- **Quest Details**: cerita lengkap Quest (atau **No description has been written for this quest yet.**).
+- Sampul: gambar, judul, status, dan jenis Story.
+- **Story Details**: cerita lengkap Story (atau **No description has been written for this story yet.**).
 - **Adventure Info**:
   - **Game System** (atau **Any system**),
   - **Party Size**, misalnya "Up to 6 adventurers" (atau **No limit**),
@@ -74,9 +74,9 @@ Halaman **Story Detail** berisi:
 
 Klik panah kiri di sebelah judul, atau **My Stories** di jejak halaman, untuk kembali.
 
-### Menyalin cerita Quest untuk Discord
+### Menyalin cerita Story untuk Discord
 
-1. Di kartu **Quest Details**, klik ikon salin (**Copy for Discord**) di pojok kanan atas.
+1. Di kartu **Story Details**, klik ikon salin (**Copy for Discord**) di pojok kanan atas.
 2. Muncul pesan **Description copied**.
 3. Tempel di Discord atau aplikasi lain.
 
@@ -91,7 +91,7 @@ Kalau gagal, muncul **Couldn't copy the description**. Coba lagi, atau pastikan 
 
 Kalau belum ada anggota, muncul **No adventurers have joined this party yet.**
 
-> **Perlu kamu tahu:** Halaman ini hanya untuk melihat. Untuk bergabung atau keluar dari party, buka halaman Quest di [papan Quest](../pengunjung/quest.md#detail-quest).
+> **Perlu kamu tahu:** Halaman ini hanya untuk melihat. Untuk bergabung atau keluar dari party, buka halaman Story di [papan Story](../pengunjung/quest.md#detail-story).
 
 ## Events dan Goods di Board
 

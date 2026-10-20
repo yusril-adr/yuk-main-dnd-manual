@@ -45,7 +45,7 @@ Sesi masukmu tersimpan di peramban selama sekitar 7 hari. Setelah itu, atau kala
 Di setiap halaman publik ada bilah atas berisi:
 
 - logo **YukMainDnD** di kiri: kembali ke Beranda;
-- menu **Guildmates**, **Stories** (papan Quest), **Events**, dan **Goods** di tengah. Menu halaman yang sedang kamu buka tampil berbingkai;
+- menu **Guildmates**, **Stories** (papan Story), **Events**, dan **Goods** di tengah. Menu halaman yang sedang kamu buka tampil berbingkai;
 - tombol merah **Log in** di kanan kalau kamu belum masuk, atau tombol **Dashboard** dan menu avatar kalau sudah.
 
 Di layar kecil (ponsel), menu ini disimpan di balik ikon tiga garis. Ketuk ikon itu untuk membuka panel **Menu**.
@@ -83,8 +83,8 @@ Setelah masuk, klik **Dashboard** di bilah atas. Di Dashboard ada menu samping b
 
 - logo **YukMainDnD** di paling atas,
 - **Dashboard**: halaman sambutan bertuliskan "Welcome, (namamu)".
-- **Board**: berisi **Stories** (membuka halaman **My Stories**, yaitu Quest yang kamu ikuti), **Events**, dan **Goods**. Kelompok ini muncul kalau role aktifmu adalah Player.
-- **Master**: berisi **Stories**, tempat Dungeon Master mengelola Quest. Kelompok ini muncul kalau role aktifmu adalah Dungeon Master (dan kelompok **Board** tidak tampil). Lihat [Ikhtisar Dungeon Master](dungeon-master/ikhtisar.md).
+- **Board**: berisi **Stories** (membuka halaman **My Stories**, yaitu Story yang kamu ikuti), **Events**, dan **Goods**. Kelompok ini muncul kalau role aktifmu adalah Player.
+- **Master**: berisi **Stories**, tempat Dungeon Master mengelola Story. Kelompok ini muncul kalau role aktifmu adalah Dungeon Master (dan kelompok **Board** tidak tampil). Lihat [Ikhtisar Dungeon Master](dungeon-master/ikhtisar.md).
 
 Menu yang tampil mengikuti role yang sedang aktif. Role yang terlihat di situs antara lain **Player** dan **Dungeon Master**.
 

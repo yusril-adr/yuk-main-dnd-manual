@@ -16,7 +16,14 @@ Setiap Story punya status:
 | **Cancelled** | Dibatalkan. Tidak bisa dibatalkan balik, tidak bisa diubah, dan anggotanya tidak bisa ditambah atau dikurangi. |
 | **Archived** | Disimpan di arsip. Bisa dikembalikan ke status sebelumnya (**Draft** atau **Published**). |
 
-Tombol aksi (**Publish**, **Complete**, **Archive**, **Unarchive**, **Cancel**, **Edit**, **Delete**) hanya muncul di Story yang kamu tulis, dan hanya kalau aksinya tersedia untuk status Story itu.
+Tombol aksi hanya muncul di Story yang kamu tulis, dan berbeda menurut statusnya:
+
+| Status Story | Tombol di detail Story |
+| --- | --- |
+| **Draft** | **Edit**, **Publish**, **Archive**, **Delete** |
+| **Published** | **Edit**, **Complete**, **Archive**, **Cancel**, **Delete** |
+
+**Complete** hanya muncul saat Story berstatus **Published**.
 
 ## Daftar Story
 
@@ -43,7 +50,7 @@ Di bawah daftar ada tulisan seperti "1 - 2 of 2 items". Pilih jumlah kartu per h
 
 ### Aksi di setiap kartu
 
-Klik ikon titik tiga di kartu. Untuk Story milik DM lain, pilihannya hanya **View**. Untuk Story yang kamu tulis, pilihannya bisa berupa **View**, **Edit**, **Publish**, **Archive**, **Unarchive**, **Cancel**, dan **Delete**, tergantung statusnya. Setiap aksi (kecuali **View** dan **Edit**) meminta konfirmasi dulu. Lihat [Mengubah status Story](#mengubah-status-story).
+Klik ikon titik tiga (**Story actions**) di kartu. Untuk Story milik DM lain, pilihannya hanya **View**. Untuk Story yang kamu tulis, pilihannya antara lain **View**, **Edit**, **Archive**, **Cancel**, dan **Delete** (tergantung statusnya). **Complete** tidak ada di kartu; buka detail Story untuk menyelesaikannya. Setiap aksi (kecuali **View** dan **Edit**) meminta konfirmasi dulu. Lihat [Mengubah status Story](#mengubah-status-story).
 
 ## Membuat Story
 
@@ -52,7 +59,7 @@ Klik ikon titik tiga di kartu. Untuk Story milik DM lain, pilihannya hanya **Vie
 1. Di halaman **Stories**, klik **Add Story** di pojok kanan atas.
 2. Di halaman **Create Story**, isi form (lihat tabel).
 3. Pilih cara menyimpan:
-   - **Save as Draft**: simpan dulu tanpa menerbitkan. Story berstatus **Draft** dan belum tampil di papan Quest publik. Kamu bisa menerbitkannya nanti.
+   - **Save as Draft**: simpan dulu tanpa menerbitkan. Muncul pesan **Story created** dan kamu kembali ke daftar Stories. Story berstatus **Draft** dan belum tampil di papan Quest publik. Kamu bisa menerbitkannya nanti.
    - **Publish**: simpan dan langsung terbitkan. Story berstatus **Published** dan tampil di papan Quest publik sebagai **Recruiting**, sehingga pemain bisa langsung bergabung.
 
 Klik **Cancel** untuk kembali tanpa menyimpan.
@@ -74,6 +81,8 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 | Location Detail | Ya | Misalnya tautan Discord atau alamat tempat |
 
 **Hasilnya:** muncul pesan **Story created**.
+
+Di kolom **Type**, pilih **Oneshot** atau **Campaign**. Di kolom **Location Type**, pilih **Online** atau **Offline**.
 
 ### Menulis cerita Quest
 
@@ -128,46 +137,72 @@ Isinya sama dengan [detail Quest di Board](../pemain/dashboard.md#detail-quest-d
 
 > Bagian di bawah ini (mengubah, mengubah status, menyelesaikan, dan mengatur anggota) hanya berlaku untuk **Story yang kamu tulis sendiri**.
 
-<!-- screenshot: images/dm-stories-detail-2.png -->
+![Story Detail milikmu sendiri berstatus Draft, dengan tombol Edit, Publish, Archive, dan Delete di kanan atas](../images/dm-stories-detail-2.png)
 
 ## Mengubah Story
 
-<!-- screenshot: images/dm-stories-edit-1.png -->
-
-1. Di detail Story, klik **Edit** (atau pilih **Edit** dari kartu di daftar).
-2. Di halaman **Edit Story**, ubah kolom yang perlu. Kolomnya sama dengan form membuat Story. Status saat ini tampil di bagian bawah (**Current status:**).
+1. Di detail Story, klik **Edit** (atau pilih **Edit** dari ikon titik tiga di kartu).
+2. Halaman **Edit Story** terbuka dengan isian yang sudah terisi data Story-mu. Kolomnya sama dengan form membuat Story. Ubah yang perlu.
 3. Klik **Save**.
 
+![Halaman Edit Story dengan isian yang sudah terisi: Banner, Title, Description, Type, Game System, Max Members, XP Awarded, Gold Awarded (GP)](../images/dm-stories-edit-1.png)
+
 **Hasilnya:** muncul pesan **Story updated** dan kamu dibawa ke detail Story.
+
+Klik **Cancel** kalau tidak jadi mengubah; kamu kembali ke daftar Stories (bukan ke detail) tanpa menyimpan apa pun.
 
 Story yang sudah selesai tidak bisa diubah. Kalau kamu membukanya, muncul pesan **Completed stories can't be edited**. Kalau Story itu bukan milikmu, muncul **You don't have permission to edit this story**. Dalam kedua kasus kamu dikembalikan ke halaman detail.
 
 ## Mengubah status Story
 
-Semua aksi ini ada di detail Story (dan sebagian juga di ikon titik tiga pada kartu di daftar).
+Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di daftar. Setiap aksi meminta konfirmasi dulu. Di setiap jendela, klik **Cancel** untuk menutup tanpa melakukan apa-apa.
 
-| Aksi | Jendela konfirmasi | Tombol untuk melanjutkan | Pesan berhasil |
-| --- | --- | --- | --- |
-| Terbitkan | **Publish story?** | **Publish** | **Story published** |
-| Arsipkan | **Archive story?** | **Archive** | **Story archived** |
-| Keluarkan dari arsip | **Unarchive story?** | **Unarchive** | **Story unarchived** |
-| Batalkan | **Cancel story?** | **Cancel story** | **Story cancelled** |
-| Hapus | **Delete story?** | **Delete** | **Story deleted** |
+### Menerbitkan (Publish)
 
-Di setiap jendela, klik **Cancel** untuk menutup tanpa melakukan apa-apa.
+1. Di detail Story berstatus **Draft**, klik **Publish**.
+2. Jendela **Publish story?** muncul: **The story will be marked as published.**
+3. Klik **Publish**.
+
+**Hasilnya:** muncul pesan **Publishing story...** lalu **Story published**. Story tampil di papan Quest publik sebagai **Recruiting** dan pemain bisa bergabung.
+
+### Mengarsipkan (Archive)
+
+1. Klik **Archive**.
+2. Jendela **Archive story?** muncul: **The story will be marked as archived. You can unarchive it later to restore its previous status.**
+3. Klik **Archive**.
+
+**Hasilnya:** muncul pesan **Story archived**. Untuk mengembalikannya, buka Story itu lalu klik **Unarchive** dan konfirmasi di jendela **Unarchive story?**. Statusnya kembali seperti sebelum diarsipkan.
+
+### Membatalkan (Cancel)
+
+1. Di detail Story berstatus **Published**, klik **Cancel**.
+2. Jendela **Cancel story?** muncul: **The story will be marked as cancelled. This cannot be undone. The story cannot be edited, and members cannot be added or removed.**
+3. Klik **Cancel story**.
+
+**Hasilnya:** muncul pesan **Story cancelled**.
 
 > **Hati-hati:** Di jendela **Cancel story?**, tombol **Cancel** berarti "tutup jendela", sedangkan **Cancel story** berarti benar-benar membatalkan Quest. Pembatalan Quest tidak bisa dibatalkan balik.
+
+### Menghapus (Delete)
+
+1. Klik **Delete**.
+2. Jendela **Delete story?** muncul: **This action cannot be undone. The story will be removed from the system.**
+3. Klik **Delete**.
+
+**Hasilnya:** muncul pesan **Deleting story...** lalu **Story deleted**. Story hilang dari daftar dan dari papan Quest.
 
 ## Menyelesaikan Story dan membagi hadiah
 
 **Untuk apa:** menandai Quest sudah selesai, mencatat siapa yang hadir, dan memberi mereka hadiah.
 
-1. Di detail Story, klik **Complete**.
-2. Jendela **Complete story?** terbuka berisi daftar anggota party.
-3. Centang anggota yang hadir. Gunakan kolom pencarian (minimal 3 karakter) kalau party-nya besar.
-4. Klik **Complete story**.
+**Complete** hanya muncul di detail Story berstatus **Published**.
 
-<!-- screenshot: images/dm-stories-complete-1.png -->
+1. Di detail Story, klik **Complete**.
+2. Jendela **Complete story?** terbuka dengan keterangan **Choose who attended. Checked members are marked attended and receive rewards. Unchecked members are marked viewer and receive no rewards. The story and its members cannot be edited after this.**
+3. Centang anggota yang hadir. Gunakan kolom pencarian (**Type minimum 3 characters to search ...**) kalau party-nya besar. Kalau belum ada anggota, jendela ini bertuliskan **No adventurers have joined this party yet.**
+4. Klik **Complete story**, atau **Cancel** untuk batal.
+
+![Jendela Complete story? dengan keterangan, kolom pencarian, serta tombol Cancel dan Complete story](../images/dm-stories-complete-1.png)
 
 **Hasilnya:** muncul pesan **Story completed**. Anggota yang dicentang ditandai **Attended** dan menerima hadiah; yang tidak dicentang ditandai **Viewer** dan tidak menerima hadiah. Setelah ini, Story dan anggotanya tidak bisa diubah lagi.
 
@@ -175,13 +210,14 @@ Di setiap jendela, klik **Cancel** untuk menutup tanpa melakukan apa-apa.
 
 **Siapa:** Dungeon Master yang menulis Story tersebut.
 
-<!-- screenshot: images/dm-stories-members-1.png -->
-
 ### Menambah anggota
 
 1. Di kartu **Party**, klik **Add member** (kalau party masih kosong), atau klik **Show more** lalu **Add**.
-2. Di jendela **Add member** (**Add adventurers to this party**), cari dengan minimal 3 karakter dan centang petualang yang ingin ditambahkan.
-3. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu, misalnya **Add 1 member** atau "Add 3 members".
+2. Jendela **Add member** terbuka berisi daftar petualang. Untuk mencari, ketik di kolom **Type minimum 3 characters to search ...**.
+3. Centang petualang yang ingin ditambahkan.
+4. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu: **Add**, **Add 1 member**, atau misalnya "Add 3 members". Klik **Cancel** atau ikon silang untuk menutup tanpa menambah.
+
+![Jendela Add member dengan kolom pencarian, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-members-1.png)
 
 **Hasilnya:** muncul pesan **Story members added**. Kalau tidak ada lagi yang bisa ditambahkan, muncul **No adventurers are available to join.**
 

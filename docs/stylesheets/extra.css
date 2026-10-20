@@ -1,14 +1,112 @@
-/* Warna merah tua mendekati aplikasi YukMainDnD */
-:root,
-[data-md-color-scheme="default"] {
-  --md-primary-fg-color: #7f1d10;
-  --md-primary-fg-color--light: #a3301f;
-  --md-primary-fg-color--dark: #5e140b;
-  --md-accent-fg-color: #b4532a;
+/* Tema mengikuti aplikasi YukMainDnD (src/app/globals.css, mode terang).
+   Font: Alegreya Sans (teks), DM Mono (kode), Eczar (judul). */
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&display=swap");
+
+:root {
+  /* Token aplikasi */
+  --ymd-background: oklch(0.96 0.03 81.68);
+  --ymd-foreground: oklch(0.51 0.042 64.9);
+  --ymd-card: oklch(0.89 0.04 64.92);
+  --ymd-popover: oklch(93.584% 0.03507 81.251);
+  --ymd-primary: oklch(0.39 0.14 31.21);
+  --ymd-primary-foreground: oklch(0.984 0.019 200.873);
+  --ymd-secondary: oklch(0.81 0.11 63.52);
+  --ymd-muted: oklch(74.05% 0.06645 80.493);
+  --ymd-accent: oklch(0.61 0.19 33.74);
+  --ymd-border: oklch(0.78 0.11 63.52);
+  --ymd-sidebar: oklch(0.89 0.04 64.77);
+  --ymd-font-heading: "Eczar", Georgia, serif;
 }
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #7f1d10;
-  --md-primary-fg-color--light: #a3301f;
-  --md-primary-fg-color--dark: #5e140b;
-  --md-accent-fg-color: #e08a5c;
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--ymd-primary);
+  --md-primary-fg-color--light: var(--ymd-accent);
+  --md-primary-fg-color--dark: var(--ymd-primary);
+  --md-primary-bg-color: var(--ymd-primary-foreground);
+  --md-accent-fg-color: var(--ymd-accent);
+
+  --md-default-bg-color: var(--ymd-background);
+  --md-default-fg-color: var(--ymd-foreground);
+  --md-default-fg-color--light: oklch(0.51 0.042 64.9 / 0.8);
+  --md-default-fg-color--lighter: oklch(0.51 0.042 64.9 / 0.45);
+  --md-default-fg-color--lightest: oklch(0.51 0.042 64.9 / 0.12);
+
+  --md-typeset-color: var(--ymd-foreground);
+  --md-typeset-a-color: var(--ymd-primary);
+
+  --md-code-bg-color: var(--ymd-card);
+  --md-code-fg-color: var(--ymd-foreground);
+
+  --md-footer-bg-color: var(--ymd-card);
+  --md-footer-bg-color--dark: var(--ymd-sidebar);
+  --md-footer-fg-color: var(--ymd-foreground);
+  --md-footer-fg-color--light: oklch(0.51 0.042 64.9 / 0.8);
+  --md-footer-fg-color--lighter: oklch(0.51 0.042 64.9 / 0.6);
+}
+
+/* Bilah atas terang seperti bilah atas aplikasi */
+.md-header {
+  background-color: var(--ymd-popover);
+  color: var(--ymd-foreground);
+  border-bottom: 1px solid var(--ymd-border);
+  box-shadow: none;
+}
+.md-header__title,
+.md-header__button {
+  color: var(--ymd-foreground);
+}
+.md-header__topic:first-child {
+  font-family: var(--ymd-font-heading);
+  color: var(--ymd-primary);
+}
+.md-search__form {
+  background-color: var(--ymd-card);
+}
+.md-search__input,
+.md-search__input::placeholder,
+.md-search__icon {
+  color: var(--ymd-foreground);
+}
+.md-source {
+  color: var(--ymd-foreground);
+}
+
+/* Menu samping */
+.md-nav__item .md-nav__link--active,
+.md-nav__link:hover {
+  color: var(--ymd-primary);
+}
+.md-nav--primary .md-nav__title {
+  background-color: var(--ymd-sidebar);
+  color: var(--ymd-foreground);
+}
+
+/* Judul memakai font Eczar dan warna primer */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: var(--ymd-font-heading);
+  color: var(--ymd-primary);
+  font-weight: 600;
+}
+
+/* Tabel dan kutipan bernuansa kartu */
+.md-typeset table:not([class]) {
+  background-color: var(--ymd-popover);
+  border-color: var(--ymd-border);
+}
+.md-typeset table:not([class]) th {
+  background-color: var(--ymd-card);
+  color: var(--ymd-foreground);
+}
+.md-typeset blockquote {
+  border-left-color: var(--ymd-secondary);
+  color: var(--ymd-foreground);
+}
+
+/* Gambar tangkapan layar */
+.md-typeset img {
+  border: 1px solid var(--ymd-border);
+  border-radius: 0.625rem;
 }

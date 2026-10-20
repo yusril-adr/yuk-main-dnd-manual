@@ -9,20 +9,12 @@ theme:
   name: material
   language: id
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Ganti ke mode gelap
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Ganti ke mode terang
+    scheme: default
+    primary: custom
+    accent: custom
+  font:
+    text: Alegreya Sans
+    code: DM Mono
   features:
     - navigation.sections
     - navigation.top

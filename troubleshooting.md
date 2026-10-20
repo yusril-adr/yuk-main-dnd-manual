@@ -24,6 +24,7 @@ Kebanyakan masalah bisa diselesaikan dengan memuat ulang halaman atau masuk ulan
 | **Couldn't load party members.** | Kartu Party | Klik **Try again** |
 | **Could not load the ledger** | Balances | Klik **Try again** |
 | **Page not found** | Di mana saja | Alamatnya salah, atau data yang dicari sudah tidak ada. Klik **Go to Home**. |
+| **Page not found** saat membuka detail Quest di My Stories | Story Detail (Board) | Kamu bukan (atau sudah bukan) anggota party Quest itu. Halaman ini hanya bisa dibuka untuk Quest yang kamu ikuti. Buka Quest-nya lewat [papan Quest](pengunjung/quest.md) dan bergabung dulu. |
 
 Kalau masalahnya terus berulang, kemungkinan server sedang bermasalah. Coba lagi beberapa saat kemudian.
 

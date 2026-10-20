@@ -29,7 +29,9 @@ Halaman **My Stories** menampilkan kartu untuk setiap Quest yang kamu ikuti:
 - **Dungeon Master** (atau **Unknown DM**),
 - **Starts**: hari dan jam mulai (atau **Date to be announced**),
 - label posisimu di party: **Registered** (terdaftar), **Viewer** (penonton), atau **Attended** (hadir),
-- **Members**: jumlah anggota, misalnya "5 / 6" kalau ada jatah pemain.
+- **Members**: jumlah anggota, misalnya "1 / 6" kalau ada jatah pemain.
+
+![Halaman My Stories berisi satu kartu Quest berstatus Published dengan label Registered dan jumlah anggota 1 / 6](../images/pemain-my-stories-2.png)
 
 ### Mencari dan menyaring
 
@@ -39,7 +41,7 @@ Halaman **My Stories** menampilkan kartu untuk setiap Quest yang kamu ikuti:
 
 Saringan langsung berlaku begitu kamu memilih.
 
-Setiap halaman memuat 12 Quest. Di bawah daftar ada tulisan seperti "Showing 1–12 of 20". Klik nomor halaman atau panah untuk berpindah.
+Setiap halaman memuat 12 Quest. Di bawah daftar ada tulisan seperti "Showing 1–1 of 1". Klik nomor halaman atau panah untuk berpindah.
 
 ### Kalau daftarmu kosong
 
@@ -55,7 +57,7 @@ Setiap halaman memuat 12 Quest. Di bawah daftar ada tulisan seperti "Showing 1�
 
 **Cara membuka:** klik judul Quest di halaman **My Stories**.
 
-<!-- screenshot: images/pemain-story-detail-1.png -->
+![Story Detail sebuah Quest yang kamu ikuti, dengan label Published dan Oneshot, Quest Details, dan Adventure Info](../images/pemain-story-detail-1.png)
 
 Halaman **Story Detail** berisi:
 

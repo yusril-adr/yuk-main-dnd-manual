@@ -22,6 +22,7 @@ Tombol aksi hanya muncul di Story yang kamu tulis, dan berbeda menurut statusnya
 | --- | --- |
 | **Draft** | **Edit**, **Publish**, **Archive**, **Delete** |
 | **Published** | **Edit**, **Complete**, **Archive**, **Cancel**, **Delete** |
+| **Archived** | **Edit**, **Unarchive**, **Delete** |
 
 **Complete** hanya muncul saat Story berstatus **Published**.
 
@@ -60,7 +61,7 @@ Klik ikon titik tiga (**Story actions**) di kartu. Untuk Story milik DM lain, pi
 2. Di halaman **Create Story**, isi form (lihat tabel).
 3. Pilih cara menyimpan:
    - **Save as Draft**: simpan dulu tanpa menerbitkan. Muncul pesan **Story created** dan kamu kembali ke daftar Stories. Story berstatus **Draft** dan belum tampil di papan Quest publik. Kamu bisa menerbitkannya nanti.
-   - **Publish**: simpan dan langsung terbitkan. Story berstatus **Published** dan tampil di papan Quest publik sebagai **Recruiting**, sehingga pemain bisa langsung bergabung.
+   - **Publish**: simpan dan langsung terbitkan, tanpa jendela konfirmasi. Muncul pesan **Creating story...** lalu **Story created**, dan kamu kembali ke daftar Stories. Story berstatus **Published** dan tampil di papan Quest publik sebagai **Recruiting**, sehingga pemain bisa langsung bergabung.
 
 Klik **Cancel** untuk kembali tanpa menyimpan.
 
@@ -171,7 +172,19 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 2. Jendela **Archive story?** muncul: **The story will be marked as archived. You can unarchive it later to restore its previous status.**
 3. Klik **Archive**.
 
-**Hasilnya:** muncul pesan **Story archived**. Untuk mengembalikannya, buka Story itu lalu klik **Unarchive** dan konfirmasi di jendela **Unarchive story?**. Statusnya kembali seperti sebelum diarsipkan.
+**Hasilnya:** muncul pesan **Archiving story...** lalu **Story archived**. Label status berganti menjadi **Archived**, dan tombol yang tersisa hanya **Edit**, **Unarchive**, dan **Delete**.
+
+![Story Detail berstatus Archived dengan tombol Edit, Unarchive, dan Delete](../images/dm-stories-archived-1.png)
+
+### Mengeluarkan dari arsip (Unarchive)
+
+1. Di detail Story berstatus **Archived**, klik **Unarchive**.
+2. Jendela **Unarchive story?** muncul: **The story will go back to the status it had before it was archived (Draft or Published).**
+3. Klik **Unarchive**, atau **Cancel** untuk batal.
+
+**Hasilnya:** muncul pesan **Story unarchived**. Status Story kembali seperti sebelum diarsipkan.
+
+![Jendela Unarchive story? dengan tombol Cancel dan Unarchive](../images/dm-stories-unarchive-1.png)
 
 ### Membatalkan (Cancel)
 
@@ -208,7 +221,7 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 
 ## Mengatur anggota party
 
-**Siapa:** Dungeon Master yang menulis Story tersebut.
+**Siapa:** Dungeon Master yang menulis Story tersebut. Tombol **Add member** di kartu **Party** tersedia saat Story berstatus **Draft**, **Published**, maupun **Archived**.
 
 ### Menambah anggota
 
@@ -216,6 +229,8 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 2. Jendela **Add member** terbuka berisi daftar petualang. Untuk mencari, ketik di kolom **Type minimum 3 characters to search ...**.
 3. Centang petualang yang ingin ditambahkan.
 4. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu: **Add**, **Add 1 member**, atau misalnya "Add 3 members". Klik **Cancel** atau ikon silang untuk menutup tanpa menambah.
+
+Kamu tidak bisa menambahkan dirimu sendiri ke Story yang kamu tulis. Kalau pencarian tidak menemukan siapa pun, muncul **No adventurers match this search.**
 
 ![Jendela Add member dengan kolom pencarian, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-members-1.png)
 

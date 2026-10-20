@@ -93,14 +93,14 @@ Di ponsel, tombol bergabung tampil di bilah bawah layar.
 
 1. Buka detail Quest.
 2. Kalau kamu belum masuk, tombolnya bertuliskan **Join the party** dengan catatan **Log in to enlist in this quest.** Klik tombol itu, masuk ke akunmu, dan kamu akan dikembalikan ke halaman Quest ini.
-3. Klik **Join the party**.
+3. Klik **Join the party**. Kamu langsung bergabung tanpa jendela konfirmasi.
 4. Kalau semua jatah pemain sudah terisi, muncul jendela **The party is full**. Kamu tetap bisa ikut sebagai penonton:
    - klik **Join as viewer** untuk ikut sebagai penonton, atau
    - klik **Not now** untuk batal.
 
    Bicarakan dengan Dungeon Master kalau kamu ingin menjadi pemain cadangan.
 
-**Hasilnya:** muncul pesan **Welcome to the party, adventurer!** dan namamu masuk ke daftar **The Party**. Catatan di bawah tombol berubah menjadi **Thou art enlisted in this quest.**
+**Hasilnya:** muncul pesan **Welcome to the party, adventurer!** dan namamu masuk ke daftar **The Party**. Tombolnya berganti menjadi **Leave the party**, dan catatan di bawahnya berubah menjadi **Thou art enlisted in this quest.** Quest ini juga muncul di halaman [My Stories](../pemain/dashboard.md#quest-ku-my-stories).
 
 > **Perlu kamu tahu:** Siapa pun boleh bergabung. Jatah pemain hanya menentukan berapa orang yang akan dihadiahi saat Quest selesai. Dungeon Master yang menentukan siapa yang hadir di akhir.
 
@@ -108,7 +108,10 @@ Di ponsel, tombol bergabung tampil di bilah bawah layar.
 
 1. Buka detail Quest yang sudah kamu ikuti.
 2. Klik **Leave the party**.
-3. Di jendela **Leave the party?**, klik **Leave the party** untuk keluar, atau **Stay** untuk batal.
+3. Jendela **Leave the party?** muncul dengan pesan "Thou shalt be struck from the roster of “(judul Quest)”. Thou may rejoin while the quest is still open."
+4. Klik **Leave the party** untuk keluar, atau **Stay** untuk batal.
+
+![Jendela Leave the party? dengan tombol Stay dan Leave the party](../images/pengunjung-quest-leave-1.png)
 
 **Hasilnya:** muncul pesan **You have left the party** dan namamu hilang dari daftar. Kamu bisa bergabung lagi selama Quest masih buka.
 

@@ -1,41 +1,34 @@
-# Buku Panduan YukMainDnD
+# Manual YukMainDnD
 
-Selamat datang di Tavern, petualang! 🎲
+Buku panduan pengguna YukMainDnD (Bahasa Indonesia) untuk pengunjung, pemain, dan Dungeon Master, dibuat dengan [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 
-YukMainDnD adalah rumah online untuk guild tabletop RPG YukMainDnD. Di sini kamu bisa melihat Quest (sesi permainan) yang sedang mencari pemain, kenalan dengan para Guildmates, ikut atau keluar dari sebuah party, dan memantau EXP serta Gold yang sudah kamu kumpulkan. Dungeon Master juga memakai aplikasi yang sama untuk membuat dan menjalankan Quest.
+**Baca online:** https://yusril-adr.github.io/yuk-main-dnd-manual/
 
-Panduan ini ditulis untuk tiga jenis pembaca:
+Isi panduan ada di folder `docs/`. Setiap push ke branch `main` otomatis membangun dan menerbitkan situs ke GitHub Pages.
 
-| Kamu adalah… | Yang bisa kamu lakukan | Mulai baca dari |
-| --- | --- | --- |
-| Pengunjung (belum masuk) | Melihat Beranda, papan Quest (Stories), dan daftar Guildmates | [Beranda](pengunjung/beranda.md) |
-| Pemain (sudah punya akun) | Ikut Quest, melihat Quest-mu, cek saldo EXP dan Gold, ubah profil | [Mulai di sini](getting-started.md) |
-| Dungeon Master | Membuat, menerbitkan, dan menyelesaikan Quest | [Ikhtisar Dungeon Master](dungeon-master/ikhtisar.md) |
+## Menjalankan di komputer sendiri
 
-> **Catatan bahasa:** Situs YukMainDnD saat ini seluruhnya berbahasa Inggris. Panduan ini ditulis dalam Bahasa Indonesia, tetapi nama tombol, menu, dan pesan ditulis persis seperti yang tampil di layar, yaitu dalam bahasa Inggris.
+### Dengan Docker
 
-## Daftar isi
+```bash
+docker compose up
+```
 
-### Mulai
-- [Mulai di sini: masuk, keluar, dan navigasi](getting-started.md)
+Lalu buka http://localhost:8000.
 
-### Untuk pengunjung
-- [Beranda](pengunjung/beranda.md)
-- [Papan Quest dan detail Quest](pengunjung/quest.md)
-- [Guildmates dan kartu petualang](pengunjung/guildmates.md)
-- [Events dan Goods (segera hadir)](pengunjung/event-dan-barang.md)
+### Dengan Python
 
-### Untuk pemain
-- [Memilih role (Switch Role)](pemain/ganti-role.md)
-- [Dashboard dan Quest-ku (My Stories)](pemain/dashboard.md)
-- [Saldo EXP dan Gold (Balances)](pemain/saldo.md)
-- [Profil dan Pengaturan (Settings)](pemain/profil-dan-pengaturan.md)
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+mkdocs serve
+```
 
-### Untuk Dungeon Master
-- [Ikhtisar: masuk sebagai DM dan menu Master](dungeon-master/ikhtisar.md)
-- [Mengelola Quest (Stories)](dungeon-master/story.md)
+Lalu buka http://127.0.0.1:8000.
 
-### Bantuan
-- [Pertanyaan yang sering diajukan](faq.md)
-- [Kalau ada masalah](troubleshooting.md)
-- [Kamus istilah](glossary.md)
+Untuk memeriksa build seperti di GitHub Actions:
+
+```bash
+mkdocs build --strict
+```

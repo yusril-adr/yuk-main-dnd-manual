@@ -1,0 +1,14 @@
+/* Warna merah tua mendekati aplikasi YukMainDnD */
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #7f1d10;
+  --md-primary-fg-color--light: #a3301f;
+  --md-primary-fg-color--dark: #5e140b;
+  --md-accent-fg-color: #b4532a;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #7f1d10;
+  --md-primary-fg-color--light: #a3301f;
+  --md-primary-fg-color--dark: #5e140b;
+  --md-accent-fg-color: #e08a5c;
+}

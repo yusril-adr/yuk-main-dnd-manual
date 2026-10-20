@@ -1,0 +1,75 @@
+site_name: Manual YukMainDnD
+site_description: Buku panduan pengguna YukMainDnD untuk pengunjung, pemain, dan Dungeon Master.
+site_url: https://yusril-adr.github.io/yuk-main-dnd-manual/
+repo_url: https://github.com/yusril-adr/yuk-main-dnd-manual
+repo_name: yusril-adr/yuk-main-dnd-manual
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: id
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Ganti ke mode gelap
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Ganti ke mode terang
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  # Lunr belum mendukung bahasa Indonesia, jadi pencarian memakai pemroses bahasa Inggris.
+  - search:
+      lang: en
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Beranda manual: index.md
+  - Mulai:
+      - "Mulai di sini: masuk, keluar, dan navigasi": getting-started.md
+  - Untuk pengunjung:
+      - Beranda: pengunjung/beranda.md
+      - Papan Quest dan detail Quest: pengunjung/quest.md
+      - Guildmates dan kartu petualang: pengunjung/guildmates.md
+      - Events dan Goods (segera hadir): pengunjung/event-dan-barang.md
+  - Untuk pemain:
+      - Memilih role (Switch Role): pemain/ganti-role.md
+      - Dashboard dan Quest-ku (My Stories): pemain/dashboard.md
+      - Saldo EXP dan Gold (Balances): pemain/saldo.md
+      - Profil dan Pengaturan (Settings): pemain/profil-dan-pengaturan.md
+  - Untuk Dungeon Master:
+      - "Ikhtisar: masuk sebagai DM dan menu Master": dungeon-master/ikhtisar.md
+      - Mengelola Quest (Stories): dungeon-master/story.md
+  - Bantuan:
+      - Pertanyaan yang sering diajukan: faq.md
+      - Kalau ada masalah: troubleshooting.md
+      - Kamus istilah: glossary.md

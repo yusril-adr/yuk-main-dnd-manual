@@ -1,0 +1,194 @@
+# Mengelola Quest (Stories)
+
+Di Dashboard, Quest disebut **Story**. Halaman ini untuk Dungeon Master yang membuat, menerbitkan, dan menyelesaikan Quest.
+
+> **Story milikmu vs. milik DM lain.** Di daftar Stories kamu juga bisa melihat Story yang ditulis DM lain, tapi untuk Story itu kamu hanya bisa membukanya (**View**). Tombol untuk mengubah, menerbitkan, menyelesaikan, membatalkan, mengarsipkan, menghapus, dan mengatur anggota hanya muncul di Story yang kamu tulis sendiri.
+
+## Perjalanan sebuah Quest
+
+Setiap Story punya status:
+
+| Status | Artinya |
+| --- | --- |
+| **Draft** | Masih disiapkan, belum tampil di papan Quest publik |
+| **Published** | Sudah terbit dan menerima anggota (di papan publik tampil sebagai **Recruiting**) |
+| **Completed** | Sudah selesai; peserta yang hadir sudah dihadiahi. Tidak bisa diubah lagi. |
+| **Cancelled** | Dibatalkan. Tidak bisa dibatalkan balik, tidak bisa diubah, dan anggotanya tidak bisa ditambah atau dikurangi. |
+| **Archived** | Disimpan di arsip. Bisa dikembalikan ke status sebelumnya (**Draft** atau **Published**). |
+
+Tombol aksi (**Publish**, **Complete**, **Archive**, **Unarchive**, **Cancel**, **Edit**, **Delete**) hanya muncul di Story yang kamu tulis, dan hanya kalau aksinya tersedia untuk status Story itu.
+
+## Daftar Story
+
+**Siapa yang bisa membuka:** Dungeon Master.
+
+**Cara membuka:** di menu samping, di bawah **Master**, klik **Stories**.
+
+![Daftar Stories dengan tombol Add Story, Filter, kolom pencarian, dua kartu Story berstatus Published dan Draft, serta pilihan 12 / page](../images/dm-stories-1.png)
+
+Setiap kartu menampilkan gambar sampul, judul (klik untuk membuka detail), cuplikan cerita (atau **No description.**), status, jenis, serta hadiah XP dan GP kalau ada.
+
+### Mencari, menyaring, dan mengurutkan
+
+1. Ketik minimal 3 karakter di kolom pencarian.
+2. Klik **Filter**, lalu atur:
+   - **Sort By**: **Title**, **Status**, **Type**, **Game System**, **Max Members**, **XP Awarded**, **Gold Awarded**, **Start At**, **Location**, **Created At**, atau **Updated At**.
+   - **Sort Order**: **Ascending** atau **Descending**.
+   - **Status** (**Select status**), **Type** (**Select type**), dan **Location** (**Select location**).
+3. Klik **Apply**. Klik **Clear** untuk kembali ke pengaturan awal.
+
+Kalau tidak ada hasil, muncul **No stories found.**
+
+Di bawah daftar ada tulisan seperti "1 - 2 of 2 items". Pilih jumlah kartu per halaman: **6 / page**, **12 / page**, **24 / page**, atau **48 / page**.
+
+### Aksi di setiap kartu
+
+Klik ikon titik tiga di kartu. Untuk Story milik DM lain, pilihannya hanya **View**. Untuk Story yang kamu tulis, pilihannya bisa berupa **View**, **Edit**, **Publish**, **Archive**, **Unarchive**, **Cancel**, dan **Delete**, tergantung statusnya. Setiap aksi (kecuali **View** dan **Edit**) meminta konfirmasi dulu. Lihat [Mengubah status Story](#mengubah-status-story).
+
+## Membuat Story
+
+**Siapa:** Dungeon Master.
+
+1. Di halaman **Stories**, klik **Add Story** di pojok kanan atas.
+2. Di halaman **Create Story**, isi form (lihat tabel).
+3. Pilih cara menyimpan:
+   - **Save as Draft**: simpan dulu tanpa menerbitkan. Story berstatus **Draft** dan belum tampil di papan Quest publik. Kamu bisa menerbitkannya nanti.
+   - **Publish**: simpan dan langsung terbitkan. Story berstatus **Published** dan tampil di papan Quest publik sebagai **Recruiting**, sehingga pemain bisa langsung bergabung.
+
+Klik **Cancel** untuk kembali tanpa menyimpan.
+
+![Form Create Story dengan Banner, Title, Description, Type, Game System, Max Members, XP Awarded, dan Gold Awarded (GP)](../images/dm-stories-create-1.png)
+
+| Kolom | Wajib | Aturan |
+| --- | --- | --- |
+| Banner | Tidak | Klik **Choose file**. Gambar JPG, PNG, atau WebP, maksimal 5 MB. Disarankan rasio 16:10 (misalnya 1600 × 1000 px) dengan objek utama di tengah, karena tepinya terpotong di halaman publik. |
+| Title | Ya | Maksimal 150 karakter, harus berisi minimal satu huruf atau angka |
+| Description | Tidak | Cerita Quest, maksimal 5000 karakter (penghitung seperti "0 / 5000" tampil di bawah kotak) |
+| Type | Ya | **Oneshot** atau **Campaign** |
+| Game System | Tidak | Maksimal 100 karakter, misalnya "DnD 5e 2014" |
+| Max Members | Tidak | Bilangan bulat minimal 1. Ini jatah pemain yang dihadiahi; anggota lain tetap bisa ikut sebagai penonton. Kosongkan kalau tanpa batas. |
+| XP Awarded | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
+| Gold Awarded (GP) | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
+| Start At | Tidak | Tanggal (klik **Pick a date**) dan jam mulai |
+| Location Type | Ya | **Online** atau **Offline** |
+| Location Detail | Ya | Misalnya tautan Discord atau alamat tempat |
+
+**Hasilnya:** muncul pesan **Story created**.
+
+### Menulis cerita Quest
+
+Kotak **Description** punya bilah alat untuk merapikan tulisan:
+
+- **Bold**, **Italic**, **Underline**, **Strikethrough**
+- **Heading 1**, **Heading 2**, **Heading 3**
+- **Bullet list**, **Numbered list**
+- **Read-aloud text (quote)**: kotak teks untuk dibacakan DM ke pemain
+- **Divider**: garis pemisah
+- **Link**: isi **Link URL**, lalu klik **Apply**. Klik **Remove** untuk menghapus tautan. Hanya tautan http, https, atau mailto yang diterima.
+- **Image**: isi **Image URL** (harus https) dan **Alt text (optional)**, lalu klik **Insert** (atau **Update** untuk gambar yang sudah ada).
+- **Undo** dan **Redo**
+
+### Mengisi tanggal dan jam mulai
+
+1. Di **Start At**, klik **Pick a date** dan pilih tanggal di kalender.
+2. Isi jam di kolom jam di sebelahnya.
+3. Untuk mengosongkan, klik ikon silang di sebelah kolom jam.
+
+Kalau kamu mengisi jam tanpa memilih tanggal, tanggalnya otomatis hari ini.
+
+### Panduan XP
+
+Klik ikon tanda tanya di sebelah **XP Awarded** untuk melihat **XP guide by difficulty**: **Easy** 5 XP, **Medium** 7 XP, **Hard** 10 XP. Ini hanya panduan (**Only a guide. DMs can enter any value.**).
+
+### Mengunggah banner
+
+1. Di **Banner**, klik **Choose file** dan pilih gambar.
+2. Tunggu pesan **Banner uploaded**. Pratinjaunya langsung muncul.
+3. Klik **Remove** kalau ingin membatalkan banner.
+
+Pesan kesalahan banner: **Banner must be a JPG, PNG, or WebP image** atau **Banner must be 5 MB or smaller**.
+
+Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **XP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**.
+
+## Detail Story
+
+**Cara membuka:** klik judul Story di daftar, atau pilih **View** dari ikon titik tiga di kartunya.
+
+![Story Detail sebuah Draft milik DM lain, dengan Quest Details, Adventure Info, dan Chronicle, tanpa tombol aksi](../images/dm-stories-detail-1.png)
+
+Halaman **Story Detail** berisi:
+
+- Sampul: gambar, judul, status, jenis, dan alamat pendek Quest (misalnya "/bathroom-of-tragedy").
+- **Quest Details**: cerita Quest (atau **No description has been written for this quest yet.**), dengan tombol salin untuk Discord.
+- **Adventure Info**: **Game System**, **Party Size**, **Rewards**, **Starts**, dan lokasi.
+- **Chronicle**: siapa yang menulis dan kapan dibuat serta terakhir diubah.
+- **Party**: anggota party (atau **No adventurers have joined this party yet.**).
+
+Isinya sama dengan [detail Quest di Board](../pemain/dashboard.md#detail-quest-di-board-story-detail). Di Story yang kamu tulis, ada tambahan tombol aksi di samping judul (di layar kecil, di balik ikon titik tiga). Di Story milik DM lain, tombol itu tidak ada.
+
+> Bagian di bawah ini (mengubah, mengubah status, menyelesaikan, dan mengatur anggota) hanya berlaku untuk **Story yang kamu tulis sendiri**.
+
+<!-- screenshot: images/dm-stories-detail-2.png -->
+
+## Mengubah Story
+
+<!-- screenshot: images/dm-stories-edit-1.png -->
+
+1. Di detail Story, klik **Edit** (atau pilih **Edit** dari kartu di daftar).
+2. Di halaman **Edit Story**, ubah kolom yang perlu. Kolomnya sama dengan form membuat Story. Status saat ini tampil di bagian bawah (**Current status:**).
+3. Klik **Save**.
+
+**Hasilnya:** muncul pesan **Story updated** dan kamu dibawa ke detail Story.
+
+Story yang sudah selesai tidak bisa diubah. Kalau kamu membukanya, muncul pesan **Completed stories can't be edited**. Kalau Story itu bukan milikmu, muncul **You don't have permission to edit this story**. Dalam kedua kasus kamu dikembalikan ke halaman detail.
+
+## Mengubah status Story
+
+Semua aksi ini ada di detail Story (dan sebagian juga di ikon titik tiga pada kartu di daftar).
+
+| Aksi | Jendela konfirmasi | Tombol untuk melanjutkan | Pesan berhasil |
+| --- | --- | --- | --- |
+| Terbitkan | **Publish story?** | **Publish** | **Story published** |
+| Arsipkan | **Archive story?** | **Archive** | **Story archived** |
+| Keluarkan dari arsip | **Unarchive story?** | **Unarchive** | **Story unarchived** |
+| Batalkan | **Cancel story?** | **Cancel story** | **Story cancelled** |
+| Hapus | **Delete story?** | **Delete** | **Story deleted** |
+
+Di setiap jendela, klik **Cancel** untuk menutup tanpa melakukan apa-apa.
+
+> **Hati-hati:** Di jendela **Cancel story?**, tombol **Cancel** berarti "tutup jendela", sedangkan **Cancel story** berarti benar-benar membatalkan Quest. Pembatalan Quest tidak bisa dibatalkan balik.
+
+## Menyelesaikan Story dan membagi hadiah
+
+**Untuk apa:** menandai Quest sudah selesai, mencatat siapa yang hadir, dan memberi mereka hadiah.
+
+1. Di detail Story, klik **Complete**.
+2. Jendela **Complete story?** terbuka berisi daftar anggota party.
+3. Centang anggota yang hadir. Gunakan kolom pencarian (minimal 3 karakter) kalau party-nya besar.
+4. Klik **Complete story**.
+
+<!-- screenshot: images/dm-stories-complete-1.png -->
+
+**Hasilnya:** muncul pesan **Story completed**. Anggota yang dicentang ditandai **Attended** dan menerima hadiah; yang tidak dicentang ditandai **Viewer** dan tidak menerima hadiah. Setelah ini, Story dan anggotanya tidak bisa diubah lagi.
+
+## Mengatur anggota party
+
+**Siapa:** Dungeon Master yang menulis Story tersebut.
+
+<!-- screenshot: images/dm-stories-members-1.png -->
+
+### Menambah anggota
+
+1. Di kartu **Party**, klik **Add member** (kalau party masih kosong), atau klik **Show more** lalu **Add**.
+2. Di jendela **Add member** (**Add adventurers to this party**), cari dengan minimal 3 karakter dan centang petualang yang ingin ditambahkan.
+3. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu, misalnya **Add 1 member** atau "Add 3 members".
+
+**Hasilnya:** muncul pesan **Story members added**. Kalau tidak ada lagi yang bisa ditambahkan, muncul **No adventurers are available to join.**
+
+### Mengeluarkan anggota
+
+1. Di kartu **Party**, klik **Show more**, lalu **Remove**.
+2. Di jendela **Remove members** (**Remove adventurers from this party**), centang anggota yang ingin dikeluarkan.
+3. Klik tombol hapus, misalnya **Remove 1 member** atau "Remove 2 members".
+
+**Hasilnya:** muncul pesan **Story members removed**.

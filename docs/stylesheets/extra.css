@@ -121,3 +121,22 @@
   border: 1px solid var(--ymd-border);
   border-radius: 0.625rem;
 }
+
+/* Info repo (cabang/bintang) di menu samping versi mobile: latar terang agar teksnya terbaca */
+.md-nav__source {
+  background-color: var(--ymd-card);
+  color: var(--ymd-foreground);
+  border-bottom: 1px solid var(--ymd-border);
+}
+.md-nav__source .md-source,
+.md-nav__source .md-source__facts {
+  color: var(--ymd-foreground);
+}
+/* Info repo di bilah atas desktop: teks lebih tegas (bawaan tema dibuat transparan) */
+.md-source__repository,
+.md-source__facts {
+  opacity: 1;
+}
+.md-source__repository {
+  font-weight: 600;
+}

@@ -219,6 +219,8 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 
 **Hasilnya:** muncul pesan **Story completed**. Anggota yang dicentang ditandai **Attended** dan menerima hadiah; yang tidak dicentang ditandai **Viewer** dan tidak menerima hadiah. Setelah ini, Story dan anggotanya tidak bisa diubah lagi.
 
+> Setelah Story selesai, hubungi **Guild Master** untuk penilaian agar kamu mendapatkan **DM EXP**.
+
 ## Mengatur anggota party
 
 **Siapa:** Dungeon Master yang menulis Story tersebut. Tombol **Add member** di kartu **Party** tersedia saat Story berstatus **Draft**, **Published**, maupun **Archived**.

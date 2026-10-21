@@ -59,3 +59,7 @@ Kalau muncul **Couldn't copy the description**, perambanmu mungkin menolak akses
 ## Pesan lain dari server
 
 Beberapa pesan kesalahan datang langsung dari server, misalnya saat data yang kamu isi bentrok dengan data lain. Pesannya tampil di bawah kolom yang bermasalah atau sebagai pemberitahuan singkat di layar. Baca pesannya, perbaiki isiannya, lalu coba lagi.
+
+## Masih bermasalah atau menemukan bug?
+
+Kalau masalahmu tidak ada di halaman ini, kamu menemukan bug, atau punya kritik dan saran untuk YukMainDnD, isi [formulir kritik, saran, dan lapor bug](https://forms.gle/WXoetfajzGSzW4ES8). Ceritakan apa yang kamu lakukan, apa yang terjadi, dan kalau bisa sertakan tangkapan layarnya.

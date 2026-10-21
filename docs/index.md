@@ -39,3 +39,4 @@ Panduan ini ditulis untuk tiga jenis pembaca:
 - [Pertanyaan yang sering diajukan](faq.md)
 - [Kalau ada masalah](troubleshooting.md)
 - [Kamus istilah](glossary.md)
+- [Kritik, saran, dan lapor bug](https://forms.gle/WXoetfajzGSzW4ES8)

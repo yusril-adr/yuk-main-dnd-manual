@@ -49,3 +49,7 @@ Setelah memilih foto di Pengaturan, kamu masih perlu klik **Save**. Lihat [Mengg
 ### Apakah Events dan Goods sudah bisa dipakai?
 
 Belum. Keduanya masih menampilkan **Coming Soon**.
+
+### Ke mana aku bisa melaporkan bug atau memberi saran?
+
+Isi [formulir kritik, saran, dan lapor bug](https://forms.gle/WXoetfajzGSzW4ES8).

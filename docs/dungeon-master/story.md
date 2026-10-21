@@ -34,13 +34,13 @@ Tombol aksi hanya muncul di Story yang kamu tulis, dan berbeda menurut statusnya
 
 ![Daftar Stories dengan tombol Add Story, Filter, kolom pencarian, dua kartu Story berstatus Published dan Draft, serta pilihan 12 / page](../images/dm-stories-1.png)
 
-Setiap kartu menampilkan gambar sampul, judul (klik untuk membuka detail), cuplikan cerita (atau **No description.**), status, jenis, serta hadiah XP dan GP kalau ada.
+Setiap kartu menampilkan gambar sampul, judul (klik untuk membuka detail), cuplikan cerita (atau **No description.**), status, jenis, serta hadiah EXP dan GP kalau ada.
 
 ### Mencari, menyaring, dan mengurutkan
 
 1. Ketik minimal 3 karakter di kolom pencarian.
 2. Klik **Filter**, lalu atur:
-   - **Sort By**: **Title**, **Status**, **Type**, **Game System**, **Max Members**, **XP Awarded**, **Gold Awarded**, **Start At**, **Location**, **Created At**, atau **Updated At**.
+   - **Sort By**: **Title**, **Status**, **Type**, **Game System**, **Max Members**, **EXP Awarded**, **Gold Awarded**, **Start At**, **Location**, **Created At**, atau **Updated At**.
    - **Sort Order**: **Ascending** atau **Descending**.
    - **Status** (**Select status**), **Type** (**Select type**), dan **Location** (**Select location**).
 3. Klik **Apply**. Klik **Clear** untuk kembali ke pengaturan awal.
@@ -65,7 +65,7 @@ Klik ikon titik tiga (**Story actions**) di kartu. Untuk Story milik DM lain, pi
 
 Klik **Cancel** untuk kembali tanpa menyimpan.
 
-![Form Create Story dengan Banner, Title, Description, Type, Game System, Max Members, XP Awarded, dan Gold Awarded (GP)](../images/dm-stories-create-1.png)
+![Form Create Story dengan Banner, Title, Description, Type, Game System, Max Members, EXP Awarded, dan Gold Awarded (GP)](../images/dm-stories-create-1.png)
 
 | Kolom | Wajib | Aturan |
 | --- | --- | --- |
@@ -75,7 +75,7 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 | Type | Ya | **Oneshot** atau **Campaign** |
 | Game System | Tidak | Maksimal 100 karakter, misalnya "DnD 5e 2014" |
 | Max Members | Tidak | Bilangan bulat minimal 1. Ini jatah pemain yang dihadiahi; anggota lain tetap bisa ikut sebagai penonton. Kosongkan kalau tanpa batas. |
-| XP Awarded | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
+| EXP Awarded | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
 | Gold Awarded (GP) | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
 | Start At | Tidak | Tanggal (klik **Pick a date**) dan jam mulai |
 | Location Type | Ya | **Online** atau **Offline** |
@@ -106,9 +106,9 @@ Kotak **Description** punya bilah alat untuk merapikan tulisan:
 
 Kalau kamu mengisi jam tanpa memilih tanggal, tanggalnya otomatis hari ini.
 
-### Panduan XP
+### Panduan EXP
 
-Klik ikon tanda tanya di sebelah **XP Awarded** untuk melihat **XP guide by difficulty**: **Easy** 5 XP, **Medium** 7 XP, **Hard** 10 XP. Ini hanya panduan (**Only a guide. DMs can enter any value.**).
+Klik ikon tanda tanya di sebelah **EXP Awarded** untuk melihat **EXP guide by difficulty**: **Easy** 5 EXP, **Medium** 7 EXP, **Hard** 10 EXP. Ini hanya panduan (**Only a guide. DMs can enter any value.**).
 
 ### Mengunggah banner
 
@@ -118,7 +118,7 @@ Klik ikon tanda tanya di sebelah **XP Awarded** untuk melihat **XP guide by diff
 
 Pesan kesalahan banner: **Banner must be a JPG, PNG, or WebP image** atau **Banner must be 5 MB or smaller**.
 
-Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **XP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**.
+Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **EXP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**.
 
 ## Detail Story
 
@@ -146,7 +146,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
 2. Halaman **Edit Story** terbuka dengan isian yang sudah terisi data Story-mu. Kolomnya sama dengan form membuat Story. Ubah yang perlu.
 3. Klik **Save**.
 
-![Halaman Edit Story dengan isian yang sudah terisi: Banner, Title, Description, Type, Game System, Max Members, XP Awarded, Gold Awarded (GP)](../images/dm-stories-edit-1.png)
+![Halaman Edit Story dengan isian yang sudah terisi: Banner, Title, Description, Type, Game System, Max Members, EXP Awarded, Gold Awarded (GP)](../images/dm-stories-edit-1.png)
 
 **Hasilnya:** muncul pesan **Story updated** dan kamu dibawa ke detail Story.
 

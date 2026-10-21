@@ -76,7 +76,7 @@ Halaman ini berisi:
   - **Player slots**: misalnya "Only 4 heroes can play. Once full, you can still join as a viewer.", atau **No limit set**.
   - **Location · Online** atau **Location · Offline**: detail tempat atau tautan bermain.
   - **Game system**: kalau diisi.
-  - Hadiah **Experience** (XP) dan **Gold** (GP), kalau ada.
+  - Hadiah **Experience** (EXP) dan **Gold** (GP), kalau ada.
   - Tombol bergabung atau keluar (lihat di bawah).
   - Nama **Dungeon Master**.
 - **The Tale**: cerita lengkap Story, atau **No description has been written for this story yet.**

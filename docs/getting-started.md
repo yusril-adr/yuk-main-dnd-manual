@@ -62,8 +62,8 @@ Setelah masuk, bilah atas menampilkan tombol merah **Dashboard** dan nama serta 
 
 Bagian **Stats** menampilkan:
 
-- EXP-mu sebagai Dungeon Master (contoh: "120 XP - DM"),
-- EXP-mu sebagai pemain (contoh: "80 XP - Player"),
+- EXP-mu sebagai Dungeon Master (contoh: "120 EXP - DM"),
+- EXP-mu sebagai pemain (contoh: "80 EXP - Player"),
 - Gold-mu (contoh: "50 GP"),
 - role yang sedang aktif (atau **Not set** kalau belum dipilih).
 

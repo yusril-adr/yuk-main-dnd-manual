@@ -21,7 +21,7 @@ Bagian **Legends of …** (misalnya **Legends of October**) berisi dua papan per
 - **Dungeon Masters of …**: tiga DM dengan tambahan EXP terbanyak bulan ini.
 - **Heroes of …**: tiga pemain dengan tambahan EXP terbanyak bulan ini.
 
-Setiap tempat menampilkan nama (klik untuk membuka kartu petualang), total EXP-nya, dan tambahan EXP bulan ini, misalnya "+40 XP so far". Tempat yang masih kosong bertuliskan **Unclaimed** dengan catatan **Awaiting a master** atau **Awaiting a hero**.
+Setiap tempat menampilkan nama (klik untuk membuka kartu petualang), total EXP-nya, dan tambahan EXP bulan ini, misalnya "+40 EXP so far". Tempat yang masih kosong bertuliskan **Unclaimed** dengan catatan **Awaiting a master** atau **Awaiting a hero**.
 
 Di layar kecil, kedua papan ini ditampilkan bergantian. Ketuk tab **Dungeon Masters** atau **Heroes** untuk berpindah.
 
@@ -54,7 +54,7 @@ Kalau daftar gagal dimuat, muncul **The guild roll could not be fetched**. Klik 
 
 **Cara membuka:** klik nama seseorang di mana saja (daftar Guildmates, papan Legends, daftar party, atau nama Dungeon Master di sebuah Story).
 
-![Kartu petualang berisi nama, role, XP sebagai DM dan Hero, tombol Print card, dan Quest Log](../images/pengunjung-guildmates-detail-1.png)
+![Kartu petualang berisi nama, role, EXP sebagai DM dan Hero, tombol Print card, dan Quest Log](../images/pengunjung-guildmates-detail-1.png)
 
 Halaman ini berisi:
 
@@ -63,7 +63,7 @@ Halaman ini berisi:
   - foto, nama, dan username,
   - role-nya (atau **Wandering adventurer** kalau tidak ada),
   - EXP sebagai **DM** dan sebagai **Hero**, beserta porsinya dari total,
-  - **Total XP**,
+  - **Total EXP**,
   - **Guild member since** (tanggal bergabung).
 - **The Adventurer's Tale**: bio singkat, kalau sudah diisi.
 - **Quest Log**: daftar Story yang terkait dengan orang ini.

@@ -47,7 +47,7 @@ Judulnya mengikuti nama bulan lalu, misalnya **Legends of September**. Ada dua p
 - **Heroes**: tiga pemain dengan tambahan EXP terbanyak bulan lalu.
 - **Dungeon Masters**: tiga DM dengan tambahan EXP terbanyak bulan lalu.
 
-Setiap baris menunjukkan peringkat, nama (klik untuk membuka kartu petualangnya), username, dan EXP yang didapat, misalnya "+35 XP in September". Klik **See all guildmates** untuk membuka [daftar Guildmates](guildmates.md).
+Setiap baris menunjukkan peringkat, nama (klik untuk membuka kartu petualangnya), username, dan EXP yang didapat, misalnya "+35 EXP in September". Klik **See all guildmates** untuk membuka [daftar Guildmates](guildmates.md).
 
 Kalau bulan lalu belum ada yang mengumpulkan EXP, muncul pesan yang diawali **No legends in** dan diakhiri **The tavern awaits.**
 

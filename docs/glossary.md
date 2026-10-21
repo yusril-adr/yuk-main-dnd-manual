@@ -14,7 +14,7 @@
 | **Registered** / **Enlisted** | Sudah mendaftar di party, belum ditentukan hadir atau tidak |
 | **Attended** | Ditandai hadir saat Story diselesaikan, dan menerima hadiah |
 | **Player slots** / **Max Members** | Jumlah pemain yang dihadiahi saat Story selesai. Anggota lain tetap boleh ikut sebagai penonton. |
-| **EXP** / **XP** | Poin pengalaman. Ada dua jenis: EXP pemain (**Player EXP**) dan EXP Dungeon Master (**DM EXP**). |
+| **EXP** | Poin pengalaman. Ada dua jenis: EXP pemain (**Player EXP**) dan EXP Dungeon Master (**DM EXP**). |
 | **Gold** / **GP** (Gold Pieces) | Mata uang guild |
 | **Legends** | Tiga pemain dan tiga DM dengan tambahan EXP terbanyak dalam satu bulan |
 | **Kartu petualang** | Halaman profil publik seorang Guildmate, yang bisa dicetak |

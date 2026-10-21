@@ -8,7 +8,7 @@
 
 **Cara membuka:** buka menu avatar, lalu pilih **Profile**.
 
-**Hasilnya:** kamu langsung dibawa ke halaman kartu petualangmu yang publik di bagian Guildmates (menu **Guildmates** di bilah atas tampil aktif). Halaman ini sama persis dengan yang dilihat pengunjung lain: kartu dengan role-mu, XP sebagai **DM** dan **Hero**, **Total XP**, **Guild member since**, tombol **Print card**, dan **Quest Log**. Lihat [Kartu petualang](../pengunjung/guildmates.md#kartu-petualang-detail-guildmate).
+**Hasilnya:** kamu langsung dibawa ke halaman kartu petualangmu yang publik di bagian Guildmates (menu **Guildmates** di bilah atas tampil aktif). Halaman ini sama persis dengan yang dilihat pengunjung lain: kartu dengan role-mu, EXP sebagai **DM** dan **Hero**, **Total EXP**, **Guild member since**, tombol **Print card**, dan **Quest Log**. Lihat [Kartu petualang](../pengunjung/guildmates.md#kartu-petualang-detail-guildmate).
 
 ![Kartu petualang milikmu sendiri, dibuka lewat menu Profile](../images/pemain-profil-1.png)
 

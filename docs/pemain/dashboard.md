@@ -66,7 +66,7 @@ Halaman **Story Detail** berisi:
 - **Adventure Info**:
   - **Game System** (atau **Any system**),
   - **Party Size**, misalnya "Up to 6 adventurers" (atau **No limit**),
-  - **Rewards**, misalnya "10 XP · 50 GP" (atau **No rewards**),
+  - **Rewards**, misalnya "10 EXP · 50 GP" (atau **No rewards**),
   - **Starts** (atau **Not scheduled yet**),
   - **Location · Online** atau **Location · Offline**, berisi detail tempat atau tautan.
 - **Chronicle**: **Written By** (nama Dungeon Master, klik untuk membuka kartu petualangnya), **Recorded** (tanggal dibuat), dan **Last Updated**.

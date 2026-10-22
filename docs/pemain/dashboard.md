@@ -57,7 +57,7 @@ Setiap halaman memuat 12 Story. Di bawah daftar ada tulisan seperti "Showing 1â€
 
 **Cara membuka:** klik judul Story di halaman **My Stories**.
 
-![Story Detail sebuah Story yang kamu ikuti, dengan label Published dan Oneshot, Story Details, dan Adventure Info](../images/pemain-story-detail-1.png)
+![Story Detail sebuah Story yang kamu ikuti, dengan label Published dan Campaign, Story Details, dan Adventure Info berisi Open location map dan Discord Channel](../images/pemain-story-detail-1.png)
 
 Halaman **Story Detail** berisi:
 

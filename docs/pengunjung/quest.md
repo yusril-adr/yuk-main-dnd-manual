@@ -66,7 +66,7 @@ Setiap halaman memuat 12 Story. Di bawah daftar ada tulisan seperti "Showing 1�
 
 **Cara membuka:** klik judul Story di papan Story, di Beranda, atau di kartu petualang seseorang.
 
-![Detail Story dengan label Recruiting, Oneshot, Offline, panel The Quest Scroll, dan tombol Join the party](../images/pengunjung-quest-detail-1.png)
+![Detail Story dengan label Recruiting, Campaign, Offline, panel The Quest Scroll berisi Open location map dan Discord channel, serta tombol Join the party](../images/pengunjung-quest-detail-1.png)
 
 Halaman ini berisi:
 
@@ -84,7 +84,7 @@ Halaman ini berisi:
 - **The Party**: daftar petualang yang sudah bergabung, misalnya "5 adventurers have joined · only 4 can play, the rest join as viewers". Setiap orang punya label **Enlisted** (terdaftar), **Attended** (hadir), atau **Viewer** (penonton). Klik **Show more adventurers (… more)** untuk memuat lebih banyak. Kalau belum ada yang ikut, muncul **No adventurers have joined yet**.
 - **Chronicle**: tanggal **Posted** (diterbitkan) dan **Last updated** (terakhir diubah).
 
-![Bagian The Tale dan The Party yang masih kosong bertuliskan No adventurers have joined yet, di samping panel The Quest Scroll](../images/pengunjung-quest-detail-2.png)
+![Bagian The Tale dan The Party dengan satu petualang berlabel Enlisted, di samping panel The Quest Scroll](../images/pengunjung-quest-detail-2.png)
 
 Di ponsel, tombol bergabung tampil di bilah bawah layar.
 

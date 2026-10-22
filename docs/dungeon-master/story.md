@@ -215,6 +215,8 @@ Aksi ini ada di detail Story, dan sebagian juga di ikon titik tiga pada kartu di
 3. Centang anggota yang hadir. Gunakan kolom pencarian (**Type minimum 3 characters to search ...**) kalau party-nya besar. Kalau belum ada anggota, jendela ini bertuliskan **No adventurers have joined this party yet.**
 4. Klik **Complete story**, atau **Cancel** untuk batal.
 
+Aturan jumlah yang dicentang: minimal 1 anggota, dan paling banyak sebanyak **Max Members** Story itu. Boleh kurang dari **Max Members**. Kalau tidak ada yang dicentang, muncul pesan **At least one attended member is required**. Kalau yang dicentang melebihi **Max Members**, muncul pesan **Attended members must not exceed max members of** diikuti angkanya (misalnya 6). Dalam kedua kasus Story belum selesai; ubah centangnya lalu coba lagi.
+
 ![Jendela Complete story? dengan keterangan, kolom pencarian, serta tombol Cancel dan Complete story](../images/dm-stories-complete-1.png)
 
 **Hasilnya:** muncul pesan **Story completed**. Anggota yang dicentang ditandai **Attended** dan menerima hadiah; yang tidak dicentang ditandai **Viewer** dan tidak menerima hadiah. Setelah ini, Story dan anggotanya tidak bisa diubah lagi.

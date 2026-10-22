@@ -51,6 +51,8 @@ Semua kolom pencarian baru bekerja setelah kamu mengetik minimal 3 karakter. Kal
 | **You don't have permission to edit this role** | Role-mu tidak boleh mengubah role ini |
 | **You don't have permission to edit this story** | Role-mu tidak boleh mengubah Story ini |
 | **Completed stories can't be edited** | Story yang sudah selesai dikunci |
+| **At least one attended member is required** | Saat menyelesaikan Story, belum ada anggota yang dicentang hadir |
+| **Attended members must not exceed max members of …** | Anggota yang dicentang hadir lebih banyak dari Max Members |
 
 ## Menyalin cerita gagal
 

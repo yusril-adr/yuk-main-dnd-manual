@@ -32,7 +32,7 @@ Tombol aksi hanya muncul di Story yang kamu tulis, dan berbeda menurut statusnya
 
 **Cara membuka:** di menu samping, di bawah **Master**, klik **Stories**.
 
-![Daftar Stories dengan tombol Add Story, Filter, kolom pencarian, dua kartu Story berstatus Published dan Draft, serta pilihan 12 / page](../images/dm-stories-1.png)
+![Daftar Stories dengan tombol Add Story, Filter, kolom pencarian, satu kartu Story milik sendiri berstatus Published, serta pilihan 12 / page](../images/dm-stories-1.png)
 
 Setiap kartu menampilkan gambar sampul, judul (klik untuk membuka detail), cuplikan cerita (atau **No description.**), status, jenis, serta hadiah EXP dan GP kalau ada.
 
@@ -55,6 +55,8 @@ Di bawah daftar ada tulisan seperti "1 - 2 of 2 items". Pilih jumlah kartu per h
 ### Melihat Story semua penulis
 
 Saat kamu membuka **Stories**, daftar hanya menampilkan Story yang kamu tulis sendiri. Di jendela **Filter**, kolom **Created By** sudah terisi namamu.
+
+![Jendela Filter terbuka dengan Sort By, Sort Order, Status, Type, Location, kolom Created By berisi nama sendiri, serta tombol Clear dan Apply](../images/dm-stories-filter-1.png)
 
 Untuk melihat Story yang ditulis semua DM:
 

@@ -24,6 +24,10 @@ Bisa. Saat semua jatah pemain terisi, kamu tetap bisa bergabung sebagai penonton
 
 Dungeon Master bisa mengisi **Location Link** dan **Discord Channel Link** saat membuat atau mengubah Story. Setelah disimpan, pemain dan pengunjung melihat tautan **Open location map** dan **Open Discord channel** di detail Story. Lihat [Menambahkan tautan peta dan channel Discord](dungeon-master/story.md#menambahkan-tautan-peta-dan-channel-discord).
 
+### Kenapa daftar Stories di Master hanya menampilkan Story milikku?
+
+Daftar **Stories** di **Master** memang awalnya hanya menampilkan Story yang kamu tulis sendiri. Untuk melihat Story yang ditulis DM lain, klik **Filter**, kosongkan kolom **Created By**, lalu klik **Apply**. Pilihan ini tetap berlaku walau halaman dimuat ulang. Klik **Clear** untuk kembali ke Story milikmu saja. Lihat [Melihat Story semua penulis](dungeon-master/story.md#melihat-story-semua-penulis).
+
 ### Bagaimana cara membuka halaman publik sebuah Story dari dashboard?
 
 Di detail Story (di **Board** maupun **Master**), klik alamat pendek Story di bawah judul, misalnya "/bathroom-of-tragedy". Halaman publiknya terbuka di tab baru, jadi alamatnya bisa kamu salin dan bagikan. Alamat ini hanya bisa diklik untuk Story berstatus **Published** atau **Completed**; Story lain belum atau tidak lagi tampil di halaman publik. Lihat [Detail Story di Board](pemain/dashboard.md#detail-story-di-board-story-detail).

@@ -2,7 +2,7 @@
 
 Halaman ini untuk Dungeon Master yang membuat, menerbitkan, dan menyelesaikan Story.
 
-> **Story milikmu vs. milik DM lain.** Di daftar Stories kamu juga bisa melihat Story yang ditulis DM lain, tapi untuk Story itu kamu hanya bisa membukanya (**View**). Tombol untuk mengubah, menerbitkan, menyelesaikan, membatalkan, mengarsipkan, menghapus, dan mengatur anggota hanya muncul di Story yang kamu tulis sendiri.
+> **Story milikmu vs. milik DM lain.** Daftar Stories awalnya hanya menampilkan Story yang kamu tulis. Kamu juga bisa menampilkan Story yang ditulis DM lain (lihat [Melihat Story semua penulis](#melihat-story-semua-penulis)), tapi untuk Story itu kamu hanya bisa membukanya (**View**). Tombol untuk mengubah, menerbitkan, menyelesaikan, membatalkan, mengarsipkan, menghapus, dan mengatur anggota hanya muncul di Story yang kamu tulis sendiri.
 
 ## Perjalanan sebuah Story
 
@@ -43,13 +43,26 @@ Setiap kartu menampilkan gambar sampul, judul (klik untuk membuka detail), cupli
    - **Sort By**: **Title**, **Status**, **Type**, **Game System**, **Max Members**, **EXP Awarded**, **Gold Awarded**, **Start At**, **Location**, **Created At**, atau **Updated At**.
    - **Sort Order**: **Ascending** atau **Descending**.
    - **Status** (**Select status**), **Type** (**Select type**), dan **Location** (**Select location**).
-3. Klik **Apply**. Klik **Clear** untuk kembali ke pengaturan awal.
+   - **Created By** (**Search user**): penulis Story. Ketik nama untuk mencari, lalu pilih dari daftar. Kalau tidak ada yang cocok, muncul **No users found.**
+3. Klik **Apply**. Perubahan di jendela **Filter** baru berlaku setelah kamu klik **Apply**.
 
-> **Hanya Story milikmu yang tampil?** Kalau di jendela **Filter** milikmu ada kolom **Created By** (kolom ini hanya muncul untuk role yang boleh melihat daftar pengguna, misalnya Guild Master; role Dungeon Master biasanya tidak punya), daftar Stories langsung terbuka dengan saringan berisi namamu sendiri. Untuk melihat Story semua penulis, hapus isi kolom **Created By** sampai kosong, lalu klik **Apply**. Pilihan ini tetap berlaku walau halaman dimuat ulang. Klik **Clear** untuk kembali ke Story milikmu saja. Kalau kolom **Created By** tidak ada, daftar Stories selalu menampilkan Story semua penulis.
+Klik **Clear** untuk kembali ke pengaturan awal: semua saringan dikosongkan, **Created By** kembali berisi namamu sendiri, dan daftar langsung diperbarui tanpa perlu klik **Apply**.
 
 Kalau tidak ada hasil, muncul **No stories found.**
 
 Di bawah daftar ada tulisan seperti "1 - 2 of 2 items". Pilih jumlah kartu per halaman: **6 / page**, **12 / page**, **24 / page**, atau **48 / page**.
+
+### Melihat Story semua penulis
+
+Saat kamu membuka **Stories**, daftar hanya menampilkan Story yang kamu tulis sendiri. Di jendela **Filter**, kolom **Created By** sudah terisi namamu.
+
+Untuk melihat Story yang ditulis semua DM:
+
+1. Klik **Filter**.
+2. Kosongkan kolom **Created By** (hapus isinya, atau klik ikon silang di ujung kolom).
+3. Klik **Apply**.
+
+Daftar Stories sekarang menampilkan Story semua penulis. Pilihan ini tetap berlaku walau halaman dimuat ulang. Untuk melihat Story satu DM tertentu saja, pilih namanya di **Created By**, lalu klik **Apply**. Untuk kembali ke Story milikmu saja, klik **Clear**.
 
 ### Aksi di setiap kartu
 

@@ -29,6 +29,7 @@ Dengan role Dungeon Master, menu samping Dashboard berisi:
 
 - Pencarian: ketik minimal 3 karakter di kolom **Type minimum 3 characters to search ...**. Kosongkan kolom untuk menampilkan semuanya lagi.
 - Saringan dan urutan: klik **Filter**, atur pilihannya, lalu klik **Apply**. Klik **Clear** untuk kembali ke pengaturan awal.
+- Daftar **Stories** awalnya hanya menampilkan Story milikmu. Untuk melihat Story semua penulis, kosongkan **Created By** di **Filter**, lalu klik **Apply**. Lihat [Melihat Story semua penulis](story.md#melihat-story-semua-penulis).
 - Pindah halaman: di bawah daftar ada tulisan seperti "1 - 2 of 2 items", tombol nomor halaman, dan pilihan jumlah per halaman (misalnya **12 / page**).
 - Konfirmasi: aksi penting seperti menerbitkan atau menghapus selalu meminta konfirmasi dulu. Klik **Cancel** untuk batal.
 - Pesan: setiap aksi menampilkan pesan singkat di layar, misalnya **Story created**.

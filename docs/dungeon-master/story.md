@@ -96,6 +96,8 @@ Di bawah **Location Detail** ada dua kolom tambahan yang boleh dikosongkan:
 
 Kedua tautan harus diawali **https://** (tautan **http://** ditolak) dan paling panjang 255 karakter. Tautan Discord hanya diterima dari discord.com, discord.gg, atau discordapp.com.
 
+![Bagian lokasi di form Create Story: Location Type, Location Detail, Location Link, dan Discord Channel Link yang sudah terisi, dengan tombol Cancel, Save as Draft, dan Publish](../images/dm-stories-create-links.png)
+
 **Hasilnya:** setelah Story disimpan, tautan **Open location map** muncul di bawah keterangan lokasi, dan baris **Discord Channel** dengan tautan **Open Discord channel** muncul di detail Story. Keduanya tampil di detail Story milikmu, di detail Story pemain yang bergabung, dan di halaman Story publik, lalu terbuka di tab baru. Kalau kolomnya dikosongkan, tautannya tidak ditampilkan.
 
 ### Menulis cerita Story
@@ -137,7 +139,7 @@ Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150
 
 **Cara membuka:** klik judul Story di daftar, atau pilih **View** dari ikon titik tiga di kartunya.
 
-![Story Detail sebuah Draft milik DM lain, dengan Story Details, Adventure Info, dan Chronicle, tanpa tombol aksi](../images/dm-stories-detail-1.png)
+![Story Detail sebuah Story Published milik DM lain, dengan Story Details dan Adventure Info berisi Open location map dan Discord Channel, tanpa tombol aksi](../images/dm-stories-detail-1.png)
 
 Halaman **Story Detail** berisi:
 
@@ -151,7 +153,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
 
 > Bagian di bawah ini (mengubah, mengubah status, menyelesaikan, dan mengatur anggota) hanya berlaku untuk **Story yang kamu tulis sendiri**.
 
-![Story Detail milikmu sendiri berstatus Draft, dengan tombol Edit, Publish, Archive, dan Delete di kanan atas](../images/dm-stories-detail-2.png)
+![Story Detail milikmu sendiri berstatus Draft, dengan tombol Edit, Publish, Archive, dan Delete di kanan atas, serta Open location map dan Discord Channel di Adventure Info](../images/dm-stories-detail-2.png)
 
 ## Mengubah Story
 

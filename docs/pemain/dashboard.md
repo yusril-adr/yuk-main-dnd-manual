@@ -61,7 +61,7 @@ Setiap halaman memuat 12 Story. Di bawah daftar ada tulisan seperti "Showing 1â€
 
 Halaman **Story Detail** berisi:
 
-- Sampul: gambar, judul, status, dan jenis Story.
+- Sampul: gambar, judul, status, jenis, dan alamat pendek Story (misalnya "/bathroom-of-tragedy"). Kalau Story berstatus **Published** atau **Completed**, alamat pendek itu bisa diklik (ada ikon panah kecil di sebelahnya) dan membuka halaman Story publiknya di tab baru, misalnya untuk dibagikan ke teman. Untuk status lain, alamat pendek hanya berupa teks biasa.
 - **Story Details**: cerita lengkap Story (atau **No description has been written for this story yet.**).
 - **Adventure Info**:
   - **Game System** (atau **Any system**),

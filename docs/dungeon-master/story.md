@@ -45,6 +45,8 @@ Setiap kartu menampilkan gambar sampul, judul (klik untuk membuka detail), cupli
    - **Status** (**Select status**), **Type** (**Select type**), dan **Location** (**Select location**).
 3. Klik **Apply**. Klik **Clear** untuk kembali ke pengaturan awal.
 
+> **Hanya Story milikmu yang tampil?** Kalau di jendela **Filter** milikmu ada kolom **Created By** (kolom ini hanya muncul untuk role yang boleh melihat daftar pengguna, misalnya Guild Master; role Dungeon Master biasanya tidak punya), daftar Stories langsung terbuka dengan saringan berisi namamu sendiri. Untuk melihat Story semua penulis, hapus isi kolom **Created By** sampai kosong, lalu klik **Apply**. Pilihan ini tetap berlaku walau halaman dimuat ulang. Klik **Clear** untuk kembali ke Story milikmu saja. Kalau kolom **Created By** tidak ada, daftar Stories selalu menampilkan Story semua penulis.
+
 Kalau tidak ada hasil, muncul **No stories found.**
 
 Di bawah daftar ada tulisan seperti "1 - 2 of 2 items". Pilih jumlah kartu per halaman: **6 / page**, **12 / page**, **24 / page**, atau **48 / page**.
@@ -143,7 +145,7 @@ Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150
 
 Halaman **Story Detail** berisi:
 
-- Sampul: gambar, judul, status, jenis, dan alamat pendek Story (misalnya "/bathroom-of-tragedy").
+- Sampul: gambar, judul, status, jenis, dan alamat pendek Story (misalnya "/bathroom-of-tragedy"). Kalau Story berstatus **Published** atau **Completed**, alamat pendek itu bisa diklik (ada ikon panah kecil di sebelahnya) dan membuka halaman Story publiknya di tab baru, persis seperti yang dilihat pengunjung. Untuk Story **Draft**, **Archived**, dan **Cancelled**, alamat pendek hanya berupa teks biasa karena Story itu memang belum atau tidak lagi tampil di halaman publik.
 - **Story Details**: cerita Story (atau **No description has been written for this story yet.**), dengan tombol salin untuk Discord.
 - **Adventure Info**: **Game System**, **Party Size**, **Rewards**, **Starts**, dan lokasi. Kalau Story punya tautan peta, di bawah lokasi ada tautan **Open location map**. Kalau Story punya tautan Discord, ada baris **Discord Channel** (berlogo Discord) dengan tautan **Open Discord channel**. Kedua tautan terbuka di tab baru.
 - **Chronicle**: siapa yang menulis dan kapan dibuat serta terakhir diubah.

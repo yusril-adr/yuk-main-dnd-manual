@@ -20,6 +20,10 @@ Menu di Dashboard mengikuti role yang sedang aktif. Dengan role **Player** kamu 
 
 Bisa. Saat semua jatah pemain terisi, kamu tetap bisa bergabung sebagai penonton lewat tombol **Join as viewer**. Jatah pemain hanya menentukan berapa orang yang dihadiahi di akhir. Bicarakan dengan Dungeon Master kalau kamu ingin jadi pemain cadangan.
 
+### Bagaimana cara membagikan lokasi peta atau channel Discord sebuah Story?
+
+Dungeon Master bisa mengisi **Location Link** dan **Discord Channel Link** saat membuat atau mengubah Story. Setelah disimpan, pemain dan pengunjung melihat tautan **Open location map** dan **Open Discord channel** di detail Story. Lihat [Menambahkan tautan peta dan channel Discord](dungeon-master/story.md#menambahkan-tautan-peta-dan-channel-discord).
+
 ### Apa bedanya Registered, Enlisted, Viewer, dan Attended?
 
 - **Registered** (di papan Story publik tampil sebagai **Enlisted**): kamu sudah mendaftar di party.

@@ -74,7 +74,8 @@ Halaman ini berisi:
 - **The Quest Scroll** (ringkasan):
   - **Starts**: hari dan jam mulai, atau **To be announced**.
   - **Player slots**: misalnya "Only 4 heroes can play. Once full, you can still join as a viewer.", atau **No limit set**.
-  - **Location · Online** atau **Location · Offline**: detail tempat atau tautan bermain.
+  - **Location · Online** atau **Location · Offline**: detail tempat atau tautan bermain. Kalau ada tautan peta, di bawahnya muncul **Open location map**.
+  - **Discord channel** (berlogo Discord): tautan **Open Discord channel**, hanya kalau Dungeon Master menambahkannya.
   - **Game system**: kalau diisi.
   - Hadiah **Experience** (EXP) dan **Gold** (GP), kalau ada.
   - Tombol bergabung atau keluar (lihat di bawah).

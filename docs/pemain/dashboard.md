@@ -68,9 +68,12 @@ Halaman **Story Detail** berisi:
   - **Party Size**, misalnya "Up to 6 adventurers" (atau **No limit**),
   - **Rewards**, misalnya "10 EXP · 50 GP" (atau **No rewards**),
   - **Starts** (atau **Not scheduled yet**),
-  - **Location · Online** atau **Location · Offline**, berisi detail tempat atau tautan.
+  - **Location · Online** atau **Location · Offline**, berisi detail tempat atau tautan. Kalau Dungeon Master menambahkan tautan peta, di bawahnya ada tautan **Open location map**.
+  - **Discord Channel** (berlogo Discord), berisi tautan **Open Discord channel**. Baris ini hanya muncul kalau Dungeon Master menambahkan tautan channel Discord.
 - **Chronicle**: **Written By** (nama Dungeon Master, klik untuk membuka kartu petualangnya), **Recorded** (tanggal dibuat), dan **Last Updated**.
 - **Party**: foto anggota party.
+
+Tautan **Open location map** dan **Open Discord channel** terbuka di tab baru, jadi halaman Story Detail tetap terbuka.
 
 Klik panah kiri di sebelah judul, atau **My Stories** di jejak halaman, untuk kembali.
 

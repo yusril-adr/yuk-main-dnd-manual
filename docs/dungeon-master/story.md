@@ -80,10 +80,23 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 | Start At | Tidak | Tanggal (klik **Pick a date**) dan jam mulai |
 | Location Type | Ya | **Online** atau **Offline** |
 | Location Detail | Ya | Misalnya tautan Discord atau alamat tempat |
+| Location Link | Tidak | Tautan peta lokasi, misalnya Google Maps (https://maps.app.goo.gl/...). Harus diawali https, maksimal 255 karakter. Boleh diisi untuk Story **Online** maupun **Offline**. |
+| Discord Channel Link | Tidak | Tautan channel Discord Story (https://discord.gg/...). Harus diawali https dan beralamat discord.com, discord.gg, atau discordapp.com, maksimal 255 karakter. |
 
 **Hasilnya:** muncul pesan **Story created**.
 
 Di kolom **Type**, pilih **Oneshot** atau **Campaign**. Di kolom **Location Type**, pilih **Online** atau **Offline**.
+
+### Menambahkan tautan peta dan channel Discord
+
+Di bawah **Location Detail** ada dua kolom tambahan yang boleh dikosongkan:
+
+1. **Location Link**: tempel tautan peta tempat bermain, misalnya dari Google Maps. Kolom ini tidak bergantung pada **Location Type**, jadi Story **Online** pun boleh punya tautan lokasi.
+2. **Discord Channel Link**: tempel tautan channel Discord tempat party berkumpul, misalnya tautan undangan https://discord.gg/....
+
+Kedua tautan harus diawali **https://** (tautan **http://** ditolak) dan paling panjang 255 karakter. Tautan Discord hanya diterima dari discord.com, discord.gg, atau discordapp.com.
+
+**Hasilnya:** setelah Story disimpan, tautan **Open location map** muncul di bawah keterangan lokasi, dan baris **Discord Channel** dengan tautan **Open Discord channel** muncul di detail Story. Keduanya tampil di detail Story milikmu, di detail Story pemain yang bergabung, dan di halaman Story publik, lalu terbuka di tab baru. Kalau kolomnya dikosongkan, tautannya tidak ditampilkan.
 
 ### Menulis cerita Story
 
@@ -118,7 +131,7 @@ Klik ikon tanda tanya di sebelah **EXP Awarded** untuk melihat **EXP guide by di
 
 Pesan kesalahan banner: **Banner must be a JPG, PNG, or WebP image** atau **Banner must be 5 MB or smaller**.
 
-Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **EXP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**.
+Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **EXP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**, **Location link must be an https link**, **Location link must be at most 255 characters**, **Discord channel link must be an https link on discord.com or discord.gg**, **Discord channel link must be at most 255 characters**.
 
 ## Detail Story
 
@@ -130,7 +143,7 @@ Halaman **Story Detail** berisi:
 
 - Sampul: gambar, judul, status, jenis, dan alamat pendek Story (misalnya "/bathroom-of-tragedy").
 - **Story Details**: cerita Story (atau **No description has been written for this story yet.**), dengan tombol salin untuk Discord.
-- **Adventure Info**: **Game System**, **Party Size**, **Rewards**, **Starts**, dan lokasi.
+- **Adventure Info**: **Game System**, **Party Size**, **Rewards**, **Starts**, dan lokasi. Kalau Story punya tautan peta, di bawah lokasi ada tautan **Open location map**. Kalau Story punya tautan Discord, ada baris **Discord Channel** (berlogo Discord) dengan tautan **Open Discord channel**. Kedua tautan terbuka di tab baru.
 - **Chronicle**: siapa yang menulis dan kapan dibuat serta terakhir diubah.
 - **Party**: anggota party (atau **No adventurers have joined this party yet.**).
 
@@ -144,6 +157,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
 
 1. Di detail Story, klik **Edit** (atau pilih **Edit** dari ikon titik tiga di kartu).
 2. Halaman **Edit Story** terbuka dengan isian yang sudah terisi data Story-mu. Kolomnya sama dengan form membuat Story. Ubah yang perlu.
+   - Untuk menghapus tautan peta atau Discord, kosongkan kolom **Location Link** atau **Discord Channel Link**. Setelah disimpan, tautannya hilang dari detail Story.
 3. Klik **Save**.
 
 ![Halaman Edit Story dengan isian yang sudah terisi: Banner, Title, Description, Type, Game System, Max Members, EXP Awarded, Gold Awarded (GP)](../images/dm-stories-edit-1.png)

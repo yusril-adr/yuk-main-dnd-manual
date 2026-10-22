@@ -131,7 +131,7 @@ Klik ikon tanda tanya di sebelah **EXP Awarded** untuk melihat **EXP guide by di
 
 Pesan kesalahan banner: **Banner must be a JPG, PNG, or WebP image** atau **Banner must be 5 MB or smaller**.
 
-Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **EXP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**, **Location link must be an https link**, **Location link must be at most 255 characters**, **Discord channel link must be an https link on discord.com or discord.gg**, **Discord channel link must be at most 255 characters**.
+Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **EXP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**, **Location link must be an https link**, **Location link must be at most 255 characters**, **Discord channel link must be an https link on discord.com, discord.gg or discordapp.com**, **Discord channel link must be at most 255 characters**.
 
 ## Detail Story
 

@@ -140,7 +140,7 @@ Kalau kamu mengisi jam tanpa memilih tanggal, tanggalnya otomatis hari ini.
 
 ### Panduan EXP
 
-Klik ikon tanda tanya di sebelah **EXP Awarded** untuk melihat **EXP guide by difficulty**: **Easy** 5 EXP, **Medium** 7 EXP, **Hard** 10 EXP. Ini hanya panduan (**Only a guide. DMs can enter any value.**).
+Klik ikon tanda tanya ![ikon tanda tanya](../images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah label **EXP Awarded** untuk melihat **EXP guide by difficulty**: **Easy** 5 EXP, **Medium** 7 EXP, **Hard** 10 EXP. Ini hanya panduan (**Only a guide. DMs can enter any value.**).
 
 ### Mengunggah banner
 

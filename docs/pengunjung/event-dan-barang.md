@@ -8,4 +8,4 @@
 
 **Yang kamu lihat:** halaman bertuliskan **Coming Soon** dan **This page is still under development.** Belum ada yang bisa dilakukan di sini. Cek lagi nanti, ya!
 
-![Halaman Events bertuliskan Coming Soon dan This page is still under development.](../images/pengunjung-event-1.png)
+![Halaman Events dengan animasi axolotl di atas tulisan Coming Soon dan This page is still under development.](../images/pengunjung-event-1.png)

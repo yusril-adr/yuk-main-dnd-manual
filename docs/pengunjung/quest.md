@@ -85,6 +85,8 @@ Halaman ini berisi:
 - **The Party**: daftar petualang yang sudah bergabung, misalnya "5 adventurers have joined · only 4 can play, the rest join as viewers". Setiap orang punya label **Enlisted** (terdaftar), **Attended** (hadir), atau **Viewer** (penonton). Klik **Show more adventurers (… more)** untuk memuat lebih banyak. Kalau belum ada yang ikut, muncul **No adventurers have joined yet**.
 - **Chronicle**: tanggal **Posted** (diterbitkan) dan **Last updated** (terakhir diubah).
 
+![Halaman Story publik dengan panel The Quest Scroll berisi Discord channel dan baris Feedback form dengan tautan Open feedback form](../images/pengunjung-quest-detail-feedback.png)
+
 ![Bagian The Tale dan The Party dengan satu petualang berlabel Enlisted, di samping panel The Quest Scroll](../images/pengunjung-quest-detail-2.png)
 
 Di ponsel, tombol bergabung tampil di bilah bawah layar.

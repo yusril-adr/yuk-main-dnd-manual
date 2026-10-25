@@ -76,6 +76,8 @@ Halaman **Story Detail** berisi:
 
 Tautan **Open location map**, **Open Discord channel**, dan **Open feedback form** terbuka di tab baru, jadi halaman Story Detail tetap terbuka.
 
+![Story Detail di Board pemain dengan Adventure Info berisi Discord Channel dan baris Feedback Form dengan tautan Open feedback form](../images/pemain-story-detail-feedback.png)
+
 Klik panah kiri di sebelah judul, atau **My Stories** di jejak halaman, untuk kembali.
 
 ### Menyalin cerita Story untuk Discord

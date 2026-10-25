@@ -119,6 +119,8 @@ Ketiga tautan harus diawali **https://** (tautan **http://** ditolak) dan paling
 
 **Hasilnya:** setelah Story disimpan, tautan **Open location map** muncul di bawah keterangan lokasi, baris **Discord Channel** dengan tautan **Open Discord channel** muncul di detail Story, dan baris **Feedback Form** dengan tautan **Open feedback form** muncul di bawahnya. Semuanya tampil di detail Story milikmu, di detail Story pemain yang bergabung, dan di halaman Story publik, lalu terbuka di tab baru. Kalau kolomnya dikosongkan, tautannya tidak ditampilkan.
 
+![Bagian bawah form Edit Story: Location Type, Location Detail, Location Link, Discord Channel Link, dan Feedback Form Link berisi tautan Google Form https, dengan status Published serta tombol Cancel dan Save](../images/dm-stories-edit-feedback.png)
+
 ### Menulis cerita Story
 
 Kotak **Description** punya bilah alat untuk merapikan tulisan:
@@ -166,6 +168,8 @@ Pesan kesalahan banner: **Banner must be a JPG, PNG, or WebP image** atau **Bann
 
 Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **Location type is required**, **Location detail is required**, **Location link must be an https link**, **Location link must be at most 255 characters**, **Discord channel link must be an https link on discord.com, discord.gg or discordapp.com**, **Discord channel link must be at most 255 characters**, **Feedback form link must be an https link**, **Feedback form link must be at most 255 characters**.
 
+![Kolom Feedback Form Link berwarna merah berisi tautan http, dengan pesan Feedback form link must be an https link di bawahnya](../images/dm-stories-feedback-error.png)
+
 ## Detail Story
 
 **Cara membuka:** klik judul Story di daftar, atau pilih **View** dari ikon titik tiga di kartunya.
@@ -179,6 +183,8 @@ Halaman **Story Detail** berisi:
 - **Adventure Info**: **Game System**, **Party Size**, **Rewards**, **Starts**, dan lokasi. Kalau Story punya tautan peta, di bawah lokasi ada tautan **Open location map**. Kalau Story punya tautan Discord, ada baris **Discord Channel** (berlogo Discord) dengan tautan **Open Discord channel**. Kalau Story punya tautan formulir umpan balik, ada baris **Feedback Form** dengan tautan **Open feedback form**. Semua tautan ini terbuka di tab baru.
 - **Chronicle**: siapa yang menulis dan kapan dibuat serta terakhir diubah.
 - **Party**: anggota party (atau **No adventurers have joined this party yet.**).
+
+![Story Detail milik DM lain dengan Adventure Info berisi Discord Channel dan baris Feedback Form dengan tautan Open feedback form](../images/dm-stories-detail-feedback.png)
 
 Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-di-board-story-detail). Di Story yang kamu tulis, ada tambahan tombol aksi di samping judul (di layar kecil, di balik ikon titik tiga). Di Story milik DM lain, tombol itu tidak ada.
 

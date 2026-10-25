@@ -82,7 +82,7 @@ Klik ikon titik tiga (**Story actions**) di kartu. Untuk Story milik DM lain, pi
 
 Klik **Cancel** untuk kembali tanpa menyimpan.
 
-![Form Create Story dengan Banner, Title, Description, Type, Game System, Max Members, EXP Awarded, dan Gold Awarded (GP)](../images/dm-stories-create-1.png)
+![Form Create Story dengan Banner, Title, Description, Type, Game System, Max Members, serta EXP Awarded (1) dan Gold Awarded (GP) (0) yang terkunci](../images/dm-stories-create-1.png)
 
 | Kolom | Wajib | Aturan |
 | --- | --- | --- |
@@ -150,6 +150,8 @@ Klik ikon tanda tanya ![ikon tanda tanya](../images/icons/circle-help.svg){ widt
 - di **EXP Awarded**: **EXP rewards are standardized: every attending player gets 1 EXP per story, so it can't be filled in here. The DM gets 1 DM EXP automatically, unless they also played.**
 - di **Gold Awarded (GP)**: **Gold rewards are standardized for now, so they can't be filled in here.**
 
+![Jendela Standardized reward terbuka di sebelah label EXP Awarded, di atas kolom EXP Awarded yang terkunci di 1 dan Gold Awarded (GP) di 0](../images/dm-stories-reward-help.png)
+
 Kamu sendiri mendapat 1 **DM EXP** secara otomatis saat Story selesai. Lihat [Menyelesaikan Story dan membagi hadiah](#menyelesaikan-story-dan-membagi-hadiah).
 
 ### Mengunggah banner
@@ -190,7 +192,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
    - Kolom **EXP Awarded** dan **Gold Awarded (GP)** terkunci dan selalu menunjukkan 1 dan 0. Menyimpan perubahan tidak mengubah hadiah yang sudah tercatat di Story itu, jadi Story lama yang dulu diberi hadiah lain tetap memakai hadiah lamanya. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan).
 3. Klik **Save**.
 
-![Halaman Edit Story dengan isian yang sudah terisi: Banner, Title, Description, Type, Game System, Max Members, EXP Awarded, Gold Awarded (GP)](../images/dm-stories-edit-1.png)
+![Bagian bawah halaman Edit Story: Type, Game System, Max Members, EXP Awarded (1) dan Gold Awarded (GP) (0) yang terkunci, Start At, Location, Discord Channel Link, status Published, serta tombol Cancel dan Save](../images/dm-stories-edit-1.png)
 
 **Hasilnya:** muncul pesan **Story updated** dan kamu dibawa ke detail Story.
 
@@ -285,7 +287,7 @@ Semua hadiah ini tercatat di [Balances](../pemain/saldo.md) masing-masing.
 3. Centang petualang yang ingin ditambahkan.
 4. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu: **Add**, **Add 1 member**, atau misalnya "Add 3 members". Klik **Cancel** atau ikon silang untuk menutup tanpa menambah.
 
-Namamu sendiri juga ada di daftar, jadi kamu bisa ikut sebagai pemain di Story yang kamu tulis. Kalau ikut, kamu dihitung dalam jatah **Max Members** seperti anggota lain. Kalau pencarian tidak menemukan siapa pun, muncul **No adventurers match this search.**
+Petualang yang sudah ada di party tidak muncul di daftar. Namamu sendiri juga ada di daftar selama kamu belum ikut, jadi kamu bisa ikut sebagai pemain di Story yang kamu tulis. Kalau ikut, kamu dihitung dalam jatah **Max Members** seperti anggota lain. Kalau pencarian tidak menemukan siapa pun, muncul **No adventurers match this search.**
 
 ![Jendela Add member dengan kolom pencarian, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-members-1.png)
 

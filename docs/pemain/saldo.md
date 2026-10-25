@@ -30,7 +30,7 @@ Setiap baris menampilkan jenis catatan, tanggal dan jam, keterangan (atau "—" 
 
 Riwayat diurutkan dari yang terbaru. Setiap halaman memuat 10 catatan. Di bawah daftar ada tulisan seperti "Showing 1–10 of 25". Klik nomor halaman atau panah untuk berpindah.
 
-![Tab Experience dan Gold Pieces, pilihan All experience, dan riwayat kosong bertuliskan No experience yet](../images/pemain-saldo-2.png)
+![Tab Experience dan Gold Pieces, pilihan All experience dan All changes, serta satu catatan Player EXP bertanda +1 EXP berwarna hijau](../images/pemain-saldo-2.png)
 
 ## Kalau daftarnya kosong
 

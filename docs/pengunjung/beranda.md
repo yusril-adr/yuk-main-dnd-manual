@@ -49,6 +49,8 @@ Judulnya mengikuti nama bulan lalu, misalnya **Legends of September**. Ada dua p
 
 EXP bersih artinya EXP yang bertambah dikurangi EXP yang berkurang selama bulan itu. Orang yang EXP bersihnya 0 atau kurang tidak masuk papan.
 
+Kalau dua orang punya EXP bersih yang sama, yang lebih dulu mencapai angka itu berada di peringkat lebih atas.
+
 Setiap baris menunjukkan peringkat, nama (klik untuk membuka kartu petualangnya), username, dan EXP bersih yang didapat, misalnya "+35 EXP in September". Klik **See all guildmates** untuk membuka [daftar Guildmates](guildmates.md).
 
 Kalau bulan lalu belum ada yang mengumpulkan EXP, muncul pesan yang diawali **No legends in** dan diakhiri **The tavern awaits.**

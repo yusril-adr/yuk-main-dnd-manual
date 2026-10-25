@@ -23,6 +23,8 @@ Bagian **Legends of …** (misalnya **Legends of October**) berisi dua papan per
 
 EXP bersih artinya EXP yang bertambah dikurangi EXP yang berkurang selama bulan itu. Orang yang EXP bersihnya 0 atau kurang tidak masuk papan.
 
+Kalau dua orang punya EXP bersih yang sama, yang lebih dulu mencapai angka itu berada di peringkat lebih atas.
+
 Setiap tempat menampilkan nama (klik untuk membuka kartu petualang), total EXP-nya, dan tambahan EXP bersih bulan ini, misalnya "+40 EXP so far". Tempat yang masih kosong bertuliskan **Unclaimed** dengan catatan **Awaiting a master** atau **Awaiting a hero**.
 
 Di layar kecil, kedua papan ini ditampilkan bergantian. Ketuk tab **Dungeon Masters** atau **Heroes** untuk berpindah.
@@ -32,6 +34,8 @@ Kalau belum ada yang mengumpulkan EXP bulan ini, muncul pesan seperti **No legen
 ### The Guild Roll
 
 Di bawahnya ada **The Guild Roll** (**Every adventurer sworn to the guild.**) berisi kartu setiap anggota: foto, nama, username, role-nya, serta EXP sebagai **Dungeon Master** dan sebagai **Player**.
+
+Anggota diurutkan dari EXP sebagai Dungeon Master tertinggi. Kalau sama, dari EXP sebagai Player tertinggi. Kalau masih sama, anggota yang paling lama bergabung tampil lebih dulu.
 
 #### Mencari anggota
 

@@ -24,8 +24,9 @@ Angka besar ditulis singkat, misalnya "1.2k". Klik angka itu untuk melihat jumla
 2. Kalau perlu, saring jenisnya lewat pilihan di atas daftar:
    - di tab **Experience**: **All experience**, **Player EXP**, atau **Dungeon Master EXP**;
    - di tab **Gold Pieces**: **All gold**, **Gold earned**, atau **Gold spent**.
+3. Di tab **Experience** ada pilihan kedua di sebelahnya untuk menyaring arah perubahan: **All changes**, **EXP increments** (EXP bertambah), atau **EXP decrements** (EXP berkurang). Tab **Gold Pieces** tidak punya pilihan ini, karena **Gold earned** dan **Gold spent** sudah membedakannya.
 
-Setiap baris menampilkan jenis catatan, tanggal dan jam, keterangan (atau "—" kalau kosong), serta jumlahnya. Jumlah yang bertambah ditandai **+** dan berwarna hijau; yang berkurang ditandai **−** dan berwarna merah.
+Setiap baris menampilkan jenis catatan, tanggal dan jam, keterangan (atau "—" kalau kosong), serta jumlahnya. Jumlah yang bertambah ditandai **+** dan berwarna hijau; yang berkurang ditandai **−** dan berwarna merah. Ini berlaku untuk EXP maupun Gold: EXP-mu bisa berkurang kalau pengurus guild menguranginya.
 
 Riwayat diurutkan dari yang terbaru. Setiap halaman memuat 10 catatan. Di bawah daftar ada tulisan seperti "Showing 1–10 of 25". Klik nomor halaman atau panah untuk berpindah.
 
@@ -33,9 +34,9 @@ Riwayat diurutkan dari yang terbaru. Setiap halaman memuat 10 catatan. Di bawah 
 
 ## Kalau daftarnya kosong
 
-- Belum ada EXP: **No experience yet** (**EXP earned as a player or dungeon master will be recorded here.**)
+- Belum ada EXP: **No experience yet** (**EXP you earn or spend as a player or dungeon master will be recorded here.**)
 - Belum ada Gold: **No gold yet** (**Gold you earn or spend will be recorded here.**)
-- Saringan tidak cocok: **No entries match**. Klik **Clear filter**.
+- Saringan tidak cocok: **No entries match**. Klik **Clear filter** untuk mengosongkan kedua pilihan sekaligus.
 - Gagal dimuat: **Could not load the ledger**. Klik **Try again**.
 
-> **Dari mana EXP dan Gold berasal?** EXP dan Gold kamu dapatkan terutama saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir. Kamu tidak bisa mengubah saldo sendiri.
+> **Dari mana EXP dan Gold berasal?** Saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir, kamu mendapat **Player EXP** (1 untuk Story baru) dan Gold kalau Story itu memberi Gold. Kalau kamu menulis Story itu sebagai Dungeon Master, kamu mendapat 1 **DM EXP**, kecuali kamu juga hadir sebagai pemain. Pengurus guild juga bisa menambah atau mengurangi EXP-mu. Kamu tidak bisa mengubah saldo sendiri.

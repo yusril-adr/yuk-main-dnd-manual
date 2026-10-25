@@ -40,7 +40,19 @@ Di detail Story (di **Board** maupun **Master**), klik alamat pendek Story di ba
 
 ### Kapan aku mendapat EXP dan Gold?
 
-Saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir, kamu menerima hadiah Story itu. Semua catatannya bisa kamu lihat di [Saldo](pemain/saldo.md).
+Saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir, kamu menerima hadiah Story itu: **Player EXP** (1 untuk Story baru) dan Gold kalau Story itu memberi Gold. Dungeon Master yang menulis Story mendapat 1 **DM EXP** secara otomatis, kecuali ia juga hadir sebagai pemain; dalam hal itu ia hanya mendapat hadiah pemain. Semua catatannya bisa kamu lihat di [Saldo](pemain/saldo.md).
+
+### Kenapa aku tidak bisa mengisi EXP Awarded dan Gold Awarded saat membuat Story?
+
+Hadiah Story kini dibakukan: **EXP Awarded** selalu 1 dan **Gold Awarded (GP)** selalu 0, jadi kedua kolom itu terkunci. Klik ikon tanda tanya ![ikon tanda tanya](images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah labelnya untuk membaca penjelasannya. Lihat [Hadiah Story yang sudah dibakukan](dungeon-master/story.md#hadiah-story-yang-sudah-dibakukan).
+
+### Bisakah Dungeon Master ikut bermain di Story yang ia tulis?
+
+Bisa. Kamu bisa bergabung lewat tombol **Join the party** di halaman Story publik, atau menambahkan dirimu sendiri lewat **Add member**. Kamu dihitung dalam jatah pemain (**Max Members**). Kalau kamu dicentang hadir saat Story selesai, kamu mendapat hadiah pemain saja, tanpa 1 **DM EXP**. Lihat [Menyelesaikan Story dan membagi hadiah](dungeon-master/story.md#menyelesaikan-story-dan-membagi-hadiah).
+
+### Kenapa EXP-ku berkurang?
+
+Pengurus guild bisa mengurangi EXP seseorang. Pengurangan tampil di riwayat [Balances](pemain/saldo.md) dengan tanda **−** berwarna merah. Pilih **EXP decrements** di tab **Experience** untuk melihat semua pengurangan, lalu tanyakan alasannya ke pengurus guild.
 
 ### Bisakah aku keluar dari Story yang sudah kuikuti?
 

@@ -16,7 +16,7 @@
 | **Player slots** / **Max Members** | Jumlah pemain yang dihadiahi saat Story selesai. Anggota lain tetap boleh ikut sebagai penonton. |
 | **EXP** | Poin pengalaman. Ada dua jenis: EXP pemain (**Player EXP**) dan EXP Dungeon Master (**DM EXP**). |
 | **Gold** / **GP** (Gold Pieces) | Mata uang guild |
-| **Legends** | Tiga pemain dan tiga DM dengan tambahan EXP terbanyak dalam satu bulan |
+| **Legends** | Tiga pemain dan tiga DM dengan tambahan EXP bersih (bertambah dikurangi berkurang) terbanyak dalam satu bulan. Yang bersihnya 0 atau kurang tidak masuk. |
 | **Kartu petualang** | Halaman profil publik seorang Guildmate, yang bisa dicetak |
 | **Quest Log** | Daftar Story yang pernah diikuti atau dipimpin seseorang |
 | **Game system** | Aturan permainan yang dipakai, misalnya "DnD 5e 2014" |

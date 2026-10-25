@@ -18,10 +18,12 @@ Di bagian atas ada label **THE GUILD HALL**, judul **Meet thy fellow adventurers
 
 Bagian **Legends of …** (misalnya **Legends of October**) berisi dua papan peringkat:
 
-- **Dungeon Masters of …**: tiga DM dengan tambahan EXP terbanyak bulan ini.
-- **Heroes of …**: tiga pemain dengan tambahan EXP terbanyak bulan ini.
+- **Dungeon Masters of …**: tiga DM dengan tambahan EXP bersih terbanyak bulan ini.
+- **Heroes of …**: tiga pemain dengan tambahan EXP bersih terbanyak bulan ini.
 
-Setiap tempat menampilkan nama (klik untuk membuka kartu petualang), total EXP-nya, dan tambahan EXP bulan ini, misalnya "+40 EXP so far". Tempat yang masih kosong bertuliskan **Unclaimed** dengan catatan **Awaiting a master** atau **Awaiting a hero**.
+EXP bersih artinya EXP yang bertambah dikurangi EXP yang berkurang selama bulan itu. Orang yang EXP bersihnya 0 atau kurang tidak masuk papan.
+
+Setiap tempat menampilkan nama (klik untuk membuka kartu petualang), total EXP-nya, dan tambahan EXP bersih bulan ini, misalnya "+40 EXP so far". Tempat yang masih kosong bertuliskan **Unclaimed** dengan catatan **Awaiting a master** atau **Awaiting a hero**.
 
 Di layar kecil, kedua papan ini ditampilkan bergantian. Ketuk tab **Dungeon Masters** atau **Heroes** untuk berpindah.
 

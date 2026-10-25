@@ -92,8 +92,8 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 | Type | Ya | **Oneshot** atau **Campaign** |
 | Game System | Tidak | Maksimal 100 karakter, misalnya "DnD 5e 2014" |
 | Max Members | Tidak | Bilangan bulat minimal 1. Ini jatah pemain yang dihadiahi; anggota lain tetap bisa ikut sebagai penonton. Kosongkan kalau tanpa batas. |
-| EXP Awarded | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
-| Gold Awarded (GP) | Tidak | Bilangan bulat 0 atau lebih. Awalnya 0. |
+| EXP Awarded | Tidak bisa diisi | Terkunci di angka 1. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan). |
+| Gold Awarded (GP) | Tidak bisa diisi | Terkunci di angka 0. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan). |
 | Start At | Tidak | Tanggal (klik **Pick a date**) dan jam mulai |
 | Location Type | Ya | **Online** atau **Offline** |
 | Location Detail | Ya | Misalnya tautan Discord atau alamat tempat |
@@ -138,9 +138,19 @@ Kotak **Description** punya bilah alat untuk merapikan tulisan:
 
 Kalau kamu mengisi jam tanpa memilih tanggal, tanggalnya otomatis hari ini.
 
-### Panduan EXP
+### Hadiah Story yang sudah dibakukan
 
-Klik ikon tanda tanya ![ikon tanda tanya](../images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah label **EXP Awarded** untuk melihat **EXP guide by difficulty**: **Easy** 5 EXP, **Medium** 7 EXP, **Hard** 10 EXP. Ini hanya panduan (**Only a guide. DMs can enter any value.**).
+Kolom **EXP Awarded** dan **Gold Awarded (GP)** tampil abu-abu dan tidak bisa diisi. Hadiah Story kini sama untuk semua Story:
+
+- **EXP Awarded** selalu 1: setiap pemain yang hadir mendapat 1 EXP per Story.
+- **Gold Awarded (GP)** selalu 0.
+
+Klik ikon tanda tanya ![ikon tanda tanya](../images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah label untuk membaca penjelasannya. Jendela kecil berjudul **Standardized reward** terbuka:
+
+- di **EXP Awarded**: **EXP rewards are standardized: every attending player gets 1 EXP per story, so it can't be filled in here. The DM gets 1 DM EXP automatically, unless they also played.**
+- di **Gold Awarded (GP)**: **Gold rewards are standardized for now, so they can't be filled in here.**
+
+Kamu sendiri mendapat 1 **DM EXP** secara otomatis saat Story selesai. Lihat [Menyelesaikan Story dan membagi hadiah](#menyelesaikan-story-dan-membagi-hadiah).
 
 ### Mengunggah banner
 
@@ -150,7 +160,7 @@ Klik ikon tanda tanya ![ikon tanda tanya](../images/icons/circle-help.svg){ widt
 
 Pesan kesalahan banner: **Banner must be a JPG, PNG, or WebP image** atau **Banner must be 5 MB or smaller**.
 
-Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **EXP awarded must be a whole number of 0 or more**, **Gold awarded must be a whole number of 0 or more**, **Location type is required**, **Location detail is required**, **Location link must be an https link**, **Location link must be at most 255 characters**, **Discord channel link must be an https link on discord.com, discord.gg or discordapp.com**, **Discord channel link must be at most 255 characters**.
+Pesan kesalahan form lainnya: **Title is required**, **Title must be at most 150 characters**, **Title must contain at least one letter or number**, **Description must be at most 5000 characters**, **Type is required**, **Game system must be at most 100 characters**, **Max members must be a whole number of at least 1**, **Location type is required**, **Location detail is required**, **Location link must be an https link**, **Location link must be at most 255 characters**, **Discord channel link must be an https link on discord.com, discord.gg or discordapp.com**, **Discord channel link must be at most 255 characters**.
 
 ## Detail Story
 
@@ -177,6 +187,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
 1. Di detail Story, klik **Edit** (atau pilih **Edit** dari ikon titik tiga di kartu).
 2. Halaman **Edit Story** terbuka dengan isian yang sudah terisi data Story-mu. Kolomnya sama dengan form membuat Story. Ubah yang perlu.
    - Untuk menghapus tautan peta atau Discord, kosongkan kolom **Location Link** atau **Discord Channel Link**. Setelah disimpan, tautannya hilang dari detail Story.
+   - Kolom **EXP Awarded** dan **Gold Awarded (GP)** terkunci dan selalu menunjukkan 1 dan 0. Menyimpan perubahan tidak mengubah hadiah yang sudah tercatat di Story itu, jadi Story lama yang dulu diberi hadiah lain tetap memakai hadiah lamanya. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan).
 3. Klik **Save**.
 
 ![Halaman Edit Story dengan isian yang sudah terisi: Banner, Title, Description, Type, Game System, Max Members, EXP Awarded, Gold Awarded (GP)](../images/dm-stories-edit-1.png)
@@ -254,7 +265,14 @@ Aturan jumlah yang dicentang: minimal 1 anggota, dan paling banyak sebanyak **Ma
 
 **Hasilnya:** muncul pesan **Story completed**. Anggota yang dicentang ditandai **Attended** dan menerima hadiah; yang tidak dicentang ditandai **Viewer** dan tidak menerima hadiah. Setelah ini, Story dan anggotanya tidak bisa diubah lagi.
 
-> Setelah Story selesai, hubungi **Guild Master** untuk penilaian agar kamu mendapatkan **DM EXP**.
+Hadiah yang dibagikan otomatis saat Story selesai:
+
+| Siapa | Hadiah |
+| --- | --- |
+| Setiap anggota yang dicentang hadir | **Player EXP** sebesar **EXP Awarded** Story (1 untuk Story baru), ditambah Gold sebesar **Gold Awarded (GP)** kalau lebih dari 0 |
+| Kamu, penulis Story | 1 **DM EXP**, kecuali kamu sendiri ikut dan dicentang hadir sebagai pemain. Dalam hal itu kamu hanya mendapat hadiah pemain. |
+
+Semua hadiah ini tercatat di [Balances](../pemain/saldo.md) masing-masing.
 
 ## Mengatur anggota party
 
@@ -267,7 +285,7 @@ Aturan jumlah yang dicentang: minimal 1 anggota, dan paling banyak sebanyak **Ma
 3. Centang petualang yang ingin ditambahkan.
 4. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu: **Add**, **Add 1 member**, atau misalnya "Add 3 members". Klik **Cancel** atau ikon silang untuk menutup tanpa menambah.
 
-Kamu tidak bisa menambahkan dirimu sendiri ke Story yang kamu tulis. Kalau pencarian tidak menemukan siapa pun, muncul **No adventurers match this search.**
+Namamu sendiri juga ada di daftar, jadi kamu bisa ikut sebagai pemain di Story yang kamu tulis. Kalau ikut, kamu dihitung dalam jatah **Max Members** seperti anggota lain. Kalau pencarian tidak menemukan siapa pun, muncul **No adventurers match this search.**
 
 ![Jendela Add member dengan kolom pencarian, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-members-1.png)
 

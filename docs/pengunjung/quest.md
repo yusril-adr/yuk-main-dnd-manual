@@ -103,7 +103,7 @@ Di ponsel, tombol bergabung tampil di bilah bawah layar.
 
 **Hasilnya:** muncul pesan **Welcome to the party, adventurer!** dan namamu masuk ke daftar **The Party**. Tombolnya berganti menjadi **Leave the party**, dan catatan di bawahnya berubah menjadi **Thou art enlisted in this story.** Story ini juga muncul di halaman [My Stories](../pemain/dashboard.md#story-ku-my-stories).
 
-> **Perlu kamu tahu:** Siapa pun boleh bergabung. Jatah pemain hanya menentukan berapa orang yang akan dihadiahi saat Story selesai. Dungeon Master yang menentukan siapa yang hadir di akhir.
+> **Perlu kamu tahu:** Siapa pun boleh bergabung, termasuk Dungeon Master yang menulis Story itu. Kalau ia ikut, ia dihitung dalam jatah pemain seperti anggota lain. Jatah pemain hanya menentukan berapa orang yang akan dihadiahi saat Story selesai. Dungeon Master yang menentukan siapa yang hadir di akhir.
 
 ### Keluar dari party
 

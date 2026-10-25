@@ -1,6 +1,6 @@
 # Ikhtisar untuk Dungeon Master
 
-Bagian ini untuk kamu yang menjalankan Story sebagai **Dungeon Master** (DM). Sebagai DM, kamu bisa membuat Story baru, menerbitkannya di papan Story, mengatur anggota party, lalu menyelesaikannya dan membagikan hadiah.
+Bagian ini untuk kamu yang menjalankan Story sebagai **Dungeon Master** (DM). Sebagai DM, kamu bisa membuat Story baru, menerbitkannya di papan Story, mengatur anggota party, lalu menyelesaikannya dan membagikan hadiah. Setiap Story yang kamu selesaikan memberimu 1 **DM EXP** secara otomatis, kecuali kamu sendiri ikut hadir sebagai pemain.
 
 ## Masuk sebagai Dungeon Master
 

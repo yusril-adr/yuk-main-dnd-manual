@@ -44,10 +44,12 @@ Kalau belum ada Story, kamu akan melihat pesan **No stories are posted on the bo
 
 Judulnya mengikuti nama bulan lalu, misalnya **Legends of September**. Ada dua papan:
 
-- **Heroes**: tiga pemain dengan tambahan EXP terbanyak bulan lalu.
-- **Dungeon Masters**: tiga DM dengan tambahan EXP terbanyak bulan lalu.
+- **Heroes**: tiga pemain dengan tambahan EXP bersih terbanyak bulan lalu.
+- **Dungeon Masters**: tiga DM dengan tambahan EXP bersih terbanyak bulan lalu.
 
-Setiap baris menunjukkan peringkat, nama (klik untuk membuka kartu petualangnya), username, dan EXP yang didapat, misalnya "+35 EXP in September". Klik **See all guildmates** untuk membuka [daftar Guildmates](guildmates.md).
+EXP bersih artinya EXP yang bertambah dikurangi EXP yang berkurang selama bulan itu. Orang yang EXP bersihnya 0 atau kurang tidak masuk papan.
+
+Setiap baris menunjukkan peringkat, nama (klik untuk membuka kartu petualangnya), username, dan EXP bersih yang didapat, misalnya "+35 EXP in September". Klik **See all guildmates** untuk membuka [daftar Guildmates](guildmates.md).
 
 Kalau bulan lalu belum ada yang mengumpulkan EXP, muncul pesan yang diawali **No legends in** dan diakhiri **The tavern awaits.**
 

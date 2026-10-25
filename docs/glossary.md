@@ -24,6 +24,7 @@
 | **Draft**, **Published**, **Completed**, **Cancelled**, **Archived** | Status Story. Lihat [Perjalanan sebuah Story](dungeon-master/story.md#perjalanan-sebuah-story). |
 | **Recruiting** | Label untuk Story yang sedang buka (status Published) |
 | **Read-aloud text** | Kotak teks dalam cerita sebuah Story yang dibacakan DM ke pemain |
+| **Feedback form** | Formulir umpan balik (misalnya Google Form) yang tautannya bisa ditambahkan DM ke sebuah Story, supaya pemain bisa menulis kesan dan saran setelah sesi. Lihat [Menambahkan tautan peta, channel Discord, dan formulir umpan balik](dungeon-master/story.md#menambahkan-tautan-peta-channel-discord-dan-formulir-umpan-balik). |
 | **Role** | Peran di aplikasi, misalnya **Player** atau **Dungeon Master**. Role menentukan menu yang kamu lihat. Satu akun bisa punya beberapa role, tapi hanya satu yang aktif. |
 | **Master** | Kelompok menu Dungeon Master di Dashboard, berisi **Stories** |
 | **Board** | Kelompok menu pemain di Dashboard (Stories/My Stories, Events, Goods) |

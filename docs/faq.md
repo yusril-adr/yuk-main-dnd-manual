@@ -22,7 +22,11 @@ Bisa. Saat semua jatah pemain terisi, kamu tetap bisa bergabung sebagai penonton
 
 ### Bagaimana cara membagikan lokasi peta atau channel Discord sebuah Story?
 
-Dungeon Master bisa mengisi **Location Link** dan **Discord Channel Link** saat membuat atau mengubah Story. Setelah disimpan, pemain dan pengunjung melihat tautan **Open location map** dan **Open Discord channel** di detail Story. Lihat [Menambahkan tautan peta dan channel Discord](dungeon-master/story.md#menambahkan-tautan-peta-dan-channel-discord).
+Dungeon Master bisa mengisi **Location Link** dan **Discord Channel Link** saat membuat atau mengubah Story. Setelah disimpan, pemain dan pengunjung melihat tautan **Open location map** dan **Open Discord channel** di detail Story. Lihat [Menambahkan tautan peta, channel Discord, dan formulir umpan balik](dungeon-master/story.md#menambahkan-tautan-peta-channel-discord-dan-formulir-umpan-balik).
+
+### Bagaimana cara meminta umpan balik pemain setelah sesi?
+
+Buat formulirnya dulu, misalnya di Google Forms, lalu tempel tautannya di kolom **Feedback Form Link** saat membuat atau mengubah Story. Tautan harus diawali https://. Setelah disimpan, baris **Feedback Form** (di halaman publik: **Feedback form**) dengan tautan **Open feedback form** muncul di detail Story, jadi pemain bisa langsung mengisinya. Untuk menghapusnya, kosongkan kolom itu lalu klik **Save**. Lihat [Menambahkan tautan peta, channel Discord, dan formulir umpan balik](dungeon-master/story.md#menambahkan-tautan-peta-channel-discord-dan-formulir-umpan-balik).
 
 ### Kenapa daftar Stories di Master hanya menampilkan Story milikku?
 

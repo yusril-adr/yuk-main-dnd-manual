@@ -70,10 +70,11 @@ Halaman **Story Detail** berisi:
   - **Starts** (atau **Not scheduled yet**),
   - **Location · Online** atau **Location · Offline**, berisi detail tempat atau tautan. Kalau Dungeon Master menambahkan tautan peta, di bawahnya ada tautan **Open location map**.
   - **Discord Channel** (berlogo Discord), berisi tautan **Open Discord channel**. Baris ini hanya muncul kalau Dungeon Master menambahkan tautan channel Discord.
+  - **Feedback Form**, berisi tautan **Open feedback form** ke formulir umpan balik dari Dungeon Master, misalnya untuk menulis kesan dan saran setelah sesi. Baris ini hanya muncul kalau Dungeon Master menambahkan tautan formulir.
 - **Chronicle**: **Written By** (nama Dungeon Master, klik untuk membuka kartu petualangnya), **Recorded** (tanggal dibuat), dan **Last Updated**.
 - **Party**: foto anggota party.
 
-Tautan **Open location map** dan **Open Discord channel** terbuka di tab baru, jadi halaman Story Detail tetap terbuka.
+Tautan **Open location map**, **Open Discord channel**, dan **Open feedback form** terbuka di tab baru, jadi halaman Story Detail tetap terbuka.
 
 Klik panah kiri di sebelah judul, atau **My Stories** di jejak halaman, untuk kembali.
 

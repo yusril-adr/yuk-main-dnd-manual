@@ -43,7 +43,7 @@ Semua kolom pencarian baru bekerja setelah kamu mengetik minimal 3 karakter. Kal
 | **Enter a valid https image URL.** | Gambar di cerita Story harus berupa alamat yang diawali https |
 | **Enter a valid http, https or mailto link.** | Periksa alamat tautan |
 
-## Tautan lokasi dan Discord di form Story
+## Tautan lokasi, Discord, dan formulir umpan balik di form Story
 
 | Pesan | Yang bisa kamu lakukan |
 | --- | --- |
@@ -51,6 +51,8 @@ Semua kolom pencarian baru bekerja setelah kamu mengetik minimal 3 karakter. Kal
 | **Location link must be at most 255 characters** | Pakai tautan yang lebih pendek, misalnya tautan bagikan (maps.app.goo.gl) |
 | **Discord channel link must be an https link on discord.com, discord.gg or discordapp.com** | Pakai tautan Discord yang diawali https://, dari discord.com, discord.gg, atau discordapp.com |
 | **Discord channel link must be at most 255 characters** | Pakai tautan undangan yang lebih pendek (discord.gg) |
+| **Feedback form link must be an https link** | Pakai tautan lengkap yang diawali https://, misalnya tautan bagikan Google Form (https://forms.gle/...) |
+| **Feedback form link must be at most 255 characters** | Pakai tautan pendek, misalnya tautan bagikan Google Form (forms.gle) |
 
 ## Tidak bisa membuka halaman edit
 

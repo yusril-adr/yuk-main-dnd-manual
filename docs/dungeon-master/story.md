@@ -96,7 +96,7 @@ Klik **Cancel** untuk kembali tanpa menyimpan.
 | Gold Awarded (GP) | Tidak bisa diisi | Terkunci di angka 0. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan). |
 | Start At | Tidak | Tanggal (klik **Pick a date**) dan jam mulai |
 | Location Type | Ya | **Online** atau **Offline** |
-| Location Detail | Ya | Misalnya tautan Discord atau alamat tempat |
+| Location Detail | Ya | Misalnya nama dan alamat tempat. Tautan Discord diisi di **Discord Channel Link** |
 | Location Link | Tidak | Tautan peta lokasi, misalnya Google Maps (https://maps.app.goo.gl/...). Harus diawali https, maksimal 255 karakter. Boleh diisi untuk Story **Online** maupun **Offline**. |
 | Discord Channel Link | Tidak | Tautan channel Discord Story (https://discord.gg/...). Harus diawali https dan beralamat discord.com, discord.gg, atau discordapp.com, maksimal 255 karakter. |
 | Feedback Form Link | Tidak | Tautan formulir umpan balik untuk pemain, misalnya Google Form (https://forms.gle/...). Boleh tautan apa saja asalkan diawali https, maksimal 255 karakter. |

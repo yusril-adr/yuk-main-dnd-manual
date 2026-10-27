@@ -19,6 +19,9 @@
 - Halaman memuat 10 komentar dulu. Kalau masih ada, klik **Load more comments (… more)** di bawah daftar.
 - Kalau belum ada komentar sama sekali, muncul **No comments yet** dengan ajakan **Be the first to speak at this table.**
 
+![Tavern Talk yang masih kosong: 0 comments, kotak Share thy thoughts on this story... dengan tombol format, penghitung 0/1000, tombol Post comment, pedoman Keep the tavern friendly, dan No comments yet](../images/pemain-komentar-1.png)
+
+
 ## Menulis komentar
 
 1. Masuk ke akunmu, lalu buka halaman Story.
@@ -44,6 +47,9 @@ Di atas kotak komentar dan balasan ada deretan tombol kecil. Arahkan kursor ke t
 | **Emoji** | Membuka pemilih emoji. Ketik di kolom pencarian untuk mencari emoji, lalu klik emoji yang kamu mau. |
 
 Pilih teksnya dulu lalu klik tombolnya, atau klik tombolnya lalu mulai mengetik.
+
+![Kotak komentar berisi Sesi seru! tebal dan daftar berpoin, dengan pemilih emoji terbuka di bawah tombol emoji](../images/pemain-komentar-emoji.png)
+
 
 ### Batas panjang
 
@@ -72,6 +78,9 @@ Balasan hanya satu tingkat: tidak ada balasan di dalam balasan. Kalau kamu klik 
 
 Komentar yang sudah dihapus tidak bisa dibalas lagi.
 
+![Balasan Setuju, rute Tokaido-nya mantap! dan kotak balasan baru yang sudah diawali @yonaka, dengan tombol Cancel dan Post reply](../images/pemain-komentar-balas.png)
+
+
 ### Membaca balasan
 
 - Klik **View 1 reply** atau **View … replies** di bawah komentar untuk membuka balasannya. Balasan diurutkan dari yang paling lama, jadi percakapannya terbaca dari atas ke bawah.
@@ -92,6 +101,9 @@ Ada empat reaksi: 👍 **Like**, ❤️ **Love**, 😂 **Laugh**, dan 😮 **Wow
 
 Pengunjung yang belum masuk tetap melihat chip dan jumlahnya, tapi tidak bisa memberi reaksi. Komentar yang sudah dihapus tidak menampilkan reaksi.
 
+![Pilihan reaksi 👍 ❤️ 😂 😮 terbuka di sebuah komentar, dan chip ❤️ 1 milik sendiri yang bergaris tepi di komentar lain](../images/pemain-komentar-reaksi.png)
+
+
 ## Mengubah komentar
 
 Kamu hanya bisa mengubah komentar dan balasan **milikmu sendiri**.
@@ -100,6 +112,9 @@ Kamu hanya bisa mengubah komentar dan balasan **milikmu sendiri**.
 2. Pilih **Edit**.
 3. Ubah tulisannya di kotak yang muncul.
 4. Klik **Save**. Untuk batal, klik **Cancel** atau tekan **Esc**.
+
+![Menu titik tiga sebuah komentar berisi Edit, Pin to top, dan Delete](../images/pemain-komentar-menu.png)
+
 
 **Hasilnya:** muncul pesan **Comment updated** (atau **Reply updated** untuk balasan).
 
@@ -111,6 +126,9 @@ Kamu bisa menghapus komentar dan balasan milikmu sendiri. Dungeon Master yang me
 2. Pilih **Delete**.
 3. Jendela **Delete this comment?** (atau **Delete this reply?**) muncul dengan pesan "The comment will be removed from the story for everyone. This cannot be undone."
 4. Klik **Delete comment** (atau **Delete reply**) untuk menghapus, atau **Keep it** untuk batal.
+
+![Jendela Delete this comment? dengan tombol Keep it dan Delete comment](../images/pemain-komentar-hapus.png)
+
 
 **Hasilnya:** muncul pesan **Comment deleted** (atau **Reply deleted**). Penghapusan tidak bisa dibatalkan.
 
@@ -125,6 +143,9 @@ Dungeon Master yang menulis Story (dan pengurus guild) bisa menyematkan satu kom
 3. Pilih **Pin to top**.
 
 **Hasilnya:** muncul pesan **Comment pinned**. Komentar itu pindah ke paling atas dengan label **Pinned**.
+
+![Komentar berlabel Pinned di paling atas Tavern Talk, dengan balasannya terbuka, di atas komentar lain](../images/pemain-komentar-pinned.png)
+
 
 - Hanya komentar utama yang bisa disematkan, bukan balasan.
 - Biasanya satu Story hanya punya satu komentar tersemat. Kalau kamu menyematkan komentar lain, komentar yang lama otomatis dilepas.

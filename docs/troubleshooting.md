@@ -65,6 +65,23 @@ Semua kolom pencarian baru bekerja setelah kamu mengetik minimal 3 karakter. Kal
 | **At least one attended member is required** | Saat menyelesaikan Story, belum ada anggota yang dicentang hadir |
 | **Attended members must not exceed max members of …** | Anggota yang dicentang hadir lebih banyak dari Max Members |
 
+## Tavern Talk
+
+| Yang kamu lihat | Kenapa | Yang bisa kamu lakukan |
+| --- | --- | --- |
+| **The comments could not be read.** | Komentar gagal dimuat | Klik **Try again** |
+| **The replies could not be read.** | Balasan gagal dimuat | Klik **Try again** di sebelahnya |
+| **Write something before posting** | Kotak komentar atau balasan masih kosong | Tulis sesuatu dulu |
+| **Comment must be at most 1000 characters, formatting included** | Tulisanmu lebih dari 1000 karakter. Hiasan tulisan (tebal, miring, daftar) ikut dihitung. | Pendekkan tulisanmu, atau kurangi hiasannya |
+| **Join the conversation** dengan tombol **Log in to comment** | Kamu belum masuk | Klik **Log in to comment** dan masuk ke akunmu |
+| **Comments are closed** ("This story is not taking new comments.") / **Comments can only be added to published or completed stories** | Story-nya tidak lagi berstatus Published atau Completed | Komentar baru tidak bisa dikirim ke Story ini |
+| **Reactions can only be added on published or completed stories** | Story-nya tidak lagi berstatus Published atau Completed, atau komentarnya sudah dihapus | Muat ulang halaman |
+| Tombol **Add reaction** (ikon wajah tersenyum) tidak muncul | Kamu belum masuk, atau komentarnya sudah dihapus | Masuk dulu |
+| Tidak ada pilihan **Edit** di ikon titik tiga | Kamu hanya bisa mengubah komentar milikmu sendiri | — |
+| **Only the author can edit this comment** / **Your permission is not allowed to delete this comment** | Komentar itu bukan milikmu | Minta penulisnya, atau Dungeon Master Story itu, untuk mengurusnya |
+| **Replies cannot be pinned** | Hanya komentar utama yang bisa disematkan | Sematkan komentar utamanya |
+| Pesan "… not found" saat mengirim, mengubah, atau menghapus | Komentar atau Story-nya baru saja dihapus | Muat ulang halaman |
+
 ## Menyalin cerita gagal
 
 Kalau muncul **Couldn't copy the description**, perambanmu mungkin menolak akses papan klip. Izinkan akses papan klip untuk situs ini, atau salin teksnya secara manual.

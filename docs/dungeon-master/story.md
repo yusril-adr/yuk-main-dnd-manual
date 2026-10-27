@@ -308,3 +308,15 @@ Petualang yang sudah ada di party tidak muncul di daftar. Namamu sendiri juga ad
 3. Klik tombol hapus, misalnya **Remove 1 member** atau "Remove 2 members".
 
 **Hasilnya:** muncul pesan **Story members removed**.
+
+## Komentar di Story-mu (Tavern Talk)
+
+Setiap Story yang berstatus **Published** atau **Completed** punya bagian komentar **Tavern Talk** di halaman publiknya. Sebagai penulis Story, kamu punya dua kemampuan tambahan di sana:
+
+- **Menyematkan komentar** lewat **Pin to top**, supaya pengumuman atau aturan meja selalu tampil paling atas dengan label **Pinned**. Biasanya hanya satu komentar yang bisa disematkan; menyematkan komentar lain otomatis melepas yang lama. Lepas lewat **Unpin**.
+- **Menghapus komentar atau balasan siapa pun** di Story-mu lewat **Delete**, misalnya kalau ada yang membocorkan cerita.
+
+Kedua pilihan ada di balik ikon titik tiga di kanan setiap komentar. Buka halaman publik Story-mu (lihat [Detail Story](../pengunjung/quest.md#detail-story)), lalu gulir ke **Tavern Talk**. Langkah lengkapnya ada di [Menyematkan komentar](../pemain/komentar.md#menyematkan-komentar-khusus-dungeon-master) dan [Menghapus komentar](../pemain/komentar.md#menghapus-komentar).
+
+Kamu tidak bisa mengubah isi komentar orang lain; hanya penulisnya yang bisa.
+

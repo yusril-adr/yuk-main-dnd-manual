@@ -9,7 +9,7 @@ Panduan ini ditulis untuk tiga jenis pembaca:
 | Kamu adalah… | Yang bisa kamu lakukan | Mulai baca dari |
 | --- | --- | --- |
 | Pengunjung (belum masuk) | Melihat Beranda, papan Story (Stories), dan daftar Guildmates | [Beranda](pengunjung/beranda.md) |
-| Pemain (sudah punya akun) | Ikut Story, melihat Story-mu, cek saldo EXP dan Gold, ubah profil | [Mulai di sini](getting-started.md) |
+| Pemain (sudah punya akun) | Ikut Story, berkomentar di Tavern Talk, melihat Story-mu, cek saldo EXP dan Gold, ubah profil | [Mulai di sini](getting-started.md) |
 | Dungeon Master | Membuat, menerbitkan, dan menyelesaikan Story | [Ikhtisar Dungeon Master](dungeon-master/ikhtisar.md) |
 
 > **Catatan bahasa:** Situs YukMainDnD saat ini seluruhnya berbahasa Inggris. Panduan ini ditulis dalam Bahasa Indonesia, tetapi nama tombol, menu, dan pesan ditulis persis seperti yang tampil di layar, yaitu dalam bahasa Inggris.
@@ -28,6 +28,7 @@ Panduan ini ditulis untuk tiga jenis pembaca:
 ### Untuk pemain
 - [Memilih role (Switch Role)](pemain/ganti-role.md)
 - [Dashboard dan Story-ku (My Stories)](pemain/dashboard.md)
+- [Tavern Talk: komentar, balasan, dan reaksi](pemain/komentar.md)
 - [Saldo EXP dan Gold (Balances)](pemain/saldo.md)
 - [Profil dan Pengaturan (Settings)](pemain/profil-dan-pengaturan.md)
 

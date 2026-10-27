@@ -62,6 +62,26 @@ Pengurus guild bisa mengurangi EXP seseorang. Pengurangan tampil di riwayat [Bal
 
 Bisa, selama tombol **Leave the party** masih muncul di halaman Story. Lihat [Keluar dari party](pengunjung/quest.md#keluar-dari-party).
 
+### Di mana aku bisa berkomentar tentang sebuah Story?
+
+Di bagian **Tavern Talk**, paling bawah halaman Story publik. Siapa pun bisa membaca, tapi kamu harus masuk dulu untuk menulis, membalas, atau memberi reaksi. Kamu tidak harus ikut party Story itu. Lihat [Tavern Talk: komentar, balasan, dan reaksi](pemain/komentar.md).
+
+### Kenapa jumlah komentar lebih sedikit dari yang kulihat?
+
+Angka seperti "3 comments" di bawah judul **Tavern Talk** hanya menghitung komentar utama. Balasan tidak ikut dihitung; jumlahnya tampil di tombol **View … replies** di bawah setiap komentar.
+
+### Bisakah aku memberi lebih dari satu reaksi ke satu komentar?
+
+Tidak. Setiap orang hanya bisa memberi satu reaksi (👍 ❤️ 😂 😮) per komentar. Kalau kamu memilih reaksi lain, reaksi lamamu diganti. Klik lagi chip reaksimu untuk membatalkannya. Lihat [Memberi reaksi](pemain/komentar.md#memberi-reaksi).
+
+### Siapa yang bisa menyematkan atau menghapus komentarku?
+
+Hanya kamu yang bisa mengubah komentarmu. Komentarmu bisa dihapus olehmu sendiri, oleh Dungeon Master yang menulis Story itu, atau oleh pengurus guild. Dungeon Master penulis Story (dan pengurus guild) juga bisa menyematkan satu komentar supaya tampil paling atas dengan label **Pinned**.
+
+### Kenapa ada komentar bertuliskan "This comment was deleted."?
+
+Komentar itu sudah dihapus, tapi masih punya balasan. Tempatnya dibiarkan supaya balasannya tetap bisa dibaca. Komentar itu tidak bisa dibalas atau diberi reaksi lagi.
+
 ### Kenapa semua tulisan di situs berbahasa Inggris?
 
 Situs YukMainDnD saat ini hanya tersedia dalam bahasa Inggris, dan belum ada pilihan untuk mengganti bahasa. Panduan ini menulis nama tombol persis seperti di layar supaya mudah kamu cocokkan.

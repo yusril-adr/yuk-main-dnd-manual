@@ -25,6 +25,10 @@
 | **Recruiting** | Label untuk Story yang sedang buka (status Published) |
 | **Read-aloud text** | Kotak teks dalam cerita sebuah Story yang dibacakan DM ke pemain |
 | **Feedback form** | Formulir umpan balik (misalnya Google Form) yang tautannya bisa ditambahkan DM ke sebuah Story, supaya pemain bisa menulis kesan dan saran setelah sesi. Lihat [Menambahkan tautan peta, channel Discord, dan formulir umpan balik](dungeon-master/story.md#menambahkan-tautan-peta-channel-discord-dan-formulir-umpan-balik). |
+| **Tavern Talk** | Bagian komentar di halaman Story publik. Lihat [Tavern Talk: komentar, balasan, dan reaksi](pemain/komentar.md). |
+| **Reply** (balasan) | Tanggapan atas sebuah komentar. Balasan hanya satu tingkat, dan bisa diawali @username orang yang dibalas. |
+| **Reaction** (reaksi) | Tanggapan singkat berupa emoji: 👍 Like, ❤️ Love, 😂 Laugh, atau 😮 Wow. Satu orang hanya bisa memberi satu reaksi per komentar. |
+| **Pinned** | Label untuk komentar yang disematkan Dungeon Master penulis Story, supaya selalu tampil paling atas di Tavern Talk |
 | **Role** | Peran di aplikasi, misalnya **Player** atau **Dungeon Master**. Role menentukan menu yang kamu lihat. Satu akun bisa punya beberapa role, tapi hanya satu yang aktif. |
 | **Master** | Kelompok menu Dungeon Master di Dashboard, berisi **Stories** |
 | **Board** | Kelompok menu pemain di Dashboard (Stories/My Stories, Events, Goods) |

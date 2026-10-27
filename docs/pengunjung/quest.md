@@ -84,6 +84,7 @@ Halaman ini berisi:
 - **The Tale**: cerita lengkap Story, atau **No description has been written for this story yet.**
 - **The Party**: daftar petualang yang sudah bergabung, misalnya "5 adventurers have joined · only 4 can play, the rest join as viewers". Setiap orang punya label **Enlisted** (terdaftar), **Attended** (hadir), atau **Viewer** (penonton). Klik **Show more adventurers (… more)** untuk memuat lebih banyak. Kalau belum ada yang ikut, muncul **No adventurers have joined yet**.
 - **Chronicle**: tanggal **Posted** (diterbitkan) dan **Last updated** (terakhir diubah).
+- **Tavern Talk**: komentar dan reaksi para petualang tentang Story ini. Lihat [Tavern Talk](#tavern-talk) di bawah.
 
 ![Halaman Story publik dengan panel The Quest Scroll berisi Discord channel dan baris Feedback form dengan tautan Open feedback form](../images/pengunjung-quest-detail-feedback.png)
 
@@ -122,3 +123,24 @@ Di ponsel, tombol bergabung tampil di bilah bawah layar.
 ### Kapan tombol tidak muncul
 
 Tombol bergabung dan keluar hanya muncul kalau aksinya memang tersedia untukmu saat itu. Contohnya, kalau kamu belum masuk, tombol **Join the party** hanya muncul di Story yang sedang buka (**Recruiting**), tidak di Story yang sudah **Completed**.
+
+## Tavern Talk
+
+**Tavern Talk** adalah bagian komentar di paling bawah detail Story, setelah **Chronicle**.
+
+**Siapa yang bisa membaca:** semua orang, tanpa perlu masuk. Untuk menulis komentar, membalas, atau memberi reaksi, kamu harus masuk dulu.
+
+Sebagai pengunjung, kamu bisa:
+
+- Melihat jumlah komentar, misalnya "3 comments". Balasan tidak ikut dihitung.
+- Membaca semua komentar. Komentar berlabel **Pinned** disematkan oleh Dungeon Master dan selalu ada di paling atas. Sisanya diurutkan dari yang terbaru.
+- Melihat kapan komentar dikirim, misalnya "2 hours ago". Arahkan kursor (atau ketuk di ponsel) ke waktu itu untuk melihat tanggal dan jam lengkapnya.
+- Membuka balasan lewat **View … replies**, lalu menutupnya lagi lewat **Hide replies**.
+- Melihat reaksi 👍 ❤️ 😂 😮 beserta jumlahnya. Kamu baru bisa menambah reaksi setelah masuk.
+- Memuat komentar lain lewat **Load more comments (… more)**.
+
+Di tempat kotak komentar, pengunjung melihat ajakan **Join the conversation** dengan tombol **Log in to comment**. Klik tombol itu, masuk ke akunmu, dan kamu akan dikembalikan ke halaman Story ini untuk mulai menulis.
+
+Kalau belum ada yang berkomentar, muncul **No comments yet** ("Be the first to speak at this table."). Kalau komentar gagal dimuat, muncul **The comments could not be read.** Klik **Try again**.
+
+Cara menulis, membalas, mengubah, menghapus, dan memberi reaksi ada di [Tavern Talk: komentar, balasan, dan reaksi](../pemain/komentar.md).

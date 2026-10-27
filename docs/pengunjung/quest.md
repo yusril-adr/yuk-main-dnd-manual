@@ -141,6 +141,8 @@ Sebagai pengunjung, kamu bisa:
 
 Di tempat kotak komentar, pengunjung melihat ajakan **Join the conversation** dengan tombol **Log in to comment**. Klik tombol itu, masuk ke akunmu, dan kamu akan dikembalikan ke halaman Story ini untuk mulai menulis.
 
+![Tavern Talk saat belum masuk: 0 comments, ajakan Join the conversation dengan tombol Log in to comment, dan No comments yet](../images/pengunjung-quest-tavern-talk.png)
+
 Kalau belum ada yang berkomentar, muncul **No comments yet** ("Be the first to speak at this table."). Kalau komentar gagal dimuat, muncul **The comments could not be read.** Klik **Try again**.
 
 Cara menulis, membalas, mengubah, menghapus, dan memberi reaksi ada di [Tavern Talk: komentar, balasan, dan reaksi](../pemain/komentar.md).

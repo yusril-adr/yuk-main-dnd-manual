@@ -14,7 +14,7 @@ Halaman ini membantumu masuk ke akun, keluar lagi, dan mengenal cara berpindah h
 4. Isi **Password** (kolomnya bertuliskan **Enter password**). Klik ikon mata di ujung kolom untuk menampilkan atau menyembunyikan sandi yang kamu ketik.
 5. Klik **Login**.
 
-![Halaman masuk dengan kolom Username/Email, Password, dan tombol Login](images/mulai-login-1.png)
+![Halaman masuk dengan kolom Username/Email, Password, tombol Login, dan ikon bahasa di pojok kanan atas](images/mulai-login-1.png)
 
 | Kolom | Wajib | Aturan |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ Di setiap halaman publik ada bilah atas berisi:
 
 Di layar kecil (ponsel), menu ini disimpan di balik ikon tiga garis. Ketuk ikon itu untuk membuka panel **Menu**.
 
-![Bilah atas berisi logo YukMainDnD, menu Guildmates, Stories, Events, Goods, dan tombol Log in](images/mulai-navigasi-1.png)
+![Bilah atas berisi logo YukMainDnD, menu Guildmates, Stories, Events, Goods, ikon bahasa, dan tombol Log in](images/mulai-navigasi-1.png)
 
 Di bagian paling bawah setiap halaman publik ada catatan kecil **© 2026 YukMainDnD · Crafted by Yonaka**. Nama **Yonaka** adalah tautan yang terbuka di tab baru.
 

@@ -299,19 +299,21 @@ Petualang yang sudah ada di party tidak muncul di daftar. Namamu sendiri juga ad
 
 Kalau petualang yang kamu cari belum punya akun, kamu bisa membuat tamu baru lewat **Create guest**. Lihat [Menambahkan tamu (guest)](#menambahkan-tamu-guest).
 
-![Jendela Add member dengan kolom pencarian, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-members-1.png)
+![Jendela Add member dengan kolom pencarian, tombol Create guest, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-guest-1.png)
 
 **Hasilnya:** muncul pesan **Story members added**. Kalau tidak ada lagi yang bisa ditambahkan, muncul **No adventurers are available to join.**
 
 ### Menambahkan tamu (guest)
 
-**Apa itu tamu:** akun ringkas yang hanya punya **Username** dan **Display Name**. Tamu tidak punya email, sandi, atau role, dan tidak bisa masuk ke situs. Mereka tetap bisa ikut party, mendapat EXP dan Gold saat Story selesai, serta muncul di daftar anggota. Lencana **Guest** hanya tampil di halaman Master (kartu **Party** dan jendela **Add member**), bukan di halaman publik.
+**Apa itu tamu:** akun ringkas yang hanya punya **Username** dan **Display Name**. Tamu tidak punya email, sandi, atau role, dan tidak bisa masuk ke situs. Mereka tetap bisa ikut party, mendapat EXP dan Gold saat Story selesai, serta muncul di daftar anggota. Lencana **Guest** hanya tampil di halaman Master (daftar **Party** lewat **Show more** dan jendela **Add member**), bukan di halaman publik.
 
 **Siapa yang melihat tombolnya:** role yang punya izin membuat tamu, yaitu **Dungeon Master** dan **Guild Master**. Tombol **Create guest** muncul di jendela **Add member** Story milikmu, selama kamu boleh menambah anggota.
 
 1. Di kartu **Party**, klik **Add member** (atau **Show more** lalu **Add**).
 2. Di jendela **Add member**, klik **Create guest**.
 3. Jendela berubah menjadi **Create guest** (**Create a guest adventurer and add them to this party**). Isi kedua kolom di bawah, lalu klik **Create & add**. Klik **Back** untuk kembali ke daftar tanpa membuat tamu.
+
+![Jendela Create guest berisi kolom Username dan Display Name yang sudah diisi, serta tombol Back dan Create & add](../images/dm-stories-guest-2.png)
 
 | Kolom | Wajib | Aturan |
 | --- | --- | --- |
@@ -330,7 +332,9 @@ Pesan yang mungkin muncul di kolom:
 | **A user with this username already exists** | Username itu sudah dipakai akun lain |
 | **Couldn't create guest.** | Pembuatan tamu gagal karena alasan lain |
 
-**Hasilnya:** muncul pesan **Guest created**, lalu tamu langsung ditambahkan ke party dengan pesan **Story members added**. Di kartu **Party**, namanya tampil dengan lencana **Guest**.
+**Hasilnya:** muncul pesan **Guest created**, lalu tamu langsung ditambahkan ke party dengan pesan **Story members added**. Tamu tampil di kartu **Party**. Klik **Show more** untuk melihat namanya bersama lencana **Guest**.
+
+![Jendela Party berisi Tamu Manual dengan lencana Guest](../images/dm-stories-guest-3.png)
 
 Kalau tamu itu sudah pernah dibuat sebelumnya, tidak perlu membuat lagi: cari namanya di jendela **Add member**, centang baris yang berlabel **Guest**, lalu klik **Add**.
 

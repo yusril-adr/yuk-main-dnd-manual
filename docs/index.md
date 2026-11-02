@@ -12,7 +12,7 @@ Panduan ini ditulis untuk tiga jenis pembaca:
 | Pemain (sudah punya akun) | Ikut Story, berkomentar di Tavern Talk, melihat Story-mu, cek saldo EXP dan Gold, ubah profil | [Mulai di sini](getting-started.md) |
 | Dungeon Master | Membuat, menerbitkan, dan menyelesaikan Story | [Ikhtisar Dungeon Master](dungeon-master/ikhtisar.md) |
 
-> **Catatan bahasa:** Situs YukMainDnD saat ini seluruhnya berbahasa Inggris. Panduan ini ditulis dalam Bahasa Indonesia, tetapi nama tombol, menu, dan pesan ditulis persis seperti yang tampil di layar, yaitu dalam bahasa Inggris.
+> **Catatan bahasa:** Situs YukMainDnD tersedia dalam bahasa Inggris dan Indonesia. Panduan ini menulis nama tombol seperti yang tampil saat bahasa Inggris dipilih. Kalau kamu memakai bahasa Indonesia, label di layar mengikuti bahasa itu, tetapi istilah permainan (misalnya **Story**, **EXP**, **Published**) tetap dalam bahasa Inggris. Cara mengganti bahasa: [Mengganti bahasa](getting-started.md#mengganti-bahasa).
 
 ## Daftar isi
 

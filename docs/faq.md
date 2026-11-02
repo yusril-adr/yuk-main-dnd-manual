@@ -82,9 +82,11 @@ Hanya kamu yang bisa mengubah komentarmu. Komentarmu bisa dihapus olehmu sendiri
 
 Komentar itu sudah dihapus, tapi masih punya balasan. Tempatnya dibiarkan supaya balasannya tetap bisa dibaca. Komentar itu tidak bisa dibalas atau diberi reaksi lagi.
 
-### Kenapa semua tulisan di situs berbahasa Inggris?
+### Bisakah saya mengganti bahasa situs?
 
-Situs YukMainDnD saat ini hanya tersedia dalam bahasa Inggris, dan belum ada pilihan untuk mengganti bahasa. Panduan ini menulis nama tombol persis seperti di layar supaya mudah kamu cocokkan.
+Bisa. YukMainDnD tersedia dalam bahasa Inggris dan Indonesia. Klik ikon bahasa di bilah atas (atau di pojok kanan atas halaman masuk dan **Switch Role**), lalu pilih **English** atau **Indonesia**. Langkah lengkapnya ada di [Mengganti bahasa](getting-started.md#mengganti-bahasa).
+
+Panduan ini menulis nama tombol seperti yang tampil saat bahasa Inggris dipilih, supaya mudah kamu cocokkan.
 
 ### Legends di Beranda dan di Guildmates kok berbeda?
 

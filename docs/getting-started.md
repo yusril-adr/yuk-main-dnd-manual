@@ -2,7 +2,7 @@
 
 Halaman ini membantumu masuk ke akun, keluar lagi, dan mengenal cara berpindah halaman di YukMainDnD.
 
-> Seluruh tampilan YukMainDnD saat ini berbahasa Inggris. Nama tombol di panduan ini ditulis persis seperti di layar.
+> Situs tersedia dalam bahasa Inggris dan Indonesia. Nama tombol di panduan ini ditulis seperti yang tampil saat bahasa Inggris dipilih. Kalau kamu memakai bahasa Indonesia, label mengikuti bahasa itu; istilah permainan tetap dalam bahasa Inggris. Lihat [Mengganti bahasa](#mengganti-bahasa).
 
 ## Masuk ke akun
 
@@ -38,6 +38,18 @@ Sesi masukmu tersimpan di peramban selama sekitar 7 hari. Setelah itu, atau kala
 
 **Hasilnya:** kamu keluar dari akun. Kalau saat itu kamu sedang di halaman khusus anggota, kamu diarahkan ke halaman masuk.
 
+
+## Mengganti bahasa
+
+YukMainDnD bisa ditampilkan dalam **English** atau **Indonesia**.
+
+1. Klik ikon bahasa (label aksesibilitasnya **Language**, atau **Bahasa** kalau situs sudah dalam bahasa Indonesia). Di bilah atas publik, ikonnya di sisi kanan bersama tombol **Log in** atau **Dashboard**. Di Dashboard, ikon yang sama ada di menu samping di sebelah logo. Di halaman masuk dan **Switch Role**, ikonnya di pojok kanan atas.
+2. Pilih **English** atau **Indonesia**. Pilihan yang sedang aktif tidak bisa diklik lagi.
+
+**Hasilnya:** label tombol, menu, pesan kesalahan, dan toast mengikuti bahasa yang kamu pilih. Angka dan tanggal ikut berubah (misalnya 1,500 di bahasa Inggris menjadi 1.500 di bahasa Indonesia). Pilihanmu diingat di peramban untuk kunjungan berikutnya. Bahasa bawaan adalah Inggris.
+
+Beberapa istilah tetap dalam bahasa Inggris di kedua mode, misalnya **Story**, **Party**, **Oneshot**, **Campaign**, **Published**, **EXP**, **GP**, **Gold**, **Online**/**Offline**, serta **Role**, **Username**, **Email**, dan **Password**. Nama dan deskripsi yang kamu (atau orang lain) tulis tidak diterjemahkan. Judul di tab peramban juga tetap dalam bahasa Inggris.
+
 ## Berpindah halaman
 
 ### Bilah atas (halaman publik)
@@ -46,7 +58,7 @@ Di setiap halaman publik ada bilah atas berisi:
 
 - logo **YukMainDnD** di kiri: kembali ke Beranda;
 - menu **Guildmates**, **Stories** (papan Story), **Events**, dan **Goods** di tengah. Menu halaman yang sedang kamu buka tampil berbingkai;
-- tombol merah **Log in** di kanan kalau kamu belum masuk, atau tombol **Dashboard** dan menu avatar kalau sudah.
+- ikon bahasa, lalu tombol merah **Log in** di kanan kalau kamu belum masuk, atau tombol **Dashboard** dan menu avatar kalau sudah. Lihat [Mengganti bahasa](#mengganti-bahasa).
 
 Di layar kecil (ponsel), menu ini disimpan di balik ikon tiga garis. Ketuk ikon itu untuk membuka panel **Menu**.
 
@@ -81,7 +93,7 @@ Bagian **Menu** berisi:
 
 Setelah masuk, klik **Dashboard** di bilah atas. Di Dashboard ada menu samping berisi:
 
-- logo **YukMainDnD** di paling atas,
+- logo **YukMainDnD** di paling atas, dengan ikon bahasa di sebelahnya,
 - **Dashboard**: halaman sambutan bertuliskan "Welcome, (namamu)".
 - **Board**: berisi **Stories** (membuka halaman **My Stories**, yaitu Story yang kamu ikuti), **Events**, dan **Goods**. Kelompok ini muncul kalau role aktifmu adalah Player.
 - **Master**: berisi **Stories**, tempat Dungeon Master mengelola Story. Kelompok ini muncul kalau role aktifmu adalah Dungeon Master (dan kelompok **Board** tidak tampil). Lihat [Ikhtisar Dungeon Master](dungeon-master/ikhtisar.md).

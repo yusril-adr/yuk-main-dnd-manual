@@ -46,6 +46,10 @@ YukMainDnD bisa ditampilkan dalam **English** atau **Indonesia**.
 1. Klik ikon bahasa (label aksesibilitasnya **Language**, atau **Bahasa** kalau situs sudah dalam bahasa Indonesia). Di bilah atas publik, ikonnya di sisi kanan bersama tombol **Log in** atau **Dashboard**. Di Dashboard, ikon yang sama ada di menu samping di sebelah logo. Di halaman masuk dan **Switch Role**, ikonnya di pojok kanan atas.
 2. Pilih **English** atau **Indonesia**. Pilihan yang sedang aktif tidak bisa diklik lagi.
 
+![Menu bahasa terbuka di bilah atas Beranda, berisi English (bertanda centang) dan Indonesia](images/pengunjung-bahasa-menu.png)
+
+![Menu bahasa terbuka di pojok kanan atas halaman masuk](images/pengunjung-bahasa-login.png)
+
 **Hasilnya:** label tombol, menu, pesan kesalahan, dan toast mengikuti bahasa yang kamu pilih. Angka dan tanggal ikut berubah (misalnya 1,500 di bahasa Inggris menjadi 1.500 di bahasa Indonesia). Pilihanmu diingat di peramban untuk kunjungan berikutnya. Bahasa bawaan adalah Inggris.
 
 Beberapa istilah tetap dalam bahasa Inggris di kedua mode, misalnya **Story**, **Party**, **Oneshot**, **Campaign**, **Published**, **EXP**, **GP**, **Gold**, **Online**/**Offline**, serta **Role**, **Username**, **Email**, dan **Password**. Nama dan deskripsi yang kamu (atau orang lain) tulis tidak diterjemahkan. Judul di tab peramban juga tetap dalam bahasa Inggris.

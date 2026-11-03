@@ -10,7 +10,6 @@
 | **Dungeon Master (DM)** | Pemandu cerita yang menjalankan Story |
 | **Hero** / **Player** | Pemain yang ikut dalam Story |
 | **Party** | Kelompok petualang yang bergabung dalam satu Story |
-| **Guest** / **Tamu** | Akun ringkas tanpa email, sandi, atau role. Dibuat DM lewat **Create guest** saat menambah anggota party. Tidak bisa login, tapi tetap bisa mendapat EXP dan Gold. Lencana **Guest** hanya tampil di halaman Master. Lihat [Menambahkan tamu (guest)](dungeon-master/story.md#menambahkan-tamu-guest). |
 | **Viewer** | Anggota party yang ikut sebagai penonton dan tidak menerima hadiah |
 | **Registered** / **Enlisted** | Sudah mendaftar di party, belum ditentukan hadir atau tidak |
 | **Attended** | Ditandai hadir saat Story diselesaikan, dan menerima hadiah |

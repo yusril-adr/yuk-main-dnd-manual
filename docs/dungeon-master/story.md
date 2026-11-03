@@ -280,6 +280,7 @@ Hadiah yang dibagikan otomatis saat Story selesai:
 | Siapa | Hadiah |
 | --- | --- |
 | Setiap anggota yang dicentang hadir | **1 Player EXP** (nilai **EXP Awarded** Story, yang selalu 1), ditambah Gold sebesar **Gold Awarded (GP)** kalau lebih dari 0 |
+| Tamu (**Guest**) yang dicentang hadir | Tidak mendapat EXP maupun Gold |
 | Kamu, penulis Story | 1 **DM EXP**, kecuali kamu sendiri ikut dan dicentang hadir sebagai pemain. Dalam hal itu kamu hanya mendapat hadiah pemain. |
 
 Semua hadiah ini tercatat di [Balances](../pemain/saldo.md) masing-masing.
@@ -305,7 +306,7 @@ Kalau petualang yang kamu cari belum punya akun, kamu bisa membuat tamu baru lew
 
 ### Menambahkan tamu (guest)
 
-**Apa itu tamu:** akun ringkas yang hanya punya **Username** dan **Display Name**. Tamu tidak punya email, sandi, atau role, dan tidak bisa masuk ke situs. Mereka tetap bisa ikut party, mendapat **1 Player EXP** kalau dicentang hadir saat Story selesai (sama seperti anggota lain), serta muncul di daftar anggota. Gold hanya ditambahkan kalau **Gold Awarded (GP)** Story itu lebih dari 0 (saat ini terkunci di 0). Lencana **Guest** hanya tampil di halaman Master (daftar **Party** lewat **Show more** dan jendela **Add member**), bukan di halaman publik.
+**Apa itu tamu:** akun ringkas yang hanya punya **Username** dan **Display Name**. Tamu tidak punya email, sandi, atau role, dan tidak bisa masuk ke situs. Mereka tetap bisa ikut party dan muncul di daftar anggota. Tamu **tidak** mendapat EXP maupun Gold (poin), meskipun dicentang hadir saat Story selesai. Lencana **Guest** hanya tampil di halaman Master (daftar **Party** lewat **Show more** dan jendela **Add member**), bukan di halaman publik.
 
 **Siapa yang melihat tombolnya:** role yang punya izin membuat tamu, yaitu **Dungeon Master** dan **Guild Master**. Tombol **Create guest** muncul di jendela **Add member** Story milikmu, selama kamu boleh menambah anggota.
 

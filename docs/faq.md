@@ -56,7 +56,7 @@ Bisa. Kamu bisa bergabung lewat tombol **Join the party** di halaman Story publi
 
 ### Apa itu Guest, dan kenapa tamu tidak bisa login?
 
-**Guest** (tamu) adalah akun ringkas yang hanya punya username dan nama tampilan. Tidak ada email, sandi, atau role, jadi tamu memang tidak bisa masuk ke situs. DM membuatnya lewat **Create guest** saat menambah anggota party, misalnya untuk pemain yang belum punya akun. Kalau dicentang hadir saat Story selesai, tamu mendapat **1 Player EXP** seperti anggota lain (Gold hanya kalau **Gold Awarded (GP)** lebih dari 0; saat ini terkunci di 0). Lihat [Menambahkan tamu (guest)](dungeon-master/story.md#menambahkan-tamu-guest).
+**Guest** (tamu) adalah akun ringkas yang hanya punya username dan nama tampilan. Tidak ada email, sandi, atau role, jadi tamu memang tidak bisa masuk ke situs. DM membuatnya lewat **Create guest** saat menambah anggota party, misalnya untuk pemain yang belum punya akun. Tamu **tidak** mendapat EXP maupun Gold, meskipun dicentang hadir saat Story selesai. Lihat [Menambahkan tamu (guest)](dungeon-master/story.md#menambahkan-tamu-guest).
 
 ### Kenapa EXP-ku berkurang?
 

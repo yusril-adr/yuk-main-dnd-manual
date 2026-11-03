@@ -54,6 +54,9 @@ Karena hadiah sudah flat: **EXP Awarded** selalu **1** dan **Gold Awarded (GP)**
 
 Bisa. Kamu bisa bergabung lewat tombol **Join the party** di halaman Story publik, atau menambahkan dirimu sendiri lewat **Add member**. Kamu dihitung dalam jatah pemain (**Max Members**). Kalau kamu dicentang hadir saat Story selesai, kamu mendapat hadiah pemain saja, tanpa 1 **DM EXP**. Lihat [Menyelesaikan Story dan membagi hadiah](dungeon-master/story.md#menyelesaikan-story-dan-membagi-hadiah).
 
+### Apa itu Guest, dan kenapa tamu tidak bisa login?
+
+**Guest** (tamu) adalah akun ringkas yang hanya punya username dan nama tampilan. Tidak ada email, sandi, atau role, jadi tamu memang tidak bisa masuk ke situs. DM membuatnya lewat **Create guest** saat menambah anggota party, misalnya untuk pemain yang belum punya akun. Kalau dicentang hadir saat Story selesai, tamu mendapat **1 Player EXP** seperti anggota lain (Gold hanya kalau **Gold Awarded (GP)** lebih dari 0; saat ini terkunci di 0). Lihat [Menambahkan tamu (guest)](dungeon-master/story.md#menambahkan-tamu-guest).
 
 ### Kenapa EXP-ku berkurang?
 

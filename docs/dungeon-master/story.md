@@ -292,14 +292,51 @@ Semua hadiah ini tercatat di [Balances](../pemain/saldo.md) masing-masing.
 
 1. Di kartu **Party**, klik **Add member** (kalau party masih kosong), atau klik **Show more** lalu **Add**.
 2. Jendela **Add member** terbuka berisi daftar petualang. Untuk mencari, ketik di kolom **Type minimum 3 characters to search ...**.
-3. Centang petualang yang ingin ditambahkan.
+3. Centang petualang yang ingin ditambahkan. Tamu yang sudah ada muncul di daftar yang sama dengan lencana **Guest**, dan bisa kamu centang seperti petualang biasa.
 4. Klik tombol tambah. Tulisannya berubah sesuai jumlah pilihanmu: **Add**, **Add 1 member**, atau misalnya "Add 3 members". Klik **Cancel** atau ikon silang untuk menutup tanpa menambah.
 
 Petualang yang sudah ada di party tidak muncul di daftar. Namamu sendiri juga ada di daftar selama kamu belum ikut, jadi kamu bisa ikut sebagai pemain di Story yang kamu tulis. Kalau ikut, kamu dihitung dalam jatah **Max Members** seperti anggota lain. Kalau pencarian tidak menemukan siapa pun, muncul **No adventurers match this search.**
 
-![Jendela Add member dengan kolom pencarian, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-members-1.png)
+Kalau petualang yang kamu cari belum punya akun, kamu bisa membuat tamu baru lewat **Create guest**. Lihat [Menambahkan tamu (guest)](#menambahkan-tamu-guest).
+
+![Jendela Add member dengan kolom pencarian, tombol Create guest, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-guest-1.png)
 
 **Hasilnya:** muncul pesan **Story members added**. Kalau tidak ada lagi yang bisa ditambahkan, muncul **No adventurers are available to join.**
+
+### Menambahkan tamu (guest)
+
+**Apa itu tamu:** akun ringkas yang hanya punya **Username** dan **Display Name**. Tamu tidak punya email, sandi, atau role, dan tidak bisa masuk ke situs. Mereka tetap bisa ikut party, mendapat **1 Player EXP** kalau dicentang hadir saat Story selesai (sama seperti anggota lain), serta muncul di daftar anggota. Gold hanya ditambahkan kalau **Gold Awarded (GP)** Story itu lebih dari 0 (saat ini terkunci di 0). Lencana **Guest** hanya tampil di halaman Master (daftar **Party** lewat **Show more** dan jendela **Add member**), bukan di halaman publik.
+
+**Siapa yang melihat tombolnya:** role yang punya izin membuat tamu, yaitu **Dungeon Master** dan **Guild Master**. Tombol **Create guest** muncul di jendela **Add member** Story milikmu, selama kamu boleh menambah anggota.
+
+1. Di kartu **Party**, klik **Add member** (atau **Show more** lalu **Add**).
+2. Di jendela **Add member**, klik **Create guest**.
+3. Jendela berubah menjadi **Create guest** (**Create a guest adventurer and add them to this party**). Isi kedua kolom di bawah, lalu klik **Create & add**. Klik **Back** untuk kembali ke daftar tanpa membuat tamu.
+
+![Jendela Create guest berisi kolom Username dan Display Name yang sudah diisi, serta tombol Back dan Create & add](../images/dm-stories-guest-2.png)
+
+| Kolom | Wajib | Aturan |
+| --- | --- | --- |
+| **Username** | Ya | Tidak boleh kosong, tidak boleh mengandung spasi, maksimal 50 karakter. Placeholder: **Input username**. |
+| **Display Name** | Ya | Tidak boleh kosong (harus ada karakter selain spasi), maksimal 100 karakter. Placeholder: **Input display name**. Kalau sebelum membuka **Create guest** kamu sudah mengetik minimal 3 karakter di kolom pencarian, teks itu bisa terisi otomatis di sini. |
+
+Pesan yang mungkin muncul di kolom:
+
+| Pesan | Artinya |
+| --- | --- |
+| **Username is required** | Username masih kosong |
+| **Username must not contain spaces** | Username mengandung spasi |
+| **Username must be at most 50 characters** | Username terlalu panjang |
+| **Display name is required** | Display Name kosong atau hanya spasi |
+| **Display name must be at most 100 characters** | Display Name terlalu panjang |
+| **A user with this username already exists** | Username itu sudah dipakai akun lain |
+| **Couldn't create guest.** | Pembuatan tamu gagal karena alasan lain |
+
+**Hasilnya:** muncul pesan **Guest created**, lalu tamu langsung ditambahkan ke party dengan pesan **Story members added**. Tamu tampil di kartu **Party**. Klik **Show more** untuk melihat namanya bersama lencana **Guest**.
+
+![Jendela Party berisi Tamu Manual dengan lencana Guest](../images/dm-stories-guest-3.png)
+
+Kalau tamu itu sudah pernah dibuat sebelumnya, tidak perlu membuat lagi: cari namanya di jendela **Add member**, centang baris yang berlabel **Guest**, lalu klik **Add**.
 
 ### Mengeluarkan anggota
 

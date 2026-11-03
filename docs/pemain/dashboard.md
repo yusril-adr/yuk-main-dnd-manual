@@ -66,7 +66,7 @@ Halaman **Story Detail** berisi:
 - **Adventure Info**:
   - **Game System** (atau **Any system**),
   - **Party Size**, misalnya "Up to 6 adventurers" (atau **No limit**),
-  - **Rewards**, misalnya "10 EXP · 50 GP" (atau **No rewards**),
+  - **Rewards**, misalnya "1 EXP" (atau **No rewards** kalau keduanya 0),
   - **Starts** (atau **Not scheduled yet**),
   - **Location · Online** atau **Location · Offline**, berisi detail tempat atau tautan. Kalau Dungeon Master menambahkan tautan peta, di bawahnya ada tautan **Open location map**.
   - **Discord Channel** (berlogo Discord), berisi tautan **Open Discord channel**. Baris ini hanya muncul kalau Dungeon Master menambahkan tautan channel Discord.

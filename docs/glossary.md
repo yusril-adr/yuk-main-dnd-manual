@@ -15,7 +15,7 @@
 | **Registered** / **Enlisted** | Sudah mendaftar di party, belum ditentukan hadir atau tidak |
 | **Attended** | Ditandai hadir saat Story diselesaikan, dan menerima hadiah |
 | **Player slots** / **Max Members** | Jumlah pemain yang dihadiahi saat Story selesai. Anggota lain tetap boleh ikut sebagai penonton. |
-| **EXP** | Poin pengalaman. Ada dua jenis: EXP pemain (**Player EXP**) dan EXP Dungeon Master (**DM EXP**). |
+| **EXP** | Poin pengalaman. Ada dua jenis: EXP pemain (**Player EXP**) dan EXP Dungeon Master (**DM EXP**). Hadiah Story flat: setiap pemain yang hadir mendapat **1 Player EXP**; penulis Story mendapat **1 DM EXP** (kecuali ia juga hadir sebagai pemain). DM tidak mengisi jumlahnya. |
 | **Gold** / **GP** (Gold Pieces) | Mata uang guild |
 | **Legends** | Tiga pemain dan tiga DM dengan tambahan EXP bersih (bertambah dikurangi berkurang) terbanyak dalam satu bulan. Yang bersihnya 0 atau kurang tidak masuk. |
 | **Kartu petualang** | Halaman profil publik seorang Guildmate, yang bisa dicetak |

@@ -44,11 +44,11 @@ Di detail Story (di **Board** maupun **Master**), klik alamat pendek Story di ba
 
 ### Kapan aku mendapat EXP dan Gold?
 
-Saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir, kamu menerima hadiah Story itu: **Player EXP** (1 untuk Story baru) dan Gold kalau Story itu memberi Gold. Dungeon Master yang menulis Story mendapat 1 **DM EXP** secara otomatis, kecuali ia juga hadir sebagai pemain; dalam hal itu ia hanya mendapat hadiah pemain. Semua catatannya bisa kamu lihat di [Saldo](pemain/saldo.md).
+Saat Dungeon Master menyelesaikan sebuah Story dan menandaimu hadir, kamu menerima **1 Player EXP**. Gold hanya ditambahkan kalau **Gold Awarded (GP)** Story itu lebih dari 0 (saat ini kolom itu terkunci di 0). Dungeon Master yang menulis Story mendapat 1 **DM EXP** secara otomatis, kecuali ia juga hadir sebagai pemain; dalam hal itu ia hanya mendapat hadiah pemain. Jumlah EXP tidak diatur Dungeon Master: selalu flat 1. Semua catatannya bisa kamu lihat di [Saldo](pemain/saldo.md).
 
 ### Kenapa aku tidak bisa mengisi EXP Awarded dan Gold Awarded saat membuat Story?
 
-Hadiah Story kini dibakukan: **EXP Awarded** selalu 1 dan **Gold Awarded (GP)** selalu 0, jadi kedua kolom itu terkunci. Klik ikon tanda tanya ![ikon tanda tanya](images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah labelnya untuk membaca penjelasannya. Lihat [Hadiah Story yang sudah dibakukan](dungeon-master/story.md#hadiah-story-yang-sudah-dibakukan).
+Karena hadiah sudah flat: **EXP Awarded** selalu **1** dan **Gold Awarded (GP)** selalu **0**. Dungeon Master tidak mengisi jumlahnya; kedua kolom itu terkunci. Klik ikon tanda tanya ![ikon tanda tanya](images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah labelnya untuk membaca penjelasannya. Lihat [Hadiah Story yang sudah dibakukan](dungeon-master/story.md#hadiah-story-yang-sudah-dibakukan).
 
 ### Bisakah Dungeon Master ikut bermain di Story yang ia tulis?
 

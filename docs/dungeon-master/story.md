@@ -144,10 +144,10 @@ Kalau kamu mengisi jam tanpa memilih tanggal, tanggalnya otomatis hari ini.
 
 ### Hadiah Story yang sudah dibakukan
 
-Kolom **EXP Awarded** dan **Gold Awarded (GP)** tampil abu-abu dan tidak bisa diisi. Hadiah Story kini sama untuk semua Story:
+Dungeon Master **tidak lagi** mengisi jumlah EXP atau Gold. Kolom **EXP Awarded** dan **Gold Awarded (GP)** tampil abu-abu dan tidak bisa diisi. Hadiah Story sama untuk semua Story:
 
-- **EXP Awarded** selalu 1: setiap pemain yang hadir mendapat 1 EXP per Story.
-- **Gold Awarded (GP)** selalu 0.
+- **EXP Awarded** selalu **1**: setiap pemain yang hadir mendapat 1 **Player EXP** per Story.
+- **Gold Awarded (GP)** selalu **0**.
 
 Klik ikon tanda tanya ![ikon tanda tanya](../images/icons/circle-help.svg){ width="18" style="vertical-align: text-bottom" } di sebelah label untuk membaca penjelasannya. Jendela kecil berjudul **Standardized reward** terbuka:
 
@@ -197,7 +197,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
 1. Di detail Story, klik **Edit** (atau pilih **Edit** dari ikon titik tiga di kartu).
 2. Halaman **Edit Story** terbuka dengan isian yang sudah terisi data Story-mu. Kolomnya sama dengan form membuat Story. Ubah yang perlu.
    - Untuk menghapus tautan peta, Discord, atau formulir umpan balik, kosongkan kolom **Location Link**, **Discord Channel Link**, atau **Feedback Form Link**. Setelah disimpan, tautannya hilang dari detail Story.
-   - Kolom **EXP Awarded** dan **Gold Awarded (GP)** terkunci dan selalu menunjukkan 1 dan 0. Menyimpan perubahan tidak mengubah hadiah yang sudah tercatat di Story itu, jadi Story lama yang dulu diberi hadiah lain tetap memakai hadiah lamanya. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan).
+   - Kolom **EXP Awarded** dan **Gold Awarded (GP)** terkunci dan selalu menunjukkan **1** dan **0**. Kamu tidak bisa mengubahnya. Menyimpan perubahan tidak mengirim nilai hadiah baru, jadi angka yang sudah tercatat di Story itu tetap. Lihat [Hadiah Story yang sudah dibakukan](#hadiah-story-yang-sudah-dibakukan).
 3. Klik **Save**.
 
 ![Bagian bawah halaman Edit Story: Type, Game System, Max Members, EXP Awarded (1) dan Gold Awarded (GP) (0) yang terkunci, Start At, Location, Discord Channel Link, status Published, serta tombol Cancel dan Save](../images/dm-stories-edit-1.png)
@@ -279,7 +279,7 @@ Hadiah yang dibagikan otomatis saat Story selesai:
 
 | Siapa | Hadiah |
 | --- | --- |
-| Setiap anggota yang dicentang hadir | **Player EXP** sebesar **EXP Awarded** Story (1 untuk Story baru), ditambah Gold sebesar **Gold Awarded (GP)** kalau lebih dari 0 |
+| Setiap anggota yang dicentang hadir | **1 Player EXP** (nilai **EXP Awarded** Story, yang selalu 1), ditambah Gold sebesar **Gold Awarded (GP)** kalau lebih dari 0 |
 | Kamu, penulis Story | 1 **DM EXP**, kecuali kamu sendiri ikut dan dicentang hadir sebagai pemain. Dalam hal itu kamu hanya mendapat hadiah pemain. |
 
 Semua hadiah ini tercatat di [Balances](../pemain/saldo.md) masing-masing.

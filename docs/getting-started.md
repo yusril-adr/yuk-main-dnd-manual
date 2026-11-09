@@ -14,7 +14,7 @@ Halaman ini membantumu masuk ke akun, keluar lagi, dan mengenal cara berpindah h
 4. Isi **Password** (kolomnya bertuliskan **Enter password**). Klik ikon mata di ujung kolom untuk menampilkan atau menyembunyikan sandi yang kamu ketik.
 5. Klik **Login**.
 
-![Halaman masuk dengan kolom Username/Email, Password, tombol Login, dan ikon bahasa di pojok kanan atas](images/mulai-login-1.png)
+![Halaman masuk dengan kolom Username/Email, Password, tombol Login, serta ikon bahasa dan ikon tema di pojok kanan atas](images/mulai-login-1.png)
 
 | Kolom | Wajib | Aturan |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ YukMainDnD bisa ditampilkan dalam **English** atau **Indonesia**.
 
 ![Menu bahasa terbuka di bilah atas Beranda, berisi English (bertanda centang) dan Indonesia](images/pengunjung-bahasa-menu.png)
 
-![Menu bahasa terbuka di pojok kanan atas halaman masuk](images/pengunjung-bahasa-login.png)
+![Menu bahasa terbuka di pojok kanan atas halaman masuk, di samping ikon tema](images/pengunjung-bahasa-login.png)
 
 **Hasilnya:** label tombol, menu, pesan kesalahan, dan toast mengikuti bahasa yang kamu pilih. Angka dan tanggal ikut berubah (misalnya 1,500 di bahasa Inggris menjadi 1.500 di bahasa Indonesia). Pilihanmu diingat di peramban untuk kunjungan berikutnya. Bahasa bawaan adalah Inggris.
 
@@ -75,7 +75,7 @@ Di setiap halaman publik ada bilah atas berisi:
 
 Di layar kecil (ponsel), menu ini disimpan di balik ikon tiga garis. Ketuk ikon itu untuk membuka panel **Menu**.
 
-![Bilah atas berisi logo YukMainDnD, menu Guildmates, Stories, Events, Goods, ikon bahasa, dan tombol Log in](images/mulai-navigasi-1.png)
+![Bilah atas berisi logo YukMainDnD, menu Guildmates, Stories, Events, Goods, ikon bahasa, ikon tema, dan tombol Log in](images/mulai-navigasi-1.png)
 
 Di bagian paling bawah setiap halaman publik ada catatan kecil **© 2026 YukMainDnD · Crafted by Yonaka**. Nama **Yonaka** adalah tautan yang terbuka di tab baru.
 
@@ -83,7 +83,7 @@ Di bagian paling bawah setiap halaman publik ada catatan kecil **© 2026 YukMain
 
 Setelah masuk, bilah atas menampilkan tombol merah **Dashboard** dan nama serta fotomu di pojok kanan atas. Klik nama dan fotomu untuk membuka menu avatar. Menu avatar juga ada di kartu nama di bagian bawah menu samping Dashboard (klik ikon titik tiga di kartu itu).
 
-![Menu avatar terbuka di pojok kanan atas, berisi Stats dan Menu: Switch Role, Profile, Balances, Settings, Log out](images/pemain-menu-avatar-1.png)
+![Menu avatar terbuka di pojok kanan atas, berisi Stats dan Menu: Switch Role, Profile, Balances, Settings, Manual, Log out](images/pemain-menu-avatar-1.png)
 
 Bagian **Stats** menampilkan:
 
@@ -100,6 +100,7 @@ Bagian **Menu** berisi:
 | **Profile** | Membuka kartu petualangmu sendiri. [Lihat panduan](pemain/profil-dan-pengaturan.md) |
 | **Balances** | Riwayat EXP dan Gold-mu. [Lihat panduan](pemain/saldo.md) |
 | **Settings** | Mengubah profil dan sandi. [Lihat panduan](pemain/profil-dan-pengaturan.md) |
+| **Manual** | Membuka panduan pengguna ini di tab baru |
 | **Log out** | Keluar dari akun |
 
 ### Menu samping (Dashboard)
@@ -119,7 +120,7 @@ Menu yang sedang kamu buka tampil berwarna. Klik ikon panel di pojok kiri atas a
 
 > Dashboard hanya bisa dibuka kalau kamu sudah memilih role. Kalau belum, kamu otomatis dibawa ke halaman **Switch Role** dulu. Lihat [Memilih role](pemain/ganti-role.md).
 
-![Dashboard dengan menu samping berisi Dashboard, kelompok Board (Stories, Events, Goods), dan kartu nama di bagian bawah](images/mulai-navigasi-3.png)
+![Dashboard mode terang dengan menu samping cokelat gelap berisi Dashboard, kelompok Board (Stories, Events, Goods), ikon bahasa dan tema di sebelah logo, serta kartu nama di bagian bawah](images/mulai-navigasi-3.png)
 
 ### Jejak halaman (breadcrumb)
 

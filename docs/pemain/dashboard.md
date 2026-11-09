@@ -10,7 +10,7 @@
 
 Kamu akan melihat judul **Dashboard** dan sapaan **Welcome, (namamu)**. Gunakan menu samping untuk membuka bagian lain. Lihat [Berpindah halaman](../getting-started.md#berpindah-halaman).
 
-![Halaman Dashboard dengan sapaan Welcome dan menu samping](../images/pemain-dashboard-1.png)
+![Halaman Dashboard mode terang dengan sapaan Welcome, role Player, dan menu samping cokelat gelap berisi Board](../images/pemain-dashboard-1.png)
 
 ## Story-ku (My Stories)
 

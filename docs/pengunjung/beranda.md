@@ -38,7 +38,7 @@ Klik **See all stories** untuk membuka papan Story lengkap.
 
 Kalau belum ada Story, kamu akan melihat pesan **No stories are posted on the board right now. Check back soon.**
 
-![Bagian Open stories berisi kartu Story dan tombol See all stories, lalu judul Legends of September](../images/pengunjung-beranda-2.png)
+![Bagian Life in the guild berisi foto kegiatan yang bisa digeser, lalu awal ajakan Ready for your first story?](../images/pengunjung-beranda-2.png)
 
 ### 4. Legends bulan lalu
 
@@ -65,9 +65,12 @@ Kumpulan foto kegiatan guild yang bisa digeser.
 
 ### 6. Ready for your first story?
 
-Ajakan penutup bertuliskan **Ready for your first story?** dan **The tavern is warm and a seat is waiting for you.**, dengan satu tombol: **Join the guild** (kalau belum masuk) atau **Find a story** (kalau sudah masuk, membuka papan Story).
+Ajakan penutup bertuliskan **Ready for your first story?** dan **The tavern is warm and a seat is waiting for you.**, dengan:
 
-![Foto kegiatan guild yang bisa digeser, ajakan Ready for your first story? dengan tombol Join the guild, dan catatan kaki situs](../images/mulai-navigasi-2.png)
+- tombol **Join the guild** (kalau belum masuk) atau **Find a story** (kalau sudah masuk, membuka papan Story);
+- tautan **New here? Read the manual** di sebelahnya, yang membuka panduan pengguna ini di tab baru.
+
+![Ajakan Ready for your first story? dengan tombol Join the guild, tautan New here? Read the manual, dan catatan kaki situs](../images/mulai-navigasi-2.png)
 
 ## Kalau ada bagian yang gagal dimuat
 

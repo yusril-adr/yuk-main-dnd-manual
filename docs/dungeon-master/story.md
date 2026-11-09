@@ -82,7 +82,7 @@ Klik ikon titik tiga (**Story actions**) di kartu. Untuk Story milik DM lain, pi
 
 Klik **Cancel** untuk kembali tanpa menyimpan.
 
-![Form Create Story dengan Banner, Title, Description, Type, Game System, Max Members, serta EXP Awarded (1) dan Gold Awarded (GP) (0) yang terkunci](../images/dm-stories-create-1.png)
+![Form Create Story menampilkan Title, Description, Type, Game System, Max Members, serta EXP Awarded (1) dan Gold Awarded (GP) (0) yang terkunci; kolom Banner ada di atas Title dan tidak terlihat di screenshot ini](../images/dm-stories-create-1.png)
 
 | Kolom | Wajib | Aturan |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ Di bawah **Location Detail** ada tiga kolom tambahan yang boleh dikosongkan:
 
 Ketiga tautan harus diawali **https://** (tautan **http://** ditolak) dan paling panjang 255 karakter. Tautan Discord hanya diterima dari discord.com, discord.gg, atau discordapp.com.
 
-![Bagian lokasi di form Create Story: Location Type, Location Detail, Location Link, dan Discord Channel Link yang sudah terisi, dengan tombol Cancel, Save as Draft, dan Publish](../images/dm-stories-create-links.png)
+![Bagian bawah form Create Story: Location Type, Location Detail, Location Link, Discord Channel Link, dan Feedback Form Link yang sudah terisi, dengan tombol Cancel, Save as Draft, dan Publish](../images/dm-stories-create-links.png)
 
 **Hasilnya:** setelah Story disimpan, tautan **Open location map** muncul di bawah keterangan lokasi, baris **Discord Channel** dengan tautan **Open Discord channel** muncul di detail Story, dan baris **Feedback Form** dengan tautan **Open feedback form** muncul di bawahnya. Semuanya tampil di detail Story milikmu, di detail Story pemain yang bergabung, dan di halaman Story publik, lalu terbuka di tab baru. Kalau kolomnya dikosongkan, tautannya tidak ditampilkan.
 
@@ -190,7 +190,7 @@ Isinya sama dengan [detail Story di Board](../pemain/dashboard.md#detail-story-d
 
 > Bagian di bawah ini (mengubah, mengubah status, menyelesaikan, dan mengatur anggota) hanya berlaku untuk **Story yang kamu tulis sendiri**.
 
-![Story Detail milikmu sendiri berstatus Draft, dengan tombol Edit, Publish, Archive, dan Delete di kanan atas, serta Open location map dan Discord Channel di Adventure Info](../images/dm-stories-detail-2.png)
+![Story Detail milikmu sendiri berstatus Published, dengan tombol Edit, Complete, Archive, Cancel, dan Delete di kanan atas, serta Open location map dan Discord Channel di Adventure Info](../images/dm-stories-detail-2.png)
 
 ## Mengubah Story
 
@@ -300,7 +300,7 @@ Petualang yang sudah ada di party tidak muncul di daftar. Namamu sendiri juga ad
 
 Kalau petualang yang kamu cari belum punya akun, kamu bisa membuat tamu baru lewat **Create guest**. Lihat [Menambahkan tamu (guest)](#menambahkan-tamu-guest).
 
-![Jendela Add member dengan kolom pencarian, tombol Create guest, daftar petualang yang bisa dicentang, serta tombol Cancel dan Add](../images/dm-stories-guest-1.png)
+![Jendela Add member dengan kolom pencarian, tombol Create guest, daftar petualang (beberapa berlabel Guest), serta tombol Cancel dan Add](../images/dm-stories-guest-1.png)
 
 **Hasilnya:** muncul pesan **Story members added**. Kalau tidak ada lagi yang bisa ditambahkan, muncul **No adventurers are available to join.**
 

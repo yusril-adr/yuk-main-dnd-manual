@@ -66,7 +66,7 @@ Setiap halaman memuat 12 Story. Di bawah daftar ada tulisan seperti "Showing 1â€
 
 **Cara membuka:** klik judul Story di papan Story, di Beranda, atau di kartu petualang seseorang.
 
-![Detail Story dengan label Recruiting, Campaign, Offline, panel The Quest Scroll berisi Open location map dan Discord channel, serta tombol Join the party](../images/pengunjung-quest-detail-1.png)
+![Detail Story Test Manual dengan label Recruiting, One-shot, Offline, panel The Quest Scroll berisi Open location map, Discord channel, dan Open feedback form, serta tombol Join the party](../images/pengunjung-quest-detail-1.png)
 
 Halaman ini berisi:
 

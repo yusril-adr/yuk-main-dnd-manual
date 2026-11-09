@@ -17,7 +17,7 @@ Dengan role Dungeon Master, menu samping Dashboard berisi:
 - kelompok **Master** dengan satu menu: **Stories**, tempat kamu mengelola Story,
 - kartu nama di bagian bawah untuk membuka menu avatar.
 
-![Dashboard dengan menu samping Dungeon Master: Dashboard dan kelompok Master berisi Stories](../images/dm-navigasi-1.png)
+![Dashboard mode terang dengan menu samping cokelat gelap Dungeon Master: Dashboard dan kelompok Master berisi Stories, serta ikon bahasa dan tema di sebelah logo](../images/dm-navigasi-1.png)
 
 > **Perlu kamu tahu:** Kelompok **Board** (halaman **My Stories**, **Events**, **Goods**) tidak tampil saat role Dungeon Master aktif. Untuk melihat Story yang kamu ikuti sebagai pemain, ganti dulu ke role Player.
 

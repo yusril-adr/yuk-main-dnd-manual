@@ -92,6 +92,10 @@ Bisa. YukMainDnD tersedia dalam bahasa Inggris dan Indonesia. Klik ikon bahasa d
 
 Panduan ini menulis nama tombol seperti yang tampil saat bahasa Inggris dipilih, supaya mudah kamu cocokkan.
 
+### Bisakah saya mengganti tema menjadi gelap?
+
+Bisa. Klik ikon tema (label aksesibilitasnya **Toggle theme**) di bilah atas, di menu samping Dashboard, atau di pojok kanan atas halaman masuk dan **Switch Role**, lalu pilih **Light**, **Dark**, atau **System**. **System** mengikuti pengaturan perangkatmu. Langkah lengkapnya ada di [Mengganti tema (terang/gelap)](getting-started.md#mengganti-tema-teranggelap).
+
 ### Legends di Beranda dan di Guildmates kok berbeda?
 
 Itu memang berbeda: Beranda menampilkan Legends **bulan lalu**, sedangkan halaman Guildmates menampilkan Legends **bulan ini** ("so far").
